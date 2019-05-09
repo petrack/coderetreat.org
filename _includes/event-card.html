@@ -12,7 +12,7 @@
           {{ event.location.city }} ({{ event.location.country }})
       {% endif %}
     </h3>
-    <p>🗓️ <strong>{{ event.datetime | date: "%a, %B %d, %H:%M" }}</strong></p>
+    <p>🗓️ <strong>{{ event.datetime | default: page.datetime | date: "%a, %B %d, %H:%M" }}</strong></p>
     <p>👥 <strong>Facilitator(s)</strong>: {% include event-moderators.html %}</p>
     <p>💰 <strong>Sponsor(s)</strong>: {% include event-sponsors.html %}</p>
   </div>
