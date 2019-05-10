@@ -4,8 +4,7 @@ const path = require("path");
 const jsdom = require("jsdom");
 const { JSDOM } = jsdom;
 
-var data = JSON.parse(fs.readFileSync(path.resolve('_data/past-events/', 'gdcr15.json'), 'utf8').toString());
-console.log(data.length);  
+var data = JSON.parse(fs.readFileSync(path.resolve('_data/past-events/', 'gdcr13.json'), 'utf8').toString());
 
 jsonMapper(data, {
 	'title': 'title',
@@ -58,15 +57,16 @@ jsonMapper(data, {
 					
 					const anchor = new JSDOM('<!DOCTYPE html>' + organizedBy).window.document.querySelector('a');
 					const text = anchor ? anchor.textContent : organizedBy;					
-					const organizers = text.split(/, | &amp; | and | - | along in association with /);
+					// console.log(text);
+					const organizers = text.split(/, | &amp; | and |\/| \/ | - | along in association with /);
 					organizers.push(value.addedBy)
 					var uniqueOrganizers = Array.from(new Set(organizers))
-					// console.log(uniqueOrganizers);
+					console.log(uniqueOrganizers);
 					return uniqueOrganizers.map((name) => {return {'name': name}});
 				}
 			}
 		}
 	}
 }).then((result) => {
-  // console.log(JSON.stringify(result, null, 2));
+  console.log(JSON.stringify(result, null, 2));
 });
