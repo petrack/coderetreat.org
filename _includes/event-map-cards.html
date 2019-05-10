@@ -1,5 +1,9 @@
 <div>
     Go to year: 
+    <a href="/events/2013/{{page.event_type}}/cards/">2013</a> - 
+    <a href="/events/2014/{{page.event_type}}/cards/">2014</a> - 
+    <a href="/events/2015/{{page.event_type}}/cards/">2015</a> - 
+    <a href="/events/2016/{{page.event_type}}/cards/">2016</a> - 
     <a href="/events/2017/{{page.event_type}}/cards/">2017</a> - 
     <a href="/events/2018/{{page.event_type}}/cards/">2018</a> - 
     <a href="/events/2019/{{page.event_type}}/cards/">2019</a>
@@ -32,7 +36,7 @@
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center">
 
-    {% assign events = (all_events | where_exp: 'name', '1'  | sort: 'datetime') %}
+    {% assign events = (all_events | where_exp: 'name', '1'  | default: {} | sort: 'datetime') %}
     {% for event in events %}
         {% include event-card.html %}
     {% endfor %}
