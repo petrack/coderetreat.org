@@ -4,9 +4,13 @@ const path = require("path");
 const jsdom = require("jsdom");
 const { JSDOM } = jsdom;
 
-var data = JSON.parse(fs.readFileSync(path.resolve('_data/past-events/', 'gdcr13.json'), 'utf8').toString());
+var data = JSON.parse(fs.readFileSync(path.resolve('_data/past-events/', 'gdcr16.json'), 'utf8').toString());
 
 jsonMapper(data, {
+	'datetime': {
+		path: '$empty',
+		formatting: () => { return '2016-10-22 09:00:00' }
+	},
 	'title': 'title',
 	'url': {
 		path: 'details',
@@ -43,30 +47,35 @@ jsonMapper(data, {
 					}
 				 }
 			},
-			'moderators': {
-				path: '$item',
-				formatting: (value) => {
-					const details = value.details;
-					const length = "Organized By: ".length;
-					const index = details.indexOf("Organized By");
-					const end = details.indexOf("<br />", index);
-					const organizedBy = details.substring(index + length, end);
-					
-					if (index == -1) 
-						return "";
-					
-					const anchor = new JSDOM('<!DOCTYPE html>' + organizedBy).window.document.querySelector('a');
-					const text = anchor ? anchor.textContent : organizedBy;					
-					// console.log(text);
-					const organizers = text.split(/, | &amp; | and |\/| \/ | - | along in association with /);
-					organizers.push(value.addedBy)
-					var uniqueOrganizers = Array.from(new Set(organizers))
-					console.log(uniqueOrganizers);
-					return uniqueOrganizers.map((name) => {return {'name': name}});
-				}
-			}
+		}
+	},
+	'moderators': {
+		path: '$item',
+		formatting: (value) => {
+			const details = value.details;
+			const length = "Organized By: ".length;
+			const index = details.indexOf("Organized By");
+			const end = details.indexOf("<br />", index);
+			const organizedBy = details.substring(index + length, end);
+			
+			if (index == -1) 
+				return "";
+			
+			const anchor = new JSDOM('<!DOCTYPE html>' + organizedBy).window.document.querySelector('a');
+			const text = anchor ? anchor.textContent : organizedBy;					
+			// console.log(text);
+			const organizers = text.split(/, | &amp; | and |\/| \/ | - | along in association with /);
+			organizers.push(value.addedBy)
+			var uniqueOrganizers = Array.from(new Set(organizers))
+			// console.log(uniqueOrganizers);
+			return uniqueOrganizers.map((name) => {return {'name': name}});
 		}
 	}
 }).then((result) => {
-  console.log(JSON.stringify(result, null, 2));
+	console.log('Generating individual event json files...');
+	result.forEach((event) => {
+		const eventJsonString = JSON.stringify(event, null, 2);
+		fs.writeFile(event.title.replace('/', '') + '.json', eventJsonString, 'utf8', () => {});
+	})
+	console.log('Done!');
 });
