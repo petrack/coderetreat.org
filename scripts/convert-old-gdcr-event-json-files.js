@@ -9,7 +9,21 @@ console.log(data.length);
 
 jsonMapper(data, {
 	'title': 'title',
-	'url': 'url',
+	'url': {
+		path: 'details',
+		formatting: (value, indexInArray) => {
+			const length = "Website or Map: ".length;
+			const index = value.indexOf("Website or Map: ");
+			const end = value.indexOf("<br />", index);
+			const websiteOrMap = value.substring(index + length, end);
+			
+			if (index == -1) 
+				return "";
+
+			var anchor = new JSDOM('<!DOCTYPE html>' + websiteOrMap).window.document.querySelector('a');
+			return anchor.getAttribute("href");
+		}
+	},
 	'location' : {
 		path: '$empty',
 		nested: { 
@@ -30,26 +44,29 @@ jsonMapper(data, {
 					}
 				 }
 			},
-			'addedBy': 'addedBy',
-			'organizedBy': {
-				path: 'details',
-				formatting: (value, indexInArray) => {
+			'moderators': {
+				path: '$item',
+				formatting: (value) => {
+					const details = value.details;
 					const length = "Organized By: ".length;
-					const index = value.indexOf("Organized By");
-					const end = value.indexOf("<br />", index);
-					const organizedBy = value.substring(index + length, end);
-
-					var anchor = new JSDOM('<!DOCTYPE html>' + organizedBy).window.document.querySelector('a');
-					if (index == -1) console.log(organizedBy, index);
-	
+					const index = details.indexOf("Organized By");
+					const end = details.indexOf("<br />", index);
+					const organizedBy = details.substring(index + length, end);
+					
+					if (index == -1) 
+						return "";
+					
+					const anchor = new JSDOM('<!DOCTYPE html>' + organizedBy).window.document.querySelector('a');
 					const text = anchor ? anchor.textContent : organizedBy;					
-					console.log(text);
-					return text.split(/, | &amp; | and | - | along in association with /);
+					const organizers = text.split(/, | &amp; | and | - | along in association with /);
+					organizers.push(value.addedBy)
+					var uniqueOrganizers = Array.from(new Set(organizers))
+					// console.log(uniqueOrganizers);
+					return uniqueOrganizers.map((name) => {return {'name': name}});
 				}
 			}
 		}
 	}
 }).then((result) => {
   // console.log(JSON.stringify(result, null, 2));
-  
 });
