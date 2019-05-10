@@ -1,0 +1,26 @@
+{
+  "datetime": "2016-10-22 09:00:00",
+  "title": "Global Day of Coderetreat 2016 - Muenster, Germany",
+  "url": "https://goo.gl/maps/q3QZPs5VLaF2",
+  "location": {
+    "city": "Muenster",
+    "country": "Germany",
+    "timezone": "Europe/Berlin",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 51.9606649,
+      "longitude": 7.6261347
+    }
+  },
+  "moderators": [
+    {
+      "name": "Peter Fichtner"
+    },
+    {
+      "name": "Fiducia"
+    },
+    {
+      "name": "GAD IT AG"
+    }
+  ]
+}

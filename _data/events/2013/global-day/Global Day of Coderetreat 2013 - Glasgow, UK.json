@@ -1,0 +1,20 @@
+{
+  "datetime": "2013-12-14 09:00:00",
+  "title": "Global Day of Coderetreat 2013 - Glasgow, UK",
+  "url": "http://www.2westregentstreet.com/",
+  "location": {
+    "city": "Glasgow",
+    "country": "UK",
+    "timezone": "Europe/London",
+    "utcOffset": 1,
+    "coordinates": {
+      "latitude": 55.864237,
+      "longitude": -4.251806
+    }
+  },
+  "moderators": [
+    {
+      "name": "martin steel"
+    }
+  ]
+}

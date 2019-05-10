@@ -1,0 +1,20 @@
+{
+  "datetime": "2016-10-22 09:00:00",
+  "title": "Global Day of Coderetreat 2016 - Gauteng, South Africa",
+  "url": "https://www.google.co.za/maps/place/280+Champion+St,+Midrand,+1684/@-25.9355497,28.0592326,17z/data=!3m1!4b1!4m5!3m4!1s0x1e957081b72ec84f:0x68b9993732843229!8m2!3d-25.9355497!4d28.0614213?hl=en",
+  "location": {
+    "city": "Gauteng",
+    "country": "South Africa",
+    "timezone": "Africa/Johannesburg",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": -26.2707593,
+      "longitude": 28.1122679
+    }
+  },
+  "moderators": [
+    {
+      "name": "Barry Tandy"
+    }
+  ]
+}

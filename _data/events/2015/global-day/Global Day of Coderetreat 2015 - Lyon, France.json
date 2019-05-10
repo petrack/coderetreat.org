@@ -1,0 +1,26 @@
+{
+  "datetime": "2015-11-14 09:00:00",
+  "title": "Global Day of Coderetreat 2015 - Lyon, France",
+  "url": "https://www.eventbrite.fr/e/inscription-global-code-retreat-lyon-novembre-2015-18713154549",
+  "location": {
+    "city": "Lyon",
+    "country": "France",
+    "timezone": "Europe/Paris",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 45.764043,
+      "longitude": 4.835659
+    }
+  },
+  "moderators": [
+    {
+      "name": "CARA Lyon"
+    },
+    {
+      "name": "Coding Dojo"
+    },
+    {
+      "name": "Florent PELLET"
+    }
+  ]
+}

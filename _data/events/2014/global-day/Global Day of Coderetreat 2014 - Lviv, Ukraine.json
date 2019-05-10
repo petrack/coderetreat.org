@@ -1,0 +1,23 @@
+{
+  "datetime": "2014-11-15 09:00:00",
+  "title": "Global Day of Coderetreat 2014 - Lviv, Ukraine",
+  "url": "http://betaplace.com.ua",
+  "location": {
+    "city": "Lviv",
+    "country": "Ukraine",
+    "timezone": "Europe/Kiev",
+    "utcOffset": 3,
+    "coordinates": {
+      "latitude": 49.839683,
+      "longitude": 24.029717
+    }
+  },
+  "moderators": [
+    {
+      "name": "Dariya Sulimova"
+    },
+    {
+      "name": "Taras Budurovych"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "datetime": "2013-12-14 09:00:00",
+  "title": "Global Day of Coderetreat 2013 - Reston, VA, USA",
+  "url": "https://maps.google.com/maps?saddr=&daddr=1881+Campus+Commons+Dr.+Suite+205+Reston%2C+VA+20191",
+  "location": {
+    "city": "Reston, VA",
+    "country": "USA",
+    "timezone": "America/New_York",
+    "utcOffset": -4,
+    "coordinates": {
+      "latitude": 38.9586307,
+      "longitude": -77.35700279999999
+    }
+  },
+  "moderators": [
+    {
+      "name": "Andrew Wagner"
+    }
+  ]
+}

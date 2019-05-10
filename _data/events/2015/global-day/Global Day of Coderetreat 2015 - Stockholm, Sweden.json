@@ -1,0 +1,23 @@
+{
+  "datetime": "2015-11-14 09:00:00",
+  "title": "Global Day of Coderetreat 2015 - Stockholm, Sweden",
+  "url": "",
+  "location": {
+    "city": "Stockholm",
+    "country": "Sweden",
+    "timezone": "Europe/Stockholm",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 59.32932349999999,
+      "longitude": 18.0685808
+    }
+  },
+  "moderators": [
+    {
+      "name": "Thomas Sundberg"
+    },
+    {
+      "name": "Jesper Gradin"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "datetime": "2015-11-14 09:00:00",
+  "title": "Global Day of Coderetreat 2015 - Cape Town, South Africa",
+  "url": "http://informationlogistics.co.za/place",
+  "location": {
+    "city": "Cape Town",
+    "country": "South Africa",
+    "timezone": "Africa/Johannesburg",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": -33.9248685,
+      "longitude": 18.4240553
+    }
+  },
+  "moderators": [
+    {
+      "name": "David Campey"
+    }
+  ]
+}

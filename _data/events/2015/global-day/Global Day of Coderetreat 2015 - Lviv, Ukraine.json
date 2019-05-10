@@ -1,0 +1,23 @@
+{
+  "datetime": "2015-11-14 09:00:00",
+  "title": "Global Day of Coderetreat 2015 - Lviv, Ukraine",
+  "url": "",
+  "location": {
+    "city": "Lviv",
+    "country": "Ukraine",
+    "timezone": "Europe/Kiev",
+    "utcOffset": 3,
+    "coordinates": {
+      "latitude": 49.839683,
+      "longitude": 24.029717
+    }
+  },
+  "moderators": [
+    {
+      "name": "Dariya Sulimova +38-097-611-8393"
+    },
+    {
+      "name": "Taras Budurovych"
+    }
+  ]
+}

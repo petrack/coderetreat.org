@@ -1,0 +1,20 @@
+{
+  "datetime": "2016-10-22 09:00:00",
+  "title": "Global Day of Coderetreat 2016 - St Petersburg, Florida",
+  "url": "https://goo.gl/maps/YfM5SNnJoW92",
+  "location": {
+    "city": "St Petersburg",
+    "country": "Florida",
+    "timezone": "America/New_York",
+    "utcOffset": -4,
+    "coordinates": {
+      "latitude": 27.7518284,
+      "longitude": -82.6267345
+    }
+  },
+  "moderators": [
+    {
+      "name": "Jason L Perry"
+    }
+  ]
+}

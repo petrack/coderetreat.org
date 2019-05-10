@@ -1,0 +1,23 @@
+{
+  "datetime": "2015-11-14 09:00:00",
+  "title": "Global Day of Coderetreat 2015 - Manila, Philippines",
+  "url": "https://goo.gl/maps/iroaU9FMhEu",
+  "location": {
+    "city": "Manila",
+    "country": "Philippines",
+    "timezone": "Asia/Manila",
+    "utcOffset": 8,
+    "coordinates": {
+      "latitude": 14.5995124,
+      "longitude": 120.9842195
+    }
+  },
+  "moderators": [
+    {
+      "name": "NOKIA Manila Technology Center"
+    },
+    {
+      "name": "Edaine Joyce Paz"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "datetime": "2014-11-15 09:00:00",
+  "title": "Global Day of Coderetreat 2014 - Toulouse, France",
+  "url": "http://www.meetup.com/Software-Craftsmanship-Toulouse/events/207991842/",
+  "location": {
+    "city": "Toulouse",
+    "country": "France",
+    "timezone": "Europe/Paris",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 43.604652,
+      "longitude": 1.444209
+    }
+  },
+  "moderators": [
+    {
+      "name": "Antoine Vernois"
+    }
+  ]
+}

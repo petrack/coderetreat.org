@@ -1,0 +1,20 @@
+{
+  "datetime": "2016-10-22 09:00:00",
+  "title": "Global Day of Coderetreat 2016 - Zielona Góra, Poland",
+  "url": "https://www.google.pl/maps/place/Szafrana+4A,+Zielona+G%C3%B3ra/@51.9422231,15.5267832,17z/data=!4m13!1m7!3m6!1s0x470613cde3bfeca5:0x105d2381224a8789!2sSzafrana+4A,+Zielona+G%C3%B3ra!3b1!8m2!3d51.9422198!4d15.5289719!3m4!1s0x470613cde3bfeca5:0x105d2381224a8789!8m2!3d51.9422198!4d15.5289719?hl=en",
+  "location": {
+    "city": "Zielona Góra",
+    "country": "Poland",
+    "timezone": "Europe/Warsaw",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 51.9356214,
+      "longitude": 15.5061862
+    }
+  },
+  "moderators": [
+    {
+      "name": "Aleksandra Sołtysik"
+    }
+  ]
+}

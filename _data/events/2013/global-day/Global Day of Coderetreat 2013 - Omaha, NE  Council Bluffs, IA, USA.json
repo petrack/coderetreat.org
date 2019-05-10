@@ -1,0 +1,20 @@
+{
+  "datetime": "2013-12-14 09:00:00",
+  "title": "Global Day of Coderetreat 2013 - Omaha, NE / Council Bluffs, IA, USA",
+  "url": "",
+  "location": {
+    "city": "Omaha, NE / Council Bluffs, IA",
+    "country": "USA",
+    "timezone": "America/Chicago",
+    "utcOffset": -5,
+    "coordinates": {
+      "latitude": 41.2619444,
+      "longitude": -95.8608333
+    }
+  },
+  "moderators": [
+    {
+      "name": "Jessica Codr"
+    }
+  ]
+}

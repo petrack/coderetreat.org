@@ -1,0 +1,29 @@
+{
+  "datetime": "2015-11-14 09:00:00",
+  "title": "Global Day of Coderetreat 2015 - Melbourne, Australia",
+  "url": "http://www.rea-group.com/",
+  "location": {
+    "city": "Melbourne",
+    "country": "Australia",
+    "timezone": "Australia/Melbourne",
+    "utcOffset": 11,
+    "coordinates": {
+      "latitude": -37.8136276,
+      "longitude": 144.9630576
+    }
+  },
+  "moderators": [
+    {
+      "name": "Greg Dziemidowicz"
+    },
+    {
+      "name": "Tomasz Janowski"
+    },
+    {
+      "name": "Supriya Joshi"
+    },
+    {
+      "name": "Ilya Paripsa"
+    }
+  ]
+}

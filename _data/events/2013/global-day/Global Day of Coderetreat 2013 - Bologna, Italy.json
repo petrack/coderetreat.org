@@ -1,0 +1,29 @@
+{
+  "datetime": "2013-12-14 09:00:00",
+  "title": "Global Day of Coderetreat 2013 - Bologna, Italy",
+  "url": "https://www.eventbrite.it/e/biglietti-global-day-of-coderetreat-9358334029",
+  "location": {
+    "city": "Bologna",
+    "country": "Italy",
+    "timezone": "Europe/Rome",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 44.494887,
+      "longitude": 11.3426163
+    }
+  },
+  "moderators": [
+    {
+      "name": "Coders Tuscany User Group"
+    },
+    {
+      "name": "DotDotNet"
+    },
+    {
+      "name": "XPUG Bologna"
+    },
+    {
+      "name": "Nicola Baldi"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "datetime": "2015-11-14 09:00:00",
+  "title": "Global Day of Coderetreat 2015 - Bangalore, India",
+  "url": "https://goo.gl/maps/D7TrzEGXt8R2",
+  "location": {
+    "city": "Bangalore",
+    "country": "India",
+    "timezone": "Asia/Calcutta",
+    "utcOffset": 5.5,
+    "coordinates": {
+      "latitude": 12.9715987,
+      "longitude": 77.5945627
+    }
+  },
+  "moderators": [
+    {
+      "name": "Agile Bangalore"
+    },
+    {
+      "name": "Vinay Krishna"
+    }
+  ]
+}

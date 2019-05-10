@@ -1,0 +1,20 @@
+{
+  "datetime": "2013-12-14 09:00:00",
+  "title": "Global Day of Coderetreat 2013 - Tampere, Finland",
+  "url": "http://tamperegoesagile.fi",
+  "location": {
+    "city": "Tampere",
+    "country": "Finland",
+    "timezone": "Europe/Helsinki",
+    "utcOffset": 3,
+    "coordinates": {
+      "latitude": 61.4977524,
+      "longitude": 23.7609535
+    }
+  },
+  "moderators": [
+    {
+      "name": "Maaret Pyhäjärvi"
+    }
+  ]
+}

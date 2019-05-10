@@ -1,0 +1,23 @@
+{
+  "datetime": "2016-10-22 09:00:00",
+  "title": "Global Day of Coderetreat 2016 - Tver, Russia",
+  "url": "https://goo.gl/maps/Fg9pVRRvewk",
+  "location": {
+    "city": "Tver",
+    "country": "Russia",
+    "timezone": "Europe/Moscow",
+    "utcOffset": 3,
+    "coordinates": {
+      "latitude": 56.85872140000001,
+      "longitude": 35.9175965
+    }
+  },
+  "moderators": [
+    {
+      "name": "EPAM"
+    },
+    {
+      "name": "Igor Drozdov"
+    }
+  ]
+}

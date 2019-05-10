@@ -1,0 +1,20 @@
+{
+  "datetime": "2015-11-14 09:00:00",
+  "title": "Global Day Of Coderetreat 2015 - Brasov, Romania",
+  "url": "",
+  "location": {
+    "city": "Brasov",
+    "country": "Romania",
+    "timezone": "Europe/Bucharest",
+    "utcOffset": 3,
+    "coordinates": {
+      "latitude": 45.6579755,
+      "longitude": 25.6011977
+    }
+  },
+  "moderators": [
+    {
+      "name": "Barbu Andreea-Ruxandra"
+    }
+  ]
+}

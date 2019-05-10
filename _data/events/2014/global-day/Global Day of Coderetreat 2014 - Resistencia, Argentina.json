@@ -1,0 +1,26 @@
+{
+  "datetime": "2014-11-15 09:00:00",
+  "title": "Global Day of Coderetreat 2014 - Resistencia, Argentina",
+  "url": "https://eventioz.com.ar/e/global-day-of-coderetreat-2014-argentina",
+  "location": {
+    "city": "Resistencia",
+    "country": "Argentina",
+    "timezone": "America/Cordoba",
+    "utcOffset": -3,
+    "coordinates": {
+      "latitude": -27.4518622,
+      "longitude": -58.98555469999999
+    }
+  },
+  "moderators": [
+    {
+      "name": "Mat&iacute;as Mascazzini"
+    },
+    {
+      "name": "Leandro A. Rodriguez y Jos&eacute; A. Fernandez."
+    },
+    {
+      "name": "Matias Mascazzini"
+    }
+  ]
+}

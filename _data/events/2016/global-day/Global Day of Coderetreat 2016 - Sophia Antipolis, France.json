@@ -1,0 +1,20 @@
+{
+  "datetime": "2016-10-22 09:00:00",
+  "title": "Global Day of Coderetreat 2016 - Sophia Antipolis, France",
+  "url": "https://www.google.fr/maps/place/Polytech+Nice-Sophia/@43.6155832,7.0696861,17z/data=!3m1!4b1!4m5!3m4!1s0x12cc2b1b41c11d4d:0x225231c497224ba5!8m2!3d43.6155793!4d7.0718748?hl=en",
+  "location": {
+    "city": "Sophia Antipolis",
+    "country": "France",
+    "timezone": "Europe/Paris",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 43.6163539,
+      "longitude": 7.0552218
+    }
+  },
+  "moderators": [
+    {
+      "name": "Alessandro Baffa"
+    }
+  ]
+}

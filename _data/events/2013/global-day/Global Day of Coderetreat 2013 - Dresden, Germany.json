@@ -1,0 +1,20 @@
+{
+  "datetime": "2013-12-14 09:00:00",
+  "title": "Global Day of Coderetreat 2013 - Dresden, Germany",
+  "url": "https://maps.google.de/maps?q=Saxonia+Systems+AG,+Fritz-Foerster-Platz,+Dresden&hl=de&ll=51.030964,13.730164&spn=0.01004,0.022724&sll=51.030736,13.730121&sspn=0.01004,0.022724&oq=saxonia+&hq=Saxonia+Systems+AG,&hnear=Fritz-Foerster-Platz,+01069+Dresden&t=m&z=16",
+  "location": {
+    "city": "Dresden",
+    "country": "Germany",
+    "timezone": "Europe/Berlin",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 51.0504088,
+      "longitude": 13.7372621
+    }
+  },
+  "moderators": [
+    {
+      "name": "Matthias Baumgart"
+    }
+  ]
+}

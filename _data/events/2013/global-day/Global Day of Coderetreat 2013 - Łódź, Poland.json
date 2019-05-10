@@ -1,0 +1,26 @@
+{
+  "datetime": "2013-12-14 09:00:00",
+  "title": "Global Day of Coderetreat 2013 - Łódź, Poland",
+  "url": "http://www.meetup.com/Java-User-Group-Lodz/events/151044742/",
+  "location": {
+    "city": "Łódź",
+    "country": "Poland",
+    "timezone": "Europe/Warsaw",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 51.7592485,
+      "longitude": 19.4559833
+    }
+  },
+  "moderators": [
+    {
+      "name": "JUG Ł&oacute;dź"
+    },
+    {
+      "name": "Cybercom Poland"
+    },
+    {
+      "name": "Przemysław Różycki"
+    }
+  ]
+}

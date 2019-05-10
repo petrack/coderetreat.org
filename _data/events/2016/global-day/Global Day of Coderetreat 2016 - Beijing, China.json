@@ -1,0 +1,23 @@
+{
+  "datetime": "2016-10-22 09:00:00",
+  "title": "Global Day of Coderetreat 2016 - Beijing, China",
+  "url": "",
+  "location": {
+    "city": "Beijing",
+    "country": "China",
+    "timezone": "Asia/Shanghai",
+    "utcOffset": 8,
+    "coordinates": {
+      "latitude": 39.90419989999999,
+      "longitude": 116.4073963
+    }
+  },
+  "moderators": [
+    {
+      "name": "Chen Samuel"
+    },
+    {
+      "name": "ChenSamuel"
+    }
+  ]
+}

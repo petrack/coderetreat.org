@@ -1,0 +1,20 @@
+{
+  "datetime": "2015-11-14 09:00:00",
+  "title": "Global Day of Coderetreat 2015 - Winnipeg, Canada",
+  "url": "",
+  "location": {
+    "city": "Winnipeg",
+    "country": "Canada",
+    "timezone": "America/Winnipeg",
+    "utcOffset": -5,
+    "coordinates": {
+      "latitude": 49.895136,
+      "longitude": -97.13837439999999
+    }
+  },
+  "moderators": [
+    {
+      "name": "abarylko"
+    }
+  ]
+}

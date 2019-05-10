@@ -1,0 +1,20 @@
+{
+  "datetime": "2013-12-14 09:00:00",
+  "title": "Global Day of Code Retreat 2013 - Portland, OR",
+  "url": "https://www.eventbrite.com/event/8695425251",
+  "location": {
+    "city": "Portland",
+    "country": "OR",
+    "timezone": "America/Los_Angeles",
+    "utcOffset": -7,
+    "coordinates": {
+      "latitude": 45.5230622,
+      "longitude": -122.6764816
+    }
+  },
+  "moderators": [
+    {
+      "name": "Matt Plavcan"
+    }
+  ]
+}

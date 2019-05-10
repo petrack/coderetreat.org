@@ -1,0 +1,20 @@
+{
+  "datetime": "2013-12-14 09:00:00",
+  "title": "Global Day of Coderetreat 2013 - Trento, Italy",
+  "url": "",
+  "location": {
+    "city": "Trento",
+    "country": "Italy",
+    "timezone": "Europe/Rome",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 46.0747793,
+      "longitude": 11.1217486
+    }
+  },
+  "moderators": [
+    {
+      "name": "Nicola Moretto"
+    }
+  ]
+}

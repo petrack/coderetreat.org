@@ -1,0 +1,20 @@
+{
+  "datetime": "2014-11-15 09:00:00",
+  "title": "Global Day of Coderetreat 2014 - Oshawa, Durham, Canada",
+  "url": "http://durhamcoderetreat.com",
+  "location": {
+    "city": "Oshawa, Durham",
+    "country": "Canada",
+    "timezone": "America/Toronto",
+    "utcOffset": -4,
+    "coordinates": {
+      "latitude": 43.8970929,
+      "longitude": -78.86579119999999
+    }
+  },
+  "moderators": [
+    {
+      "name": "Stacey Vetzal"
+    }
+  ]
+}

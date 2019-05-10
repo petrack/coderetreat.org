@@ -1,0 +1,20 @@
+{
+  "datetime": "2016-10-22 09:00:00",
+  "title": "Global Day of Code Retreat 2016 - Frankfurt, Germany",
+  "url": "",
+  "location": {
+    "city": "Frankfurt",
+    "country": "Germany",
+    "timezone": "Europe/Berlin",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 50.1109221,
+      "longitude": 8.6821267
+    }
+  },
+  "moderators": [
+    {
+      "name": "Sven"
+    }
+  ]
+}

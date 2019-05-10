@@ -1,0 +1,20 @@
+{
+  "datetime": "2014-11-15 09:00:00",
+  "title": "Global Day of Coderetreat 2014 - Matsuyama, Ehime, Japan",
+  "url": "https://www.google.co.jp/maps/preview?q=33.8384521,132.7688749(%E6%84%9B%E5%AA%9B%E7%9C%8C%E6%9D%BE%E5%B1%B1%E5%B8%82%E4%B8%89%E7%95%AA%E7%94%BA3-9-3)&z=17",
+  "location": {
+    "city": "Matsuyama, Ehime",
+    "country": "Japan",
+    "timezone": "Asia/Tokyo",
+    "utcOffset": 9,
+    "coordinates": {
+      "latitude": 33.8391574,
+      "longitude": 132.7655752
+    }
+  },
+  "moderators": [
+    {
+      "name": "junya hayase"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "datetime": "2013-12-14 09:00:00",
+  "title": "Global Day of Coderetreat 2013 - Osaka, Japan",
+  "url": "http://kokucheese.com/event/index/129047/",
+  "location": {
+    "city": "Osaka",
+    "country": "Japan",
+    "timezone": "Asia/Tokyo",
+    "utcOffset": 9,
+    "coordinates": {
+      "latitude": 34.6937378,
+      "longitude": 135.5021651
+    }
+  },
+  "moderators": [
+    {
+      "name": "Eiji Yamane"
+    }
+  ]
+}

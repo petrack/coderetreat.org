@@ -1,0 +1,23 @@
+{
+  "datetime": "2013-12-14 09:00:00",
+  "title": "Global Day of Coderetreat 2013 - Pittsburgh, PA, USA",
+  "url": "http://gdcr13pgh.eventbrite.com",
+  "location": {
+    "city": "Pittsburgh, PA",
+    "country": "USA",
+    "timezone": "America/New_York",
+    "utcOffset": -4,
+    "coordinates": {
+      "latitude": 40.44062479999999,
+      "longitude": -79.9958864
+    }
+  },
+  "moderators": [
+    {
+      "name": "Coderetreat Pittsburgh"
+    },
+    {
+      "name": "Jim Hurne"
+    }
+  ]
+}

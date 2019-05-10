@@ -1,0 +1,20 @@
+{
+  "datetime": "2016-10-22 09:00:00",
+  "title": "Global Day of Coderetreat 2016 - Johannesburg, South Africa",
+  "url": "https://goo.gl/maps/1HzNtjurhaz",
+  "location": {
+    "city": "Johannesburg",
+    "country": "South Africa",
+    "timezone": "Africa/Johannesburg",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": -26.2041028,
+      "longitude": 28.0473051
+    }
+  },
+  "moderators": [
+    {
+      "name": "Tsatsi Mahase"
+    }
+  ]
+}

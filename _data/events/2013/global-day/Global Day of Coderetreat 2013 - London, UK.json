@@ -1,0 +1,20 @@
+{
+  "datetime": "2013-12-14 09:00:00",
+  "title": "Global Day of Coderetreat 2013 - London, UK",
+  "url": "http://www.meetup.com/london-software-craftsmanship/",
+  "location": {
+    "city": "London",
+    "country": "UK",
+    "timezone": "Europe/London",
+    "utcOffset": 1,
+    "coordinates": {
+      "latitude": 51.5073509,
+      "longitude": -0.1277583
+    }
+  },
+  "moderators": [
+    {
+      "name": "Samir Talwar"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "datetime": "2013-12-14 09:00:00",
+  "title": "Global Day of Coderetreat 2013 - Colima, Mexico",
+  "url": "http://www.crowdint.com",
+  "location": {
+    "city": "Colima",
+    "country": "Mexico",
+    "timezone": "America/Mexico_City",
+    "utcOffset": -5,
+    "coordinates": {
+      "latitude": 19.1222634,
+      "longitude": -104.0072348
+    }
+  },
+  "moderators": [
+    {
+      "name": "David Padilla"
+    }
+  ]
+}

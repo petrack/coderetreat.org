@@ -1,0 +1,20 @@
+{
+  "datetime": "2014-11-15 09:00:00",
+  "title": "Global Day of Coderetreat 2014 - Barcelona, Spain",
+  "url": "http://agile-barcelona.org/",
+  "location": {
+    "city": "Barcelona",
+    "country": "Spain",
+    "timezone": "Europe/Madrid",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 41.3850639,
+      "longitude": 2.1734035
+    }
+  },
+  "moderators": [
+    {
+      "name": "Jaume Jornet"
+    }
+  ]
+}

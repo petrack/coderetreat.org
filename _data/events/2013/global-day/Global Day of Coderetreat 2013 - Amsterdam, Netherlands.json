@@ -1,0 +1,20 @@
+{
+  "datetime": "2013-12-14 09:00:00",
+  "title": "Global Day of Coderetreat 2013 - Amsterdam, Netherlands",
+  "url": "https://www.google.com/maps/preview#!q=Science+Park+400%2C+Amsterdam%2C+The+Netherlands&data=!1m4!1m3!1d737!2d4.9558016!3d52.3564662!4m10!1m9!4m8!1m3!1d31549230!2d-95.677068!3d37.0625!3m2!1i1680!2i929!4f13.1",
+  "location": {
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "timezone": "Europe/Amsterdam",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 52.3702157,
+      "longitude": 4.895167900000001
+    }
+  },
+  "moderators": [
+    {
+      "name": "Stefan Hendriks"
+    }
+  ]
+}

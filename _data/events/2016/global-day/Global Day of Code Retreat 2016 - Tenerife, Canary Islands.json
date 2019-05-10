@@ -1,0 +1,20 @@
+{
+  "datetime": "2016-10-22 09:00:00",
+  "title": "Global Day of Code Retreat 2016 - Tenerife, Canary Islands",
+  "url": "",
+  "location": {
+    "city": "Tenerife",
+    "country": "Canary Islands",
+    "timezone": "Atlantic/Canary",
+    "utcOffset": 1,
+    "coordinates": {
+      "latitude": 28.2915637,
+      "longitude": -16.6291304
+    }
+  },
+  "moderators": [
+    {
+      "name": "Carlos Ble"
+    }
+  ]
+}

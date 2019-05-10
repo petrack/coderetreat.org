@@ -1,0 +1,23 @@
+{
+  "datetime": "2014-11-15 09:00:00",
+  "title": "Global Day of Coderetreat 2014 - San Jose, Costa Rica",
+  "url": "http://maps.google.com/maps?q=9.920898,+-84.036425&num=1&vpsrc=0&ie=UTF8&t=m&z=19&iwloc=A",
+  "location": {
+    "city": "San Jose",
+    "country": "Costa Rica",
+    "timezone": "America/Costa_Rica",
+    "utcOffset": -6,
+    "coordinates": {
+      "latitude": 9.9280694,
+      "longitude": -84.0907246
+    }
+  },
+  "moderators": [
+    {
+      "name": "Pernix Solutions"
+    },
+    {
+      "name": "Jose Andres Alvarez"
+    }
+  ]
+}

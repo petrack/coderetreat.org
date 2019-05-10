@@ -1,0 +1,23 @@
+{
+  "datetime": "2014-11-15 09:00:00",
+  "title": "Global Day of Coderetreat 2014 - Poznań, Poland",
+  "url": "http://jug.poznan.pl",
+  "location": {
+    "city": "Poznań",
+    "country": "Poland",
+    "timezone": "Europe/Warsaw",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 52.406374,
+      "longitude": 16.9251681
+    }
+  },
+  "moderators": [
+    {
+      "name": "Poznań JUG"
+    },
+    {
+      "name": "Łukasz Stachowiak"
+    }
+  ]
+}

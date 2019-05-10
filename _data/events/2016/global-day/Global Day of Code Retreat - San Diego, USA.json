@@ -1,0 +1,23 @@
+{
+  "datetime": "2016-10-22 09:00:00",
+  "title": "Global Day of Code Retreat - San Diego, USA",
+  "url": "https://goo.gl/maps/SuJojJmnZQM2",
+  "location": {
+    "city": "San Diego",
+    "country": "USA",
+    "timezone": "America/Los_Angeles",
+    "utcOffset": -7,
+    "coordinates": {
+      "latitude": 32.715738,
+      "longitude": -117.1610838
+    }
+  },
+  "moderators": [
+    {
+      "name": "Phil Borlin"
+    },
+    {
+      "name": "Arlene Paraiso"
+    }
+  ]
+}

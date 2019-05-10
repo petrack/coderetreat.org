@@ -1,0 +1,23 @@
+{
+  "datetime": "2013-12-14 09:00:00",
+  "title": "Global Day of Coderetreat 2013 - Edmonton, Canada",
+  "url": "https://coderetreatyeg2013.eventbrite.com/",
+  "location": {
+    "city": "Edmonton",
+    "country": "Canada",
+    "timezone": "America/Edmonton",
+    "utcOffset": -6,
+    "coordinates": {
+      "latitude": 53.544389,
+      "longitude": -113.4909267
+    }
+  },
+  "moderators": [
+    {
+      "name": "Stephen Visser"
+    },
+    {
+      "name": "Curtis Badke"
+    }
+  ]
+}

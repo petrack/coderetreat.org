@@ -1,0 +1,20 @@
+{
+  "datetime": "2013-12-14 09:00:00",
+  "title": "Global Day of Coderetreat 2013 - Marseille, France",
+  "url": "http://gdcr13.coderetreat-marseille.org",
+  "location": {
+    "city": "Marseille",
+    "country": "France",
+    "timezone": "Europe/Paris",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 43.296482,
+      "longitude": 5.36978
+    }
+  },
+  "moderators": [
+    {
+      "name": "Jérémy Lecour"
+    }
+  ]
+}

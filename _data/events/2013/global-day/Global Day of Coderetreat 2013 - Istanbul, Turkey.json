@@ -1,0 +1,29 @@
+{
+  "datetime": "2013-12-14 09:00:00",
+  "title": "Global Day of Coderetreat 2013 - Istanbul, Turkey",
+  "url": "http://www.parkyeri.com",
+  "location": {
+    "city": "Istanbul",
+    "country": "Turkey",
+    "timezone": "Europe/Istanbul",
+    "utcOffset": 3,
+    "coordinates": {
+      "latitude": 41.0082376,
+      "longitude": 28.9783589
+    }
+  },
+  "moderators": [
+    {
+      "name": "Gokhan Gorali"
+    },
+    {
+      "name": "Tayfun &Ouml;ztemel"
+    },
+    {
+      "name": "Irmak &Ccedil;akmak"
+    },
+    {
+      "name": "Barış Ala"
+    }
+  ]
+}

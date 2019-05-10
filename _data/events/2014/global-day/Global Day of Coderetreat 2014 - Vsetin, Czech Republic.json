@@ -1,0 +1,20 @@
+{
+  "datetime": "2014-11-15 09:00:00",
+  "title": "Global Day of Coderetreat 2014 - Vsetin, Czech Republic",
+  "url": "http://srazy.info/coderetreat/4822",
+  "location": {
+    "city": "Vsetin",
+    "country": "Czech Republic",
+    "timezone": "Europe/Prague",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 49.3389251,
+      "longitude": 17.9938523
+    }
+  },
+  "moderators": [
+    {
+      "name": "Robert Dresler"
+    }
+  ]
+}

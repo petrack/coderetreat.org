@@ -1,0 +1,20 @@
+{
+  "datetime": "2016-10-22 09:00:00",
+  "title": "Global Day of Coderetreat 2016 - Jihlava, Czech Republic",
+  "url": "https://www.meetup.com/gdgjihlava/events/233949957/",
+  "location": {
+    "city": "Jihlava",
+    "country": "Czech Republic",
+    "timezone": "Europe/Prague",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 49.3983782,
+      "longitude": 15.5870415
+    }
+  },
+  "moderators": [
+    {
+      "name": "Milan Lempera"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "datetime": "2013-12-14 09:00:00",
+  "title": "Global Day of Coderetreat 2013 - Raleigh/Durham, NC, USA",
+  "url": "",
+  "location": {
+    "city": "Raleigh/Durham, NC",
+    "country": "USA",
+    "timezone": "America/New_York",
+    "utcOffset": -4,
+    "coordinates": {
+      "latitude": 35.8991678,
+      "longitude": -78.86364019999999
+    }
+  },
+  "moderators": [
+    {
+      "name": "Cory Foy"
+    }
+  ]
+}

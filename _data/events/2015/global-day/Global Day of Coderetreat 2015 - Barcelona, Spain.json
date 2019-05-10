@@ -1,0 +1,20 @@
+{
+  "datetime": "2015-11-14 09:00:00",
+  "title": "Global Day of Coderetreat 2015 - Barcelona, Spain",
+  "url": "https://www.google.com/maps?f=q&hl=en&q=Llacuna+56-70+-+Building+A,+1st+floor.,+Barcelona,+es",
+  "location": {
+    "city": "Barcelona",
+    "country": "Spain",
+    "timezone": "Europe/Madrid",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 41.3850639,
+      "longitude": 2.1734035
+    }
+  },
+  "moderators": [
+    {
+      "name": "Jaume Jornet"
+    }
+  ]
+}

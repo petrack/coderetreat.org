@@ -1,0 +1,20 @@
+{
+  "datetime": "2014-11-15 09:00:00",
+  "title": "Global Day of Coderetreat 2014 - Athens, GA, USA",
+  "url": "https://www.google.com/maps/place/Four+Athens/@33.961071,-83.3774095,17z/data=!3m1!4b1!4m2!3m1!1s0x88f66cd8f45d8db1:0x7ec4c2d22cff1c33",
+  "location": {
+    "city": "Athens, GA",
+    "country": "USA",
+    "timezone": "America/New_York",
+    "utcOffset": -4,
+    "coordinates": {
+      "latitude": 33.9519347,
+      "longitude": -83.357567
+    }
+  },
+  "moderators": [
+    {
+      "name": "Jonathan Wallace"
+    }
+  ]
+}

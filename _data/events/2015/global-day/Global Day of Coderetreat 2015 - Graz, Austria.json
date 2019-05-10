@@ -1,0 +1,20 @@
+{
+  "datetime": "2015-11-14 09:00:00",
+  "title": "Global Day of Coderetreat 2015 - Graz, Austria",
+  "url": "http://coderetreat.at/",
+  "location": {
+    "city": "Graz",
+    "country": "Austria",
+    "timezone": "Europe/Vienna",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 47.070714,
+      "longitude": 15.439504
+    }
+  },
+  "moderators": [
+    {
+      "name": "Wolfgang Kaufmann"
+    }
+  ]
+}

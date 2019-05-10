@@ -1,0 +1,20 @@
+{
+  "datetime": "2015-11-14 09:00:00",
+  "title": "Global Day of Coderetreat 2015 - Charlottetown, PEI, Canada",
+  "url": "https://goo.gl/maps/hLw17PWKBdL2",
+  "location": {
+    "city": "Charlottetown, PEI",
+    "country": "Canada",
+    "timezone": "America/Halifax",
+    "utcOffset": -3,
+    "coordinates": {
+      "latitude": 46.23824,
+      "longitude": -63.13107040000001
+    }
+  },
+  "moderators": [
+    {
+      "name": "Derek Campbell"
+    }
+  ]
+}

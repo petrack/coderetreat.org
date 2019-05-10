@@ -1,0 +1,23 @@
+{
+  "datetime": "2013-12-14 09:00:00",
+  "title": "Global Day of Coderetreat 2013 - Raanana, Israel",
+  "url": "http://bit.ly/LPCR2013",
+  "location": {
+    "city": "Raanana",
+    "country": "Israel",
+    "timezone": "Asia/Jerusalem",
+    "utcOffset": 3,
+    "coordinates": {
+      "latitude": 32.184781,
+      "longitude": 34.871326
+    }
+  },
+  "moderators": [
+    {
+      "name": "LivePerson"
+    },
+    {
+      "name": "Elina Revzin"
+    }
+  ]
+}

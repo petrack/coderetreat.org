@@ -1,0 +1,26 @@
+{
+  "datetime": "2014-11-15 09:00:00",
+  "title": "Global Day of Coderetreat 2014 - Nuremberg, Germany",
+  "url": "https://gdcr14-nuernberg.eventbrite.de",
+  "location": {
+    "city": "Nuremberg",
+    "country": "Germany",
+    "timezone": "Europe/Berlin",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 49.4254092,
+      "longitude": 11.0796553
+    }
+  },
+  "moderators": [
+    {
+      "name": "Martin Heider"
+    },
+    {
+      "name": "Marco Emrich"
+    },
+    {
+      "name": "Ren&eacute; F&uuml;ger"
+    }
+  ]
+}

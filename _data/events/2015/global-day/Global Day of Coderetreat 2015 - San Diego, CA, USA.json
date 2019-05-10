@@ -1,0 +1,16 @@
+{
+  "datetime": "2015-11-14 09:00:00",
+  "title": "Global Day of Coderetreat 2015 - San Diego, CA, USA",
+  "url": "http://www.deskhub.com/",
+  "location": {
+    "city": "San Diego, CA",
+    "country": "USA",
+    "timezone": "America/Los_Angeles",
+    "utcOffset": -7,
+    "coordinates": {
+      "latitude": 32.715738,
+      "longitude": -117.1610838
+    }
+  },
+  "moderators": ""
+}

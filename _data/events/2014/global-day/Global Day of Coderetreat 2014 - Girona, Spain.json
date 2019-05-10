@@ -1,0 +1,23 @@
+{
+  "datetime": "2014-11-15 09:00:00",
+  "title": "Global Day of Coderetreat 2014 - Girona, Spain",
+  "url": "http://coditramuntana.com/contacte",
+  "location": {
+    "city": "Girona",
+    "country": "Spain",
+    "timezone": "Europe/Madrid",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 41.9794005,
+      "longitude": 2.8214264
+    }
+  },
+  "moderators": [
+    {
+      "name": "Agile Girona"
+    },
+    {
+      "name": "Oliver Hernàndez Valls"
+    }
+  ]
+}

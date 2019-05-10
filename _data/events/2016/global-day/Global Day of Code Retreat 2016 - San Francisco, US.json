@@ -1,0 +1,20 @@
+{
+  "datetime": "2016-10-22 09:00:00",
+  "title": "Global Day of Code Retreat 2016 - San Francisco, US",
+  "url": "https://goo.gl/maps/9EWY2dVYgJF2",
+  "location": {
+    "city": "San Francisco",
+    "country": "US",
+    "timezone": "America/Los_Angeles",
+    "utcOffset": -7,
+    "coordinates": {
+      "latitude": 37.7749295,
+      "longitude": -122.4194155
+    }
+  },
+  "moderators": [
+    {
+      "name": "Bogdan Dumitrescu"
+    }
+  ]
+}

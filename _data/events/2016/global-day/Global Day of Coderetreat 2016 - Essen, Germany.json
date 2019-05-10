@@ -1,0 +1,20 @@
+{
+  "datetime": "2016-10-22 09:00:00",
+  "title": "Global Day of Coderetreat 2016 - Essen, Germany",
+  "url": "http://www.opitz-consulting.com/index.php?id=291",
+  "location": {
+    "city": "Essen",
+    "country": "Germany",
+    "timezone": "Europe/Berlin",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 51.4556432,
+      "longitude": 7.0115552
+    }
+  },
+  "moderators": [
+    {
+      "name": "Stefan Glase"
+    }
+  ]
+}

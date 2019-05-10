@@ -1,0 +1,20 @@
+{
+  "datetime": "2014-11-15 09:00:00",
+  "title": "Global Day of Coderetreat 2014 - Raleigh/Durham, NC, USA",
+  "url": "https://www.google.com/maps/place/American+Tobacco+Campus/@35.99341,-78.904187,15z/data=!4m2!3m1!1s0x0:0x4a4504bd1ef4f3d1",
+  "location": {
+    "city": "Raleigh/Durham, NC",
+    "country": "USA",
+    "timezone": "America/New_York",
+    "utcOffset": -4,
+    "coordinates": {
+      "latitude": 35.8991678,
+      "longitude": -78.86364019999999
+    }
+  },
+  "moderators": [
+    {
+      "name": "Cory Foy"
+    }
+  ]
+}

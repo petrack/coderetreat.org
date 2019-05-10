@@ -1,0 +1,20 @@
+{
+  "datetime": "2015-11-14 09:00:00",
+  "title": "Global Day of Coderetreat 2015 - Zaragoza, Spain",
+  "url": "https://www.google.es/maps/place/ETOPIA+-+Center+of+Art+%26+Technology/@41.6594721,-0.9072739,15z/data=!4m2!3m1!1s0x0:0x12f8c30f1a51a61f?sa=X&ved=0CIgBEPwSMA1qFQoTCJCBhpGrocgCFUNdGgodC8YKXg",
+  "location": {
+    "city": "Zaragoza",
+    "country": "Spain",
+    "timezone": "Europe/Madrid",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 41.6488226,
+      "longitude": -0.8890853
+    }
+  },
+  "moderators": [
+    {
+      "name": "Pedro Lafuente"
+    }
+  ]
+}

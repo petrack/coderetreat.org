@@ -1,0 +1,20 @@
+{
+  "datetime": "2015-11-14 09:00:00",
+  "title": "Global Day of Coderetreat 2015 - Boston, MA, USA",
+  "url": "https://goo.gl/maps/vZzXHyj61CB2",
+  "location": {
+    "city": "Boston, MA",
+    "country": "USA",
+    "timezone": "America/New_York",
+    "utcOffset": -4,
+    "coordinates": {
+      "latitude": 42.3600825,
+      "longitude": -71.0588801
+    }
+  },
+  "moderators": [
+    {
+      "name": "Stephen Vance"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "datetime": "2014-11-15 09:00:00",
+  "title": "Global Day of Coderetreat 2014 - Boston, MA, USA",
+  "url": "http://www.zipcar.com",
+  "location": {
+    "city": "Boston, MA",
+    "country": "USA",
+    "timezone": "America/New_York",
+    "utcOffset": -4,
+    "coordinates": {
+      "latitude": 42.3600825,
+      "longitude": -71.0588801
+    }
+  },
+  "moderators": [
+    {
+      "name": "Stephen Vance"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "datetime": "2014-11-15 09:00:00",
+  "title": "Global Day of Coderetreat 2014 - Hollywood, CA, USA",
+  "url": "https://www.eventjoy.com/e/global-day-of-coderetreat-2014---los-angeles-california-529618",
+  "location": {
+    "city": "Hollywood, CA",
+    "country": "USA",
+    "timezone": "America/Los_Angeles",
+    "utcOffset": -7,
+    "coordinates": {
+      "latitude": 34.0928092,
+      "longitude": -118.3286614
+    }
+  },
+  "moderators": [
+    {
+      "name": "Zachary Davy"
+    }
+  ]
+}

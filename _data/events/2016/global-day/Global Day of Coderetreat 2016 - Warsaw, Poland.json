@@ -1,0 +1,20 @@
+{
+  "datetime": "2016-10-22 09:00:00",
+  "title": "Global Day of Coderetreat 2016 - Warsaw, Poland",
+  "url": "http://www.stacja.it/warsztaty/2016-10-22-Global-Day-of-Coderetreat-2016.html",
+  "location": {
+    "city": "Warsaw",
+    "country": "Poland",
+    "timezone": "Europe/Warsaw",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 52.2296756,
+      "longitude": 21.0122287
+    }
+  },
+  "moderators": [
+    {
+      "name": "Stacja IT"
+    }
+  ]
+}

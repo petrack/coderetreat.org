@@ -1,0 +1,20 @@
+{
+  "datetime": "2014-11-15 09:00:00",
+  "title": "Global Day of Coderetreat 2014 - Utrecht, Netherlands",
+  "url": "https://www.mirabeau.nl/contact/locaties/utrecht.html",
+  "location": {
+    "city": "Utrecht",
+    "country": "Netherlands",
+    "timezone": "Europe/Amsterdam",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 52.09073739999999,
+      "longitude": 5.1214201
+    }
+  },
+  "moderators": [
+    {
+      "name": "Bart Bakker"
+    }
+  ]
+}

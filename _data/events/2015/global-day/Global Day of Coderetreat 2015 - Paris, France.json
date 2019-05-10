@@ -1,0 +1,20 @@
+{
+  "datetime": "2015-11-14 09:00:00",
+  "title": "Global Day of Coderetreat 2015 - Paris, France",
+  "url": "https://www.google.fr/maps/place/21+Rue+du+Bouloi,+75001+Paris/@48.8639129,2.3412076,17z/data=!3m1!4b1!4m2!3m1!1s0x47e66e230a1f2a83:0x3a9e99f1c32d2657!6m1!1e1?hl=fr",
+  "location": {
+    "city": "Paris",
+    "country": "France",
+    "timezone": "Europe/Paris",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 48.856614,
+      "longitude": 2.3522219
+    }
+  },
+  "moderators": [
+    {
+      "name": "Arolla"
+    }
+  ]
+}

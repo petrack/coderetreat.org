@@ -1,0 +1,20 @@
+{
+  "datetime": "2015-11-14 09:00:00",
+  "title": "Global Day Of Coderetreat 2015 - Stockholm, Sweden",
+  "url": "https://valtech.se/events/global-day-of-code-retreat/",
+  "location": {
+    "city": "Stockholm",
+    "country": "Sweden",
+    "timezone": "Europe/Stockholm",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 59.32932349999999,
+      "longitude": 18.0685808
+    }
+  },
+  "moderators": [
+    {
+      "name": "Marcus Ahnve"
+    }
+  ]
+}

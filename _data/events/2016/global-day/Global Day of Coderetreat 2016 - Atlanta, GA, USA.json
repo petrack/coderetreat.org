@@ -1,0 +1,23 @@
+{
+  "datetime": "2016-10-22 09:00:00",
+  "title": "Global Day of Coderetreat 2016 - Atlanta, GA, USA",
+  "url": "https://www.google.com/maps/place/Greater+Sum/@33.8078246,-84.3854664,17z/data=!3m1!4b1!4m5!3m4!1s0x88f505b3d2d48f5f:0x9b8ffac703ca79d3!8m2!3d33.8078202!4d-84.3832777",
+  "location": {
+    "city": "Atlanta, GA",
+    "country": "USA",
+    "timezone": "America/New_York",
+    "utcOffset": -4,
+    "coordinates": {
+      "latitude": 33.7489954,
+      "longitude": -84.3879824
+    }
+  },
+  "moderators": [
+    {
+      "name": "Mike Clement"
+    },
+    {
+      "name": "Kylie Stradley"
+    }
+  ]
+}

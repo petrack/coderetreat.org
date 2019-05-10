@@ -1,0 +1,20 @@
+{
+  "datetime": "2015-11-14 09:00:00",
+  "title": "Global Day of Coderetreat 2015 - Denver, CO, USA",
+  "url": "http://gdcr15-denver.eventbrite.com",
+  "location": {
+    "city": "Denver, CO",
+    "country": "USA",
+    "timezone": "America/Denver",
+    "utcOffset": -6,
+    "coordinates": {
+      "latitude": 39.7392358,
+      "longitude": -104.990251
+    }
+  },
+  "moderators": [
+    {
+      "name": "Sean Duckett"
+    }
+  ]
+}

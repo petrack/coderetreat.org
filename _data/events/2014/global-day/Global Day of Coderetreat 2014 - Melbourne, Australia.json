@@ -1,0 +1,20 @@
+{
+  "datetime": "2014-11-15 09:00:00",
+  "title": "Global Day of Coderetreat 2014 - Melbourne, Australia",
+  "url": "https://www.eventbrite.com.au/e/global-day-of-code-retreat-melbourne-2014-tickets-12945944669",
+  "location": {
+    "city": "Melbourne",
+    "country": "Australia",
+    "timezone": "Australia/Melbourne",
+    "utcOffset": 11,
+    "coordinates": {
+      "latitude": -37.8136276,
+      "longitude": 144.9630576
+    }
+  },
+  "moderators": [
+    {
+      "name": "Greg Dziemidowicz"
+    }
+  ]
+}

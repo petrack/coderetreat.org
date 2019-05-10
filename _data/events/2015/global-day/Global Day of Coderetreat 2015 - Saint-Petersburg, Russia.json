@@ -1,0 +1,23 @@
+{
+  "datetime": "2015-11-14 09:00:00",
+  "title": "Global Day of Coderetreat 2015 - Saint-Petersburg, Russia",
+  "url": "https://events.epam.com/events/coderetreat-saint-petersburg",
+  "location": {
+    "city": "Saint-Petersburg",
+    "country": "Russia",
+    "timezone": "Europe/Moscow",
+    "utcOffset": 3,
+    "coordinates": {
+      "latitude": 59.9342802,
+      "longitude": 30.3350986
+    }
+  },
+  "moderators": [
+    {
+      "name": "Polina Paniukova"
+    },
+    {
+      "name": "Roman Pravuk"
+    }
+  ]
+}

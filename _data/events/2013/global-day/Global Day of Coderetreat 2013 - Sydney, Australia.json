@@ -1,0 +1,20 @@
+{
+  "datetime": "2013-12-14 09:00:00",
+  "title": "Global Day of Coderetreat 2013 - Sydney, Australia",
+  "url": "http://goo.gl/maps/s0Mg0",
+  "location": {
+    "city": "Sydney",
+    "country": "Australia",
+    "timezone": "Australia/Sydney",
+    "utcOffset": 11,
+    "coordinates": {
+      "latitude": -33.8688197,
+      "longitude": 151.2092955
+    }
+  },
+  "moderators": [
+    {
+      "name": "James Gregory"
+    }
+  ]
+}

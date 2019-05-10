@@ -1,0 +1,20 @@
+{
+  "datetime": "2016-10-22 09:00:00",
+  "title": "Global Day of Coderetreat - Portland, OR, USA",
+  "url": "https://www.meetup.com/PDX-Software-Practice/events/234101761/",
+  "location": {
+    "city": "Portland, OR",
+    "country": "USA",
+    "timezone": "America/Los_Angeles",
+    "utcOffset": -7,
+    "coordinates": {
+      "latitude": 45.5230622,
+      "longitude": -122.6764816
+    }
+  },
+  "moderators": [
+    {
+      "name": "Matt Plavcan"
+    }
+  ]
+}

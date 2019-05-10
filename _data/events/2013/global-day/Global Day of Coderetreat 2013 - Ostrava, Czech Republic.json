@@ -1,0 +1,20 @@
+{
+  "datetime": "2013-12-14 09:00:00",
+  "title": "Global Day of Coderetreat 2013 - Ostrava, Czech Republic",
+  "url": "http://srazy.info/coderetreat/4107",
+  "location": {
+    "city": "Ostrava",
+    "country": "Czech Republic",
+    "timezone": "Europe/Prague",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 49.8209226,
+      "longitude": 18.2625243
+    }
+  },
+  "moderators": [
+    {
+      "name": "Daniel Kolman"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "datetime": "2016-10-22 09:00:00",
+  "title": "Global Day of CodeRetreat 2016 - Nuremberg, Germany",
+  "url": "",
+  "location": {
+    "city": "Nuremberg",
+    "country": "Germany",
+    "timezone": "Europe/Berlin",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 49.4254092,
+      "longitude": 11.0796553
+    }
+  },
+  "moderators": [
+    {
+      "name": "Andy Fischer"
+    }
+  ]
+}

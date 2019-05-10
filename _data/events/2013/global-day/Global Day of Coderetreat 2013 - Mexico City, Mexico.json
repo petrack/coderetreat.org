@@ -1,0 +1,23 @@
+{
+  "datetime": "2013-12-14 09:00:00",
+  "title": "Global Day of Coderetreat 2013 - Mexico City, Mexico",
+  "url": "http://makingdevs.com/contact",
+  "location": {
+    "city": "Mexico City",
+    "country": "Mexico",
+    "timezone": "America/Mexico_City",
+    "utcOffset": -5,
+    "coordinates": {
+      "latitude": 19.4326077,
+      "longitude": -99.133208
+    }
+  },
+  "moderators": [
+    {
+      "name": "MakingDevs"
+    },
+    {
+      "name": "Jose Juan R. Zuñiga"
+    }
+  ]
+}

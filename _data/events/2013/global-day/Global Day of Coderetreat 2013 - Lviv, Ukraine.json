@@ -1,0 +1,20 @@
+{
+  "datetime": "2013-12-14 09:00:00",
+  "title": "Global Day of Coderetreat 2013 - Lviv, Ukraine",
+  "url": "https://maps.google.com/maps?q=%D0%B2%D1%83%D0%BB.+%D0%9E%D0%BB%D0%B5%D0%BD%D0%B8+%D0%A1%D1%82%D0%B5%D0%BF%D0%B0%D0%BD%D1%96%D0%B2%D0%BD%D0%B8,+49&hl=uk&ie=UTF8&ll=49.842653,23.99848&spn=0.001621,0.004128&sll=49.842615,23.999368&sspn=0.001621,0.004128&hnear=%D0%B2%D1%83%D0%BB.+%D0%9E%D0%BB%D0%B5%D0%BD%D0%B8+%D0%A1%D1%82%D0%B5%D0%BF%D0%B0%D0%BD%D1%96%D0%B2%D0%BD%D0%B8,+49,+%D0%9B%D1%8C%D0%B2%D1%96%D0%B2,+%D0%9B%D1%8C%D0%B2%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B0+%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D",
+  "location": {
+    "city": "Lviv",
+    "country": "Ukraine",
+    "timezone": "Europe/Kiev",
+    "utcOffset": 3,
+    "coordinates": {
+      "latitude": 49.839683,
+      "longitude": 24.029717
+    }
+  },
+  "moderators": [
+    {
+      "name": "Taras Budurovych"
+    }
+  ]
+}

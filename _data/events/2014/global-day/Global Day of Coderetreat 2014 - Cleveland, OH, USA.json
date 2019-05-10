@@ -1,0 +1,20 @@
+{
+  "datetime": "2014-11-15 09:00:00",
+  "title": "Global Day of Coderetreat 2014 - Cleveland, OH, USA",
+  "url": "https://www.google.com/maps/place/LeanDog/@41.51071,-81.69153,15z/data=!4m2!3m1!1s0x0:0xc37d6cae0528fdd9",
+  "location": {
+    "city": "Cleveland, OH",
+    "country": "USA",
+    "timezone": "America/New_York",
+    "utcOffset": -4,
+    "coordinates": {
+      "latitude": 41.49932,
+      "longitude": -81.6943605
+    }
+  },
+  "moderators": [
+    {
+      "name": "Joel Byler"
+    }
+  ]
+}

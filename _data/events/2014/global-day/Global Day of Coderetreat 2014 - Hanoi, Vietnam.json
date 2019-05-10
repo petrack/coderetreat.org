@@ -1,0 +1,20 @@
+{
+  "datetime": "2014-11-15 09:00:00",
+  "title": "Global Day of Coderetreat 2014 - Hanoi, Vietnam",
+  "url": "",
+  "location": {
+    "city": "Hanoi",
+    "country": "Vietnam",
+    "timezone": "Asia/Saigon",
+    "utcOffset": 7,
+    "coordinates": {
+      "latitude": 21.0277644,
+      "longitude": 105.8341598
+    }
+  },
+  "moderators": [
+    {
+      "name": "Phạm Anh Đới"
+    }
+  ]
+}

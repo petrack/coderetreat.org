@@ -1,0 +1,20 @@
+{
+  "datetime": "2016-10-22 09:00:00",
+  "title": "Global Day of Coderetreat 2016 - Bend, OR, USA",
+  "url": "",
+  "location": {
+    "city": "Bend, OR",
+    "country": "USA",
+    "timezone": "America/Los_Angeles",
+    "utcOffset": -7,
+    "coordinates": {
+      "latitude": 44.0581728,
+      "longitude": -121.3153096
+    }
+  },
+  "moderators": [
+    {
+      "name": "Gene Hyde"
+    }
+  ]
+}

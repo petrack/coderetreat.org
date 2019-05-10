@@ -1,0 +1,23 @@
+{
+  "datetime": "2016-10-22 09:00:00",
+  "title": "Global Day of Coderetreat 2016 - Izhevsk, Russia",
+  "url": "https://www.google.ru/maps/place/%D0%A0%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD+-+%D0%BF%D0%B8%D0%B2%D0%BE%D0%B2%D0%B0%D1%80%D0%BD%D1%8F+Welten/@56.8365945,53.215626,17z/data=!4m13!1m7!3m6!1s0x43e1394f37d6f529:0xc49773798a45925!2z0J_Rg9GI0LrQuNC90YHQutCw0Y8g0YPQuy4sIDEzMNCwLCDQmNC20LXQstGB0LosINGA0LXRgdC_0YPQsdC70LjQutCwINCj0LTQvNGD0YDRgtC40Y8sIDQyNjA3Nw!3b1!8m2!3d56.8365916!4d53.2178147!3m4!1s0x0:0x7a35b2a7ae4c8426!8m2!3d56.837119!4d53.217404?hl=ru",
+  "location": {
+    "city": "Izhevsk",
+    "country": "Russia",
+    "timezone": "Europe/Samara",
+    "utcOffset": 4,
+    "coordinates": {
+      "latitude": 56.86186009999999,
+      "longitude": 53.2324285
+    }
+  },
+  "moderators": [
+    {
+      "name": "EPAM Systems"
+    },
+    {
+      "name": "Denis Pankratov"
+    }
+  ]
+}

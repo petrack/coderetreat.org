@@ -1,0 +1,20 @@
+{
+  "datetime": "2013-12-14 09:00:00",
+  "title": "Global Day of Coderetreat 2013 - Osnabrück, Germany",
+  "url": "https://www.google.com/maps?f=q&source=s_q&hl=de&geocode=&q=Hochschule+Osnabr%C3%BCck+Fakult%C3%A4t+f%C3%BCr+Ingenieurwissenschaften+und+Informatik,+Albrechtstra%C3%9Fe,+Osnabr%C3%BCck,+Deutschland&aq=2&oq=hochschule+osnabr%C3%BCck&sll=52.356466,4.955802&sspn=0.002939,0.008256&vpsrc=6&g=Science+Park+400,+Amsterdam,+The+Netherlands&ie=UTF8&hq=Hochschule+Osnabr%C3%BCck+Fakult%C3%A4t+f%C3%BCr+Ingenieurwissenschaften+und+Informatik,+Albrechtstra%C3%9Fe,+Osnabr%C3%BCck,+Deutschland&ll=52.28318,8.0250",
+  "location": {
+    "city": "Osnabrück",
+    "country": "Germany",
+    "timezone": "Europe/Berlin",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 52.2799112,
+      "longitude": 8.0471788
+    }
+  },
+  "moderators": [
+    {
+      "name": "Ingo Lücker"
+    }
+  ]
+}

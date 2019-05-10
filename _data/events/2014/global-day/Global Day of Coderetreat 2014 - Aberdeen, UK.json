@@ -1,0 +1,20 @@
+{
+  "datetime": "2014-11-15 09:00:00",
+  "title": "Global Day of Coderetreat 2014 - Aberdeen, UK",
+  "url": "http://www.eventbrite.co.uk/publish?crumb=49b2426f696cba&eid=6767803683",
+  "location": {
+    "city": "Aberdeen",
+    "country": "UK",
+    "timezone": "Europe/London",
+    "utcOffset": 1,
+    "coordinates": {
+      "latitude": 57.149717,
+      "longitude": -2.094278
+    }
+  },
+  "moderators": [
+    {
+      "name": "Bruce Scharlau"
+    }
+  ]
+}

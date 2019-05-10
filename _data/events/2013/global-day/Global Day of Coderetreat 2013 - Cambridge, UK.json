@@ -1,0 +1,20 @@
+{
+  "datetime": "2013-12-14 09:00:00",
+  "title": "Global Day of Coderetreat 2013 - Cambridge, UK",
+  "url": "http://www.red-gate.com",
+  "location": {
+    "city": "Cambridge",
+    "country": "UK",
+    "timezone": "Europe/London",
+    "utcOffset": 1,
+    "coordinates": {
+      "latitude": 52.205337,
+      "longitude": 0.121817
+    }
+  },
+  "moderators": [
+    {
+      "name": "Alastair Smith"
+    }
+  ]
+}

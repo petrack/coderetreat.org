@@ -1,0 +1,20 @@
+{
+  "datetime": "2016-10-22 09:00:00",
+  "title": "Global Day of Coderetreat 2016 - Ourense, España",
+  "url": "https://www.google.es/maps/place/ESEI+-+Escola+Superior+de+Enxeñería+Informática/@42.3438849,-7.8550548,18z/data=!4m5!3m4!1s0x0:0xbb2380c0a6827554!8m2!3d42.3449231!4d-7.8554791?hl=es",
+  "location": {
+    "city": "Ourense",
+    "country": "España",
+    "timezone": "Europe/Madrid",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 42.3357829,
+      "longitude": -7.8639314
+    }
+  },
+  "moderators": [
+    {
+      "name": "Baltasar García Perez-Schofield"
+    }
+  ]
+}

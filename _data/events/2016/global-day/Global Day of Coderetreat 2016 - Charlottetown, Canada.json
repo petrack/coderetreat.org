@@ -1,0 +1,20 @@
+{
+  "datetime": "2016-10-22 09:00:00",
+  "title": "Global Day of Coderetreat 2016 - Charlottetown, Canada",
+  "url": "https://www.google.ca/maps/place/Startup+Zone/@46.2323826,-63.1262815,18z/data=!4m5!3m4!1s0x0:0xcf840cae26d3744b!8m2!3d46.231994!4d-63.125114",
+  "location": {
+    "city": "Charlottetown",
+    "country": "Canada",
+    "timezone": "America/Halifax",
+    "utcOffset": -3,
+    "coordinates": {
+      "latitude": 46.23824,
+      "longitude": -63.13107040000001
+    }
+  },
+  "moderators": [
+    {
+      "name": "PEIDevs"
+    }
+  ]
+}

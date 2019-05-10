@@ -1,0 +1,20 @@
+{
+  "datetime": "2015-11-14 09:00:00",
+  "title": "Global Day of Coderetreat 2015 - Arlington, VA, USA",
+  "url": "https://www.eventbrite.com/e/global-day-of-coderetreat-2015-arlington-va-usa-tickets-19102930379",
+  "location": {
+    "city": "Arlington, VA",
+    "country": "USA",
+    "timezone": "America/New_York",
+    "utcOffset": -4,
+    "coordinates": {
+      "latitude": 38.8799697,
+      "longitude": -77.1067698
+    }
+  },
+  "moderators": [
+    {
+      "name": "Kevin Shaw"
+    }
+  ]
+}

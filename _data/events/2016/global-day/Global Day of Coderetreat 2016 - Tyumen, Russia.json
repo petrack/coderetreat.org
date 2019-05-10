@@ -1,0 +1,20 @@
+{
+  "datetime": "2016-10-22 09:00:00",
+  "title": "Global Day of Coderetreat 2016 - Tyumen, Russia",
+  "url": "http://crtweb.ru/contacts",
+  "location": {
+    "city": "Tyumen",
+    "country": "Russia",
+    "timezone": "Asia/Yekaterinburg",
+    "utcOffset": 5,
+    "coordinates": {
+      "latitude": 57.1612975,
+      "longitude": 65.5250172
+    }
+  },
+  "moderators": [
+    {
+      "name": "Vitaliy Akmashev"
+    }
+  ]
+}

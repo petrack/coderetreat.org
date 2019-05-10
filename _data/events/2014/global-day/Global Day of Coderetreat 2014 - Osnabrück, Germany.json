@@ -1,0 +1,20 @@
+{
+  "datetime": "2014-11-15 09:00:00",
+  "title": "Global Day of Coderetreat 2014 - Osnabrück, Germany",
+  "url": "",
+  "location": {
+    "city": "Osnabrück",
+    "country": "Germany",
+    "timezone": "Europe/Berlin",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 52.2799112,
+      "longitude": 8.0471788
+    }
+  },
+  "moderators": [
+    {
+      "name": "Ingo Lücker"
+    }
+  ]
+}

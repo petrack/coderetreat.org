@@ -1,0 +1,20 @@
+{
+  "datetime": "2014-11-15 09:00:00",
+  "title": "Global Day of Coderetreat 2014 - Calgary, Canada",
+  "url": "",
+  "location": {
+    "city": "Calgary",
+    "country": "Canada",
+    "timezone": "America/Edmonton",
+    "utcOffset": -6,
+    "coordinates": {
+      "latitude": 51.0486151,
+      "longitude": -114.0708459
+    }
+  },
+  "moderators": [
+    {
+      "name": "Tony Trung Thanh Vo"
+    }
+  ]
+}

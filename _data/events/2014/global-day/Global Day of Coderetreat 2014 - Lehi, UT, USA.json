@@ -1,0 +1,20 @@
+{
+  "datetime": "2014-11-15 09:00:00",
+  "title": "Global Day of Coderetreat 2014 - Lehi, UT, USA",
+  "url": "",
+  "location": {
+    "city": "Lehi, UT",
+    "country": "USA",
+    "timezone": "America/Denver",
+    "utcOffset": -6,
+    "coordinates": {
+      "latitude": 40.3916172,
+      "longitude": -111.8507662
+    }
+  },
+  "moderators": [
+    {
+      "name": "David Adsit"
+    }
+  ]
+}

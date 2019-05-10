@@ -1,0 +1,29 @@
+{
+  "datetime": "2013-12-14 09:00:00",
+  "title": "Global Day of Coderetreat 2013 - Columbia, MD, USA",
+  "url": "https://maps.google.com/maps?q=6700+Alexander+Bell+Drive+Suite+440+Columbia,+Maryland+21046&hl=en&ll=39.186071,-76.809221&spn=0.001486,0.001065&sll=38.804821,-77.236966&sspn=3.060482,2.180786&t=h&hnear=6700+Alexander+Bell+Dr+%23440,+Columbia,+Howard,+Maryland+21046&z=19&iwloc=A",
+  "location": {
+    "city": "Columbia, MD",
+    "country": "USA",
+    "timezone": "America/New_York",
+    "utcOffset": -4,
+    "coordinates": {
+      "latitude": 39.2037144,
+      "longitude": -76.86104619999999
+    }
+  },
+  "moderators": [
+    {
+      "name": "Visionist"
+    },
+    {
+      "name": "Inc."
+    },
+    {
+      "name": "Riverstone Enterprise Solutions"
+    },
+    {
+      "name": "Keith Jaska (Riverstone ES)"
+    }
+  ]
+}

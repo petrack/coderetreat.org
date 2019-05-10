@@ -1,0 +1,23 @@
+{
+  "datetime": "2015-11-14 09:00:00",
+  "title": "Global Day of Coderetreat 2015 - Gran Canaria, Spain",
+  "url": "",
+  "location": {
+    "city": "Gran Canaria",
+    "country": "Spain",
+    "timezone": "Atlantic/Canary",
+    "utcOffset": 1,
+    "coordinates": {
+      "latitude": 27.9202202,
+      "longitude": -15.5474373
+    }
+  },
+  "moderators": [
+    {
+      "name": "Gran Canaria Agil"
+    },
+    {
+      "name": "Carlos Ble"
+    }
+  ]
+}

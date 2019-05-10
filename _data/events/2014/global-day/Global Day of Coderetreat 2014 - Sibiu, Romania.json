@@ -1,0 +1,23 @@
+{
+  "datetime": "2014-11-15 09:00:00",
+  "title": "Global Day of Coderetreat 2014 - Sibiu, Romania",
+  "url": "https://www.google.ro/maps/place/iQuest/@45.783389,24.14652,17z/data=!4m6!1m3!3m2!1s0x474c678789ca165f:0xf9ccba1996bc0564!2siQuest!3m1!1s0x474c678789ca165f:0xf9ccba1996bc0564?hl=ro",
+  "location": {
+    "city": "Sibiu",
+    "country": "Romania",
+    "timezone": "Europe/Bucharest",
+    "utcOffset": 3,
+    "coordinates": {
+      "latitude": 45.7983273,
+      "longitude": 24.1255826
+    }
+  },
+  "moderators": [
+    {
+      "name": "Csaba Trucza"
+    },
+    {
+      "name": "Adi B"
+    }
+  ]
+}

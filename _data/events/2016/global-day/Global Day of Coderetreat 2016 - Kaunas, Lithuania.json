@@ -1,0 +1,32 @@
+{
+  "datetime": "2016-10-22 09:00:00",
+  "title": "Global Day of Coderetreat 2016 - Kaunas, Lithuania",
+  "url": "",
+  "location": {
+    "city": "Kaunas",
+    "country": "Lithuania",
+    "timezone": "Europe/Vilnius",
+    "utcOffset": 3,
+    "coordinates": {
+      "latitude": 54.8985207,
+      "longitude": 23.9035965
+    }
+  },
+  "moderators": [
+    {
+      "name": "Adomas Greicius"
+    },
+    {
+      "name": "Giedre Kojaliene"
+    },
+    {
+      "name": "Dainius Mežanskas"
+    },
+    {
+      "name": "Dominykas Blyžė"
+    },
+    {
+      "name": "Vaidas Pilkaukas"
+    }
+  ]
+}

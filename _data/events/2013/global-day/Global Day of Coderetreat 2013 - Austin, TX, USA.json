@@ -1,0 +1,20 @@
+{
+  "datetime": "2013-12-14 09:00:00",
+  "title": "Global Day of Coderetreat 2013 - Austin, TX, USA",
+  "url": "http://capitalfactory.com/",
+  "location": {
+    "city": "Austin, TX",
+    "country": "USA",
+    "timezone": "America/Chicago",
+    "utcOffset": -5,
+    "coordinates": {
+      "latitude": 30.267153,
+      "longitude": -97.7430608
+    }
+  },
+  "moderators": [
+    {
+      "name": "Marc Lainez"
+    }
+  ]
+}

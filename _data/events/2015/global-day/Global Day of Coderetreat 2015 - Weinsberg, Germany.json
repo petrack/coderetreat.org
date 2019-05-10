@@ -1,0 +1,20 @@
+{
+  "datetime": "2015-11-14 09:00:00",
+  "title": "Global Day of Coderetreat 2015 - Weinsberg, Germany",
+  "url": "https://www.google.de/maps/dir/''/Haller+Str.+60,+74189+Weinsberg/data=!4m5!4m4!1m0!1m2!1m1!1s0x47982ffeb65a9847:0xc30e28ddd376070a?sa=X&ved=0CB0QwwUwAGoVChMI_MWH8YflyAIVif5yCh2H0QE7",
+  "location": {
+    "city": "Weinsberg",
+    "country": "Germany",
+    "timezone": "Europe/Berlin",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 49.1484633,
+      "longitude": 9.287265699999999
+    }
+  },
+  "moderators": [
+    {
+      "name": "Kaufland Informationssysteme"
+    }
+  ]
+}

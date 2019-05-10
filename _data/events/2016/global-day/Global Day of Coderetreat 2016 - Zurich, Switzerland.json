@@ -1,0 +1,20 @@
+{
+  "datetime": "2016-10-22 09:00:00",
+  "title": "Global Day of Coderetreat 2016 - Zurich, Switzerland",
+  "url": "https://maps.google.de/maps?f=q&source=embed&hl=de&geocode=&q=Namics+AG,+Bederstrasse,+Zürich,+Schweiz&aq=0&oq=Namics+AG+züri&sll=48.1182,11.5838&sspn=0.011589,0.033023&gl=de&ie=UTF8&hq=Namics+AG,&hnear=Bederstrasse,+Zürich,+Schweiz&t=m&ll=47.364814,8.531105&spn=0.006295,0.008117",
+  "location": {
+    "city": "Zurich",
+    "country": "Switzerland",
+    "timezone": "Europe/Zurich",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 47.3768866,
+      "longitude": 8.541694
+    }
+  },
+  "moderators": [
+    {
+      "name": "infinitary"
+    }
+  ]
+}

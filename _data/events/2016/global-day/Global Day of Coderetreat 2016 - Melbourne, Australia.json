@@ -1,0 +1,26 @@
+{
+  "datetime": "2016-10-22 09:00:00",
+  "title": "Global Day of Coderetreat 2016 - Melbourne, Australia",
+  "url": "https://www.rea-group.com/",
+  "location": {
+    "city": "Melbourne",
+    "country": "Australia",
+    "timezone": "Australia/Melbourne",
+    "utcOffset": 11,
+    "coordinates": {
+      "latitude": -37.8136276,
+      "longitude": 144.9630576
+    }
+  },
+  "moderators": [
+    {
+      "name": "Tomasz Janowski"
+    },
+    {
+      "name": "Ilya Paripsa"
+    },
+    {
+      "name": "Terry Dai"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "datetime": "2014-11-15 09:00:00",
+  "title": "Global Day of Coderetreat 2014 - Honolulu, HI, USA",
+  "url": "https://www.google.com/maps/place/Manoa+Innovation+Center/@21.308857,-157.808458,17z/data=!3m1!4b1!4m2!3m1!1s0x7c006d08371d01e9:0xd84a9348810716bf",
+  "location": {
+    "city": "Honolulu, HI",
+    "country": "USA",
+    "timezone": "Pacific/Honolulu",
+    "utcOffset": -10,
+    "coordinates": {
+      "latitude": 21.3069444,
+      "longitude": -157.8583333
+    }
+  },
+  "moderators": [
+    {
+      "name": "Christopher Sass"
+    }
+  ]
+}

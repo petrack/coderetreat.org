@@ -1,0 +1,20 @@
+{
+  "datetime": "2016-10-22 09:00:00",
+  "title": "Global Day of Coderetreat 2016 - CORRIENTES, ARGENTINA",
+  "url": "http://www.comunidadtic.com.ar",
+  "location": {
+    "city": "CORRIENTES",
+    "country": "ARGENTINA",
+    "timezone": "America/Cordoba",
+    "utcOffset": -3,
+    "coordinates": {
+      "latitude": -27.4692131,
+      "longitude": -58.8306349
+    }
+  },
+  "moderators": [
+    {
+      "name": "Matias Mascazzini"
+    }
+  ]
+}

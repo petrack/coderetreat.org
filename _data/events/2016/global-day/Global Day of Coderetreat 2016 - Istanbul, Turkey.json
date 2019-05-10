@@ -1,0 +1,23 @@
+{
+  "datetime": "2016-10-22 09:00:00",
+  "title": "Global Day of Coderetreat 2016 - Istanbul, Turkey",
+  "url": "https://www.eventbrite.com/e/global-day-of-code-retreat-istanbul-by-agile-turkey-registration-28487769686",
+  "location": {
+    "city": "Istanbul",
+    "country": "Turkey",
+    "timezone": "Europe/Istanbul",
+    "utcOffset": 3,
+    "coordinates": {
+      "latitude": 41.0082376,
+      "longitude": 28.9783589
+    }
+  },
+  "moderators": [
+    {
+      "name": "Agile Turkey"
+    },
+    {
+      "name": "Lemi Orhan Ergin"
+    }
+  ]
+}

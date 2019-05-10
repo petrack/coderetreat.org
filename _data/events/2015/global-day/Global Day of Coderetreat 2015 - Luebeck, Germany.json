@@ -1,0 +1,20 @@
+{
+  "datetime": "2015-11-14 09:00:00",
+  "title": "Global Day of Coderetreat 2015 - Luebeck, Germany",
+  "url": "",
+  "location": {
+    "city": "Luebeck",
+    "country": "Germany",
+    "timezone": "Europe/Berlin",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 53.8654673,
+      "longitude": 10.6865593
+    }
+  },
+  "moderators": [
+    {
+      "name": "Thilko Richter"
+    }
+  ]
+}

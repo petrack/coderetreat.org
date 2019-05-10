@@ -1,0 +1,23 @@
+{
+  "datetime": "2013-12-14 09:00:00",
+  "title": "Global Day of Coderetreat 2013 - Riga, Latvia",
+  "url": "http://meetu.ps/22hysP",
+  "location": {
+    "city": "Riga",
+    "country": "Latvia",
+    "timezone": "Europe/Riga",
+    "utcOffset": 3,
+    "coordinates": {
+      "latitude": 56.9496487,
+      "longitude": 24.1051864
+    }
+  },
+  "moderators": [
+    {
+      "name": "Latvian Developers Network"
+    },
+    {
+      "name": "Vladimir Tarasov"
+    }
+  ]
+}

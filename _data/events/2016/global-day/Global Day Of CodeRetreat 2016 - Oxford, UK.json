@@ -1,0 +1,20 @@
+{
+  "datetime": "2016-10-22 09:00:00",
+  "title": "Global Day Of CodeRetreat 2016 - Oxford, UK",
+  "url": "https://www.meetup.com/Agile-Software-Development-Oxfordshire/events/234142930/",
+  "location": {
+    "city": "Oxford",
+    "country": "UK",
+    "timezone": "Europe/London",
+    "utcOffset": 1,
+    "coordinates": {
+      "latitude": 51.7520209,
+      "longitude": -1.2577263
+    }
+  },
+  "moderators": [
+    {
+      "name": "Saqib Hussain"
+    }
+  ]
+}

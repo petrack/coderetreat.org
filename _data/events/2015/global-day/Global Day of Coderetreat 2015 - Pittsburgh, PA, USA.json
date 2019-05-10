@@ -1,0 +1,26 @@
+{
+  "datetime": "2015-11-14 09:00:00",
+  "title": "Global Day of Coderetreat 2015 - Pittsburgh, PA, USA",
+  "url": "http://www.meetup.com/Pittsburgh-Code-Supply/events/226400251/",
+  "location": {
+    "city": "Pittsburgh, PA",
+    "country": "USA",
+    "timezone": "America/New_York",
+    "utcOffset": -4,
+    "coordinates": {
+      "latitude": 40.44062479999999,
+      "longitude": -79.9958864
+    }
+  },
+  "moderators": [
+    {
+      "name": "Pittsburgh Code"
+    },
+    {
+      "name": "Supply"
+    },
+    {
+      "name": "Jim Hurne"
+    }
+  ]
+}

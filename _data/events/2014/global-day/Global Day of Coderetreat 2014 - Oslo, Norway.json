@@ -1,0 +1,20 @@
+{
+  "datetime": "2014-11-15 09:00:00",
+  "title": "Global Day of Coderetreat 2014 - Oslo, Norway",
+  "url": "",
+  "location": {
+    "city": "Oslo",
+    "country": "Norway",
+    "timezone": "Europe/Oslo",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 59.9138688,
+      "longitude": 10.7522454
+    }
+  },
+  "moderators": [
+    {
+      "name": "Mike Long"
+    }
+  ]
+}

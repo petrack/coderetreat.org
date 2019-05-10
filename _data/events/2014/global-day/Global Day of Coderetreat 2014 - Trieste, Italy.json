@@ -1,0 +1,20 @@
+{
+  "datetime": "2014-11-15 09:00:00",
+  "title": "Global Day of Coderetreat 2014 - Trieste, Italy",
+  "url": "https://www.google.it/maps/place/Universita'+degli+studi+di+Trieste/@45.658383,13.79307,17z/data=!3m1!4b1!4m2!3m1!1s0x477b6b17f60e8cb9:0x4647b2336efbdb29?hl=it",
+  "location": {
+    "city": "Trieste",
+    "country": "Italy",
+    "timezone": "Europe/Rome",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 45.6495264,
+      "longitude": 13.7768182
+    }
+  },
+  "moderators": [
+    {
+      "name": "Daniele Pozzobon"
+    }
+  ]
+}

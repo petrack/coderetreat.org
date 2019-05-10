@@ -1,0 +1,20 @@
+{
+  "datetime": "2016-10-22 09:00:00",
+  "title": "Global Day of Coderetreat 2016 - Madrid, España",
+  "url": "https://www.google.es/maps/place/Idealista.com/@40.4160524,-3.6983344,17z/data=!3m1!4b1!4m5!3m4!1s0xd422883b15d0939:0xa3bdf552cfb6cb01!8m2!3d40.4160483!4d-3.6961457?hl=en",
+  "location": {
+    "city": "Madrid",
+    "country": "España",
+    "timezone": "Europe/Madrid",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 40.4167754,
+      "longitude": -3.7037902
+    }
+  },
+  "moderators": [
+    {
+      "name": "Software Craftsmanship Madrid"
+    }
+  ]
+}

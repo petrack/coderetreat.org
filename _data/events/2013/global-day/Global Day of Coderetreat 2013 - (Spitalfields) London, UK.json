@@ -1,0 +1,23 @@
+{
+  "datetime": "2013-12-14 09:00:00",
+  "title": "Global Day of Coderetreat 2013 - (Spitalfields) London, UK",
+  "url": "http://www.unrulymedia.com/contact-us",
+  "location": {
+    "city": "(Spitalfields) London",
+    "country": "UK",
+    "timezone": "Europe/London",
+    "utcOffset": 1,
+    "coordinates": {
+      "latitude": 51.5196978,
+      "longitude": -0.07569210000000001
+    }
+  },
+  "moderators": [
+    {
+      "name": "Rachel Davies"
+    },
+    {
+      "name": "Clive Evans"
+    }
+  ]
+}

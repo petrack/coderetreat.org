@@ -1,0 +1,35 @@
+{
+  "datetime": "2014-11-15 09:00:00",
+  "title": "Global Day of Coderetreat 2014 - Beijing, China",
+  "url": "https://www.google.com/maps/place/Guohua+Plaza,+Dongzhimen,+Dongcheng,+Beijing,+China,+100007/@39.9391084,116.4324411,17z/data=!3m1!4b1!4m2!3m1!1s0x35f1acc7f25aa6d5:0x8207842d4401fc13",
+  "location": {
+    "city": "Beijing",
+    "country": "China",
+    "timezone": "Asia/Shanghai",
+    "utcOffset": 8,
+    "coordinates": {
+      "latitude": 39.90419989999999,
+      "longitude": 116.4073963
+    }
+  },
+  "moderators": [
+    {
+      "name": "Ben WU"
+    },
+    {
+      "name": "Tingting FANG"
+    },
+    {
+      "name": "Hui REN"
+    },
+    {
+      "name": "Xiaokang LI"
+    },
+    {
+      "name": "Yongzhen HE"
+    },
+    {
+      "name": "Ben Wu"
+    }
+  ]
+}

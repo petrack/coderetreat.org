@@ -1,0 +1,20 @@
+{
+  "datetime": "2014-11-15 09:00:00",
+  "title": "Global Day of Coderetreat 2014 - Cotonou, Benin",
+  "url": "",
+  "location": {
+    "city": "Cotonou",
+    "country": "Benin",
+    "timezone": "Africa/Porto-Novo",
+    "utcOffset": 1,
+    "coordinates": {
+      "latitude": 6.3702928,
+      "longitude": 2.3912362
+    }
+  },
+  "moderators": [
+    {
+      "name": "José Ghislain Quenum"
+    }
+  ]
+}

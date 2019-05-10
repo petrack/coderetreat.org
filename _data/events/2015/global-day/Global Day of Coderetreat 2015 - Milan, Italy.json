@@ -1,0 +1,23 @@
+{
+  "datetime": "2015-11-14 09:00:00",
+  "title": "Global Day of Coderetreat 2015 - Milan, Italy",
+  "url": "https://www.eventbrite.it/e/biglietti-global-day-of-coderetreat-2015-milan-19024926066",
+  "location": {
+    "city": "Milan",
+    "country": "Italy",
+    "timezone": "Europe/Rome",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 45.4654219,
+      "longitude": 9.1859243
+    }
+  },
+  "moderators": [
+    {
+      "name": "XPug Milano"
+    },
+    {
+      "name": "Gabriele Tondi"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "datetime": "2013-12-14 09:00:00",
+  "title": "Global Day of Coderetreat 2013 - Osimo Stazione AN, Italy",
+  "url": "http://www.cowo42.com/",
+  "location": {
+    "city": "Osimo Stazione AN",
+    "country": "Italy",
+    "timezone": "Europe/Rome",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 43.4967089,
+      "longitude": 13.5469167
+    }
+  },
+  "moderators": [
+    {
+      "name": "Cowo 42"
+    },
+    {
+      "name": "Riccardo Franconi"
+    },
+    {
+      "name": "Emanuele Rampichini"
+    }
+  ]
+}

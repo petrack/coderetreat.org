@@ -1,0 +1,20 @@
+{
+  "datetime": "2015-11-14 09:00:00",
+  "title": "Global Day of Coderetreat 2015 - Timisoara, Romania",
+  "url": "https://www.google.ro/maps/place/Timisoara+Startup+Hub/@45.7568437,21.2191003,17z/data=!3m1!4b1!4m2!3m1!1s0x474567875a9c96a9:0x5729a944fd0741ea?hl=en",
+  "location": {
+    "city": "Timisoara",
+    "country": "Romania",
+    "timezone": "Europe/Bucharest",
+    "utcOffset": 3,
+    "coordinates": {
+      "latitude": 45.7488716,
+      "longitude": 21.2086793
+    }
+  },
+  "moderators": [
+    {
+      "name": "Radu Ticiu"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "datetime": "2015-11-14 09:00:00",
+  "title": "Global Day of Coderetreat 2015 - Fortaleza, Brazil",
+  "url": "https://goo.gl/maps/cFbtzUUEsgF2",
+  "location": {
+    "city": "Fortaleza",
+    "country": "Brazil",
+    "timezone": "America/Fortaleza",
+    "utcOffset": -3,
+    "coordinates": {
+      "latitude": -3.7318616,
+      "longitude": -38.5266704
+    }
+  },
+  "moderators": [
+    {
+      "name": "Paulo Benety Mendes de Lima"
+    }
+  ]
+}

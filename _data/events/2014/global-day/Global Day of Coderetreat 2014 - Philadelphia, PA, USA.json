@@ -1,0 +1,20 @@
+{
+  "datetime": "2014-11-15 09:00:00",
+  "title": "Global Day of Coderetreat 2014 - Philadelphia, PA, USA",
+  "url": "",
+  "location": {
+    "city": "Philadelphia, PA",
+    "country": "USA",
+    "timezone": "America/New_York",
+    "utcOffset": -4,
+    "coordinates": {
+      "latitude": 39.9525839,
+      "longitude": -75.1652215
+    }
+  },
+  "moderators": [
+    {
+      "name": "Jearvon Dharrie"
+    }
+  ]
+}

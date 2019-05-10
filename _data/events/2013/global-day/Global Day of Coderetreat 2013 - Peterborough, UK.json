@@ -1,0 +1,20 @@
+{
+  "datetime": "2013-12-14 09:00:00",
+  "title": "Global Day of Coderetreat 2013 - Peterborough, UK",
+  "url": "http://www.meetup.com/Agile-Peterborough/events/136888662/",
+  "location": {
+    "city": "Peterborough",
+    "country": "UK",
+    "timezone": "Europe/London",
+    "utcOffset": 1,
+    "coordinates": {
+      "latitude": 52.56949849999999,
+      "longitude": -0.2405299
+    }
+  },
+  "moderators": [
+    {
+      "name": "Alex Shaw"
+    }
+  ]
+}

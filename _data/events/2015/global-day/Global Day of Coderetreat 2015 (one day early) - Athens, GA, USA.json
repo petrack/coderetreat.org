@@ -1,0 +1,20 @@
+{
+  "datetime": "2015-11-14 09:00:00",
+  "title": "Global Day of Coderetreat 2015 (one day early) - Athens, GA, USA",
+  "url": "",
+  "location": {
+    "city": "Athens, GA",
+    "country": "USA",
+    "timezone": "America/New_York",
+    "utcOffset": -4,
+    "coordinates": {
+      "latitude": 33.9519347,
+      "longitude": -83.357567
+    }
+  },
+  "moderators": [
+    {
+      "name": "Jonathan Wallace"
+    }
+  ]
+}

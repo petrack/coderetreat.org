@@ -1,0 +1,20 @@
+{
+  "datetime": "2014-11-15 09:00:00",
+  "title": "Global Day of Coderetreat 2014 - Burlington, VT, USA",
+  "url": "http://www.meetup.com/VTCode/events/215875532/",
+  "location": {
+    "city": "Burlington, VT",
+    "country": "USA",
+    "timezone": "America/New_York",
+    "utcOffset": -4,
+    "coordinates": {
+      "latitude": 44.4758825,
+      "longitude": -73.21207199999999
+    }
+  },
+  "moderators": [
+    {
+      "name": "Alex Chaffee"
+    }
+  ]
+}

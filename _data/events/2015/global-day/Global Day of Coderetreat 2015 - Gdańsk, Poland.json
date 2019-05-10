@@ -1,0 +1,20 @@
+{
+  "datetime": "2015-11-14 09:00:00",
+  "title": "Global Day of Coderetreat 2015 - Gdańsk, Poland",
+  "url": "https://events.epam.com/events/coderetreat-gdansk",
+  "location": {
+    "city": "Gdańsk",
+    "country": "Poland",
+    "timezone": "Europe/Warsaw",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 54.35202520000001,
+      "longitude": 18.6466384
+    }
+  },
+  "moderators": [
+    {
+      "name": "Michał Gruca"
+    }
+  ]
+}

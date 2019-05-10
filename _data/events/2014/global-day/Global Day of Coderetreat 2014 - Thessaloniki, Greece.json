@@ -1,0 +1,20 @@
+{
+  "datetime": "2014-11-15 09:00:00",
+  "title": "Global Day of Coderetreat 2014 - Thessaloniki, Greece",
+  "url": "",
+  "location": {
+    "city": "Thessaloniki",
+    "country": "Greece",
+    "timezone": "Europe/Athens",
+    "utcOffset": 3,
+    "coordinates": {
+      "latitude": 40.6400629,
+      "longitude": 22.9444191
+    }
+  },
+  "moderators": [
+    {
+      "name": "Papapetrou Patroklos"
+    }
+  ]
+}

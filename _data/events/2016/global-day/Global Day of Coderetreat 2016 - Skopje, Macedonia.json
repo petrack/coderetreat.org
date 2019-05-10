@@ -1,0 +1,23 @@
+{
+  "datetime": "2016-10-22 09:00:00",
+  "title": "Global Day of Coderetreat 2016 - Skopje, Macedonia",
+  "url": "https://www.eventbrite.com/e/global-day-of-coderetreat-2016-skopje-macedonia-tickets-28188976989",
+  "location": {
+    "city": "Skopje",
+    "country": "Macedonia",
+    "timezone": "Europe/Skopje",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 41.9973462,
+      "longitude": 21.4279956
+    }
+  },
+  "moderators": [
+    {
+      "name": "HASELT"
+    },
+    {
+      "name": "Dalibor Nasevic"
+    }
+  ]
+}

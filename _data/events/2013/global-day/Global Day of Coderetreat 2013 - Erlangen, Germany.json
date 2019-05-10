@@ -1,0 +1,20 @@
+{
+  "datetime": "2013-12-14 09:00:00",
+  "title": "Global Day of Coderetreat 2013 - Erlangen, Germany",
+  "url": "http://www.methodpark.de/event/global-day-of-coderetreat.html",
+  "location": {
+    "city": "Erlangen",
+    "country": "Germany",
+    "timezone": "Europe/Berlin",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 49.5896744,
+      "longitude": 11.0119611
+    }
+  },
+  "moderators": [
+    {
+      "name": "Stefan Clepce"
+    }
+  ]
+}

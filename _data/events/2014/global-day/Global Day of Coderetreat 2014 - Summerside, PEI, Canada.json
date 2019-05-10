@@ -1,0 +1,23 @@
+{
+  "datetime": "2014-11-15 09:00:00",
+  "title": "Global Day of Coderetreat 2014 - Summerside, PEI, Canada",
+  "url": "http://www.meetup.com/PEI-Developers/events/213330862/",
+  "location": {
+    "city": "Summerside, PEI",
+    "country": "Canada",
+    "timezone": "America/Halifax",
+    "utcOffset": -3,
+    "coordinates": {
+      "latitude": 46.39337769999999,
+      "longitude": -63.79023309999999
+    }
+  },
+  "moderators": [
+    {
+      "name": "☕ J. B. Rainsberger"
+    },
+    {
+      "name": "Steven Baker"
+    }
+  ]
+}

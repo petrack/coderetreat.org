@@ -1,0 +1,35 @@
+{
+  "datetime": "2016-10-22 09:00:00",
+  "title": "Global Day of Coderetreat 2016 - Pune, India",
+  "url": "https://www.meetup.com/Codewords-Pune/events/234747733/",
+  "location": {
+    "city": "Pune",
+    "country": "India",
+    "timezone": "Asia/Calcutta",
+    "utcOffset": 5.5,
+    "coordinates": {
+      "latitude": 18.5204303,
+      "longitude": 73.8567437
+    }
+  },
+  "moderators": [
+    {
+      "name": "Christian Hujer"
+    },
+    {
+      "name": "Nelkinda"
+    },
+    {
+      "name": "Red Panda"
+    },
+    {
+      "name": "Rahul Katariya"
+    },
+    {
+      "name": "Tushar Jarhad"
+    },
+    {
+      "name": "Sukant Saxena"
+    }
+  ]
+}

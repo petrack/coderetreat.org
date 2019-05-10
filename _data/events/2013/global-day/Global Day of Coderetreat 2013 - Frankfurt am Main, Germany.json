@@ -1,0 +1,20 @@
+{
+  "datetime": "2013-12-14 09:00:00",
+  "title": "Global Day of Coderetreat 2013 - Frankfurt am Main, Germany",
+  "url": "http://www.itemis.de/itemis-ag/unternehmen/standorte/language=de/35736/frankfurt",
+  "location": {
+    "city": "Frankfurt am Main",
+    "country": "Germany",
+    "timezone": "Europe/Berlin",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 50.1109221,
+      "longitude": 8.6821267
+    }
+  },
+  "moderators": [
+    {
+      "name": "Sven Lange"
+    }
+  ]
+}

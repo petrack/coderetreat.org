@@ -1,0 +1,20 @@
+{
+  "datetime": "2014-11-15 09:00:00",
+  "title": "Global Day of Coderetreat 2014 - Portland, OR, USA",
+  "url": "https://www.eventbrite.com/e/pdx-global-day-of-code-retreat-2014-tickets-11470688137",
+  "location": {
+    "city": "Portland, OR",
+    "country": "USA",
+    "timezone": "America/Los_Angeles",
+    "utcOffset": -7,
+    "coordinates": {
+      "latitude": 45.5230622,
+      "longitude": -122.6764816
+    }
+  },
+  "moderators": [
+    {
+      "name": "Matt Plavcan"
+    }
+  ]
+}

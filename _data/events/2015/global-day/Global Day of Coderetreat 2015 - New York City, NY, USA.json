@@ -1,0 +1,26 @@
+{
+  "datetime": "2015-11-14 09:00:00",
+  "title": "Global Day of Coderetreat 2015 - New York City, NY, USA",
+  "url": "",
+  "location": {
+    "city": "New York City, NY",
+    "country": "USA",
+    "timezone": "America/New_York",
+    "utcOffset": -4,
+    "coordinates": {
+      "latitude": 40.7127837,
+      "longitude": -74.0059413
+    }
+  },
+  "moderators": [
+    {
+      "name": "The Flatiron School"
+    },
+    {
+      "name": "8th Light"
+    },
+    {
+      "name": "Mike Ebert"
+    }
+  ]
+}

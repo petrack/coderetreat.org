@@ -1,0 +1,20 @@
+{
+  "datetime": "2016-10-22 09:00:00",
+  "title": "Global Day of Coderetreat 2016 - Columbus, OH, USA",
+  "url": "http://columbuscodecamp.com/",
+  "location": {
+    "city": "Columbus, OH",
+    "country": "USA",
+    "timezone": "America/New_York",
+    "utcOffset": -4,
+    "coordinates": {
+      "latitude": 39.9611755,
+      "longitude": -82.99879419999999
+    }
+  },
+  "moderators": [
+    {
+      "name": "Guy Royse"
+    }
+  ]
+}

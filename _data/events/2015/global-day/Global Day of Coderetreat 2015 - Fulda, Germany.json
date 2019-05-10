@@ -1,0 +1,23 @@
+{
+  "datetime": "2015-11-14 09:00:00",
+  "title": "Global Day of Coderetreat 2015 - Fulda, Germany",
+  "url": "http://www.hs-fulda.de/index.php?id=174",
+  "location": {
+    "city": "Fulda",
+    "country": "Germany",
+    "timezone": "Europe/Berlin",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 50.5558095,
+      "longitude": 9.6808449
+    }
+  },
+  "moderators": [
+    {
+      "name": "Martine Herpers"
+    },
+    {
+      "name": "Thomas Papendieck"
+    }
+  ]
+}

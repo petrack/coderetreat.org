@@ -1,0 +1,16 @@
+{
+  "datetime": "2015-11-14 09:00:00",
+  "title": "Global Day of Coderetreat 2015 - Glasgow, UK",
+  "url": "https://twitter.com/cr_gla",
+  "location": {
+    "city": "Glasgow",
+    "country": "UK",
+    "timezone": "Europe/London",
+    "utcOffset": 1,
+    "coordinates": {
+      "latitude": 55.864237,
+      "longitude": -4.251806
+    }
+  },
+  "moderators": ""
+}

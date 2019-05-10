@@ -1,0 +1,23 @@
+{
+  "datetime": "2013-12-14 09:00:00",
+  "title": "Global Day of Coderetreat 2013 - Bielsko-Biala, Poland",
+  "url": "http://goo.gl/maps/GjW4n",
+  "location": {
+    "city": "Bielsko-Biala",
+    "country": "Poland",
+    "timezone": "Europe/Warsaw",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 49.8223768,
+      "longitude": 19.0583845
+    }
+  },
+  "moderators": [
+    {
+      "name": "Foundation Mikstura.it"
+    },
+    {
+      "name": "Michał Czyż"
+    }
+  ]
+}

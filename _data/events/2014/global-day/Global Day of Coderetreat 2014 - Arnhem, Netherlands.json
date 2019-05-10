@@ -1,0 +1,23 @@
+{
+  "datetime": "2014-11-15 09:00:00",
+  "title": "Global Day of Coderetreat 2014 - Arnhem, Netherlands",
+  "url": "http://www.luminis.eu/events/global-day-code-retreat-2/",
+  "location": {
+    "city": "Arnhem",
+    "country": "Netherlands",
+    "timezone": "Europe/Amsterdam",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 51.9851034,
+      "longitude": 5.898729599999999
+    }
+  },
+  "moderators": [
+    {
+      "name": "Luminis Arnhem"
+    },
+    {
+      "name": "Angelo van der Sijpt"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "datetime": "2014-11-15 09:00:00",
+  "title": "Global Day of Coderetreat 2014 - Chicago, IL, USA",
+  "url": "https://www.eventbrite.co.uk/e/global-day-of-coderetreat-2014-chicago-tickets-13352540809",
+  "location": {
+    "city": "Chicago, IL",
+    "country": "USA",
+    "timezone": "America/Chicago",
+    "utcOffset": -5,
+    "coordinates": {
+      "latitude": 41.8781136,
+      "longitude": -87.6297982
+    }
+  },
+  "moderators": [
+    {
+      "name": "Eric Meyer"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "datetime": "2013-12-14 09:00:00",
+  "title": "Global Day of Coderetreat 2013 - Padova, Italy",
+  "url": "http://www.programmersinpadua.it/",
+  "location": {
+    "city": "Padova",
+    "country": "Italy",
+    "timezone": "Europe/Rome",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 45.4064349,
+      "longitude": 11.8767611
+    }
+  },
+  "moderators": [
+    {
+      "name": "Programmers in Padua"
+    },
+    {
+      "name": "Francesco Levorato"
+    }
+  ]
+}

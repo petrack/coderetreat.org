@@ -1,0 +1,20 @@
+{
+  "datetime": "2016-10-22 09:00:00",
+  "title": "Global Day of Coderetreat 2016 - Lima, Peru",
+  "url": "http://www.joedayz.pe",
+  "location": {
+    "city": "Lima",
+    "country": "Peru",
+    "timezone": "America/Lima",
+    "utcOffset": -5,
+    "coordinates": {
+      "latitude": -12.0463731,
+      "longitude": -77.042754
+    }
+  },
+  "moderators": [
+    {
+      "name": "Jose Diaz Diaz"
+    }
+  ]
+}

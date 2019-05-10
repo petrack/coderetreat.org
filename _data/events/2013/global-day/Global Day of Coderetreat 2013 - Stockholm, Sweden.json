@@ -1,0 +1,23 @@
+{
+  "datetime": "2013-12-14 09:00:00",
+  "title": "Global Day of Coderetreat 2013 - Stockholm, Sweden",
+  "url": "http://tinyurl.com/valtechBesoksKarta",
+  "location": {
+    "city": "Stockholm",
+    "country": "Sweden",
+    "timezone": "Europe/Stockholm",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 59.32932349999999,
+      "longitude": 18.0685808
+    }
+  },
+  "moderators": [
+    {
+      "name": "Stockholm Software Craftsmanship"
+    },
+    {
+      "name": "Frej Connolly"
+    }
+  ]
+}

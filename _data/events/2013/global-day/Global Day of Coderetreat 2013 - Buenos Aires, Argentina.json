@@ -1,0 +1,16 @@
+{
+  "datetime": "2013-12-14 09:00:00",
+  "title": "Global Day of Coderetreat 2013 - Buenos Aires, Argentina",
+  "url": "https://maps.google.com/maps?f=q&source=s_q&hl=en&q=Kleer&aq=&sll=-34.595205,-58.337917&sspn=0.088036,0.157928&vpsrc=6&ie=UTF8&t=m&st=109146043351405611748&rq=1&ev=zi&split=1&radius=5.4&hq=Kleer&hnear=&ll=-34.595205,-58.337917&spn=0.088036,0.157928&z=13&iwloc=A&cid=18062526858954189075",
+  "location": {
+    "city": "Buenos Aires",
+    "country": "Argentina",
+    "timezone": "America/Buenos_Aires",
+    "utcOffset": -3,
+    "coordinates": {
+      "latitude": -34.6036844,
+      "longitude": -58.3815591
+    }
+  },
+  "moderators": ""
+}

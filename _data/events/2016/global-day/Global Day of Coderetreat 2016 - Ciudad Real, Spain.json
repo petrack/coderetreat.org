@@ -1,0 +1,20 @@
+{
+  "datetime": "2016-10-22 09:00:00",
+  "title": "Global Day of Coderetreat 2016 - Ciudad Real, Spain",
+  "url": "",
+  "location": {
+    "city": "Ciudad Real",
+    "country": "Spain",
+    "timezone": "Europe/Madrid",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 38.9848295,
+      "longitude": -3.927377799999999
+    }
+  },
+  "moderators": [
+    {
+      "name": "David Martin Garcia"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "datetime": "2016-10-22 09:00:00",
+  "title": "Global Day of Coderetreat 2016 - Nantes, France",
+  "url": "https://goo.gl/RNIzzf",
+  "location": {
+    "city": "Nantes",
+    "country": "France",
+    "timezone": "Europe/Paris",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 47.218371,
+      "longitude": -1.553621
+    }
+  },
+  "moderators": [
+    {
+      "name": "Software Crafts(wo)manship Nantes"
+    },
+    {
+      "name": "Fauvel Sébastien"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "datetime": "2013-12-14 09:00:00",
+  "title": "Global Day of Coderetreat 2013 - Calgary, Canada",
+  "url": "https://coderetreatyyc2013.eventbrite.com/",
+  "location": {
+    "city": "Calgary",
+    "country": "Canada",
+    "timezone": "America/Edmonton",
+    "utcOffset": -6,
+    "coordinates": {
+      "latitude": 51.0486151,
+      "longitude": -114.0708459
+    }
+  },
+  "moderators": [
+    {
+      "name": "Curtis Badke"
+    }
+  ]
+}

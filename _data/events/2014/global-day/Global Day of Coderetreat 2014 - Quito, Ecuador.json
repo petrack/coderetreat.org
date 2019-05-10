@@ -1,0 +1,32 @@
+{
+  "datetime": "2014-11-15 09:00:00",
+  "title": "Global Day of Coderetreat 2014 - Quito, Ecuador",
+  "url": "http://buentriphub.com",
+  "location": {
+    "city": "Quito",
+    "country": "Ecuador",
+    "timezone": "America/Guayaquil",
+    "utcOffset": -5,
+    "coordinates": {
+      "latitude": -0.1806532,
+      "longitude": -78.4678382
+    }
+  },
+  "moderators": [
+    {
+      "name": "Hélène Billaud"
+    }
+  ]
+}imezone": "America/Guayaquil",
+    "utcOffset": -5,
+    "coordinates": {
+      "latitude": -0.1806532,
+      "longitude": -78.4678382
+    }
+  },
+  "moderators": [
+    {
+      "name": "Ivan Pazmino"
+    }
+  ]
+}

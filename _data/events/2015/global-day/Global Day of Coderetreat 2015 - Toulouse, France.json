@@ -1,0 +1,20 @@
+{
+  "datetime": "2015-11-14 09:00:00",
+  "title": "Global Day of Coderetreat 2015 - Toulouse, France",
+  "url": "",
+  "location": {
+    "city": "Toulouse",
+    "country": "France",
+    "timezone": "Europe/Paris",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 43.604652,
+      "longitude": 1.444209
+    }
+  },
+  "moderators": [
+    {
+      "name": "Ludo Pradel"
+    }
+  ]
+}

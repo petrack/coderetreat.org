@@ -1,0 +1,23 @@
+{
+  "datetime": "2013-12-14 09:00:00",
+  "title": "Global Day of Coderetreat 2013 - Kassel, Germany",
+  "url": "https://www.eventbrite.de/e/global-day-of-coderetreat-in-kassel-tickets-9568378277",
+  "location": {
+    "city": "Kassel",
+    "country": "Germany",
+    "timezone": "Europe/Berlin",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 51.3127114,
+      "longitude": 9.4797461
+    }
+  },
+  "moderators": [
+    {
+      "name": "Claudius Link"
+    },
+    {
+      "name": "Matthias Bartelt"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "datetime": "2016-10-22 09:00:00",
+  "title": "Global Day of Coderetreat 2016 - Cape Town, South Africa",
+  "url": "https://thinkrise.com/cape-town",
+  "location": {
+    "city": "Cape Town",
+    "country": "South Africa",
+    "timezone": "Africa/Johannesburg",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": -33.9248685,
+      "longitude": 18.4240553
+    }
+  },
+  "moderators": [
+    {
+      "name": "David Campey"
+    }
+  ]
+}

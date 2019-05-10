@@ -1,0 +1,23 @@
+{
+  "datetime": "2013-12-14 09:00:00",
+  "title": "Global Day of Coderetreat 2013 - Caceres, Spain",
+  "url": "https://www.google.es/maps/preview#!q=Edificio+Embarcadero%2C+Calle+Santa+Cristina%2C+C%C3%A1ceres%E2%80%8E&data=!1m4!1m3!1d3780!2d-6.3906472!3d39.4468489!2m1!1e3!4m15!2m14!1m13!1s0xd15df973f0a574d%3A0xefc304a9c681aa60!3m8!1m3!1d1941323!2d-6.096301!3d39.2138386!3m2!1i1920!2i942!4f13.1!4m2!3d39.446801!4d-6.390685&fid=7",
+  "location": {
+    "city": "Caceres",
+    "country": "Spain",
+    "timezone": "Europe/Madrid",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 39.4752765,
+      "longitude": -6.3724247
+    }
+  },
+  "moderators": [
+    {
+      "name": "Jose Luis Huertas (Mobbeel)"
+    },
+    {
+      "name": "Jose Luis Huertas"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "datetime": "2013-12-14 09:00:00",
+  "title": "Global Day of Coderetreat 2013 - Wroclaw, Poland",
+  "url": "http://www.pgs-soft.com",
+  "location": {
+    "city": "Wroclaw",
+    "country": "Poland",
+    "timezone": "Europe/Warsaw",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 51.1078852,
+      "longitude": 17.0385376
+    }
+  },
+  "moderators": [
+    {
+      "name": "PGS Software"
+    },
+    {
+      "name": "Jarosław Stadnicki"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "datetime": "2016-10-22 09:00:00",
+  "title": "Global Day of Coderetreat 2016 - Hangzhou, China",
+  "url": "https://www.google.com/maps/place/%E8%AF%BA%E5%9F%BA%E4%BA%9A%E8%A5%BF%E9%97%A8%E5%AD%90%E9%80%9A%E4%BF%A1/@30.1898557,120.1685573,15.75z/data=!4m5!3m4!1s0x0:0x40046dc9d2333c06!8m2!3d30.1884637!4d120.1720619",
+  "location": {
+    "city": "Hangzhou",
+    "country": "China",
+    "timezone": "Asia/Shanghai",
+    "utcOffset": 8,
+    "coordinates": {
+      "latitude": 30.274084,
+      "longitude": 120.15507
+    }
+  },
+  "moderators": [
+    {
+      "name": "Liao-Yuan Zhang"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "datetime": "2015-11-14 09:00:00",
+  "title": "Global Day of Coderetreat 2015 - Vienna, Austria",
+  "url": "https://www.google.at/maps/place/Frequentis+AG/@48.1643645,16.3341881,17z/data=!3m1!4b1!4m2!3m1!1s0x476da85b32ffa36b:0x9ac47c469ce40565",
+  "location": {
+    "city": "Vienna",
+    "country": "Austria",
+    "timezone": "Europe/Vienna",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 48.2081743,
+      "longitude": 16.3738189
+    }
+  },
+  "moderators": [
+    {
+      "name": "Christian Haas"
+    }
+  ]
+}

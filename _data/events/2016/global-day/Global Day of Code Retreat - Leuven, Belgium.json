@@ -1,0 +1,20 @@
+{
+  "datetime": "2016-10-22 09:00:00",
+  "title": "Global Day of Code Retreat - Leuven, Belgium",
+  "url": "https://www.google.be/maps/place/Cegeka+Leuven/@50.8467763,4.7270092,17z/data=!3m1!4b1!4m5!3m4!1s0x47c166bc7bb167cb:0xee58f9dab96074fb!8m2!3d50.8467729!4d4.7291979?hl=en",
+  "location": {
+    "city": "Leuven",
+    "country": "Belgium",
+    "timezone": "Europe/Brussels",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 50.8798438,
+      "longitude": 4.7005176
+    }
+  },
+  "moderators": [
+    {
+      "name": "Erik Talboom"
+    }
+  ]
+}

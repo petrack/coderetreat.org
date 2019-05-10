@@ -1,0 +1,20 @@
+{
+  "datetime": "2013-12-14 09:00:00",
+  "title": "Global Day of Coderetreat 2013 - Montevideo, Uruguay",
+  "url": "https://maps.google.com/maps?q=bulevar+espa%C3%B1a+2529&hl=en&ie=UTF8&ll=-34.911889,-56.159041&spn=0.005103,0.010568&sll=-34.805964,-56.214564&sspn=0.327003,0.676346&t=m&hq=bulevar+espa%C3%B1a+2529&z=17",
+  "location": {
+    "city": "Montevideo",
+    "country": "Uruguay",
+    "timezone": "America/Montevideo",
+    "utcOffset": -3,
+    "coordinates": {
+      "latitude": -34.9011127,
+      "longitude": -56.16453139999999
+    }
+  },
+  "moderators": [
+    {
+      "name": "Fernando Briano"
+    }
+  ]
+}

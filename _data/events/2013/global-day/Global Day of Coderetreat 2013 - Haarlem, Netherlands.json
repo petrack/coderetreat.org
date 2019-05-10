@@ -1,0 +1,20 @@
+{
+  "datetime": "2013-12-14 09:00:00",
+  "title": "Global Day of Coderetreat 2013 - Haarlem, Netherlands",
+  "url": "https://global-day-of-coderetreat-2013-haarlem.eventbrite.nl",
+  "location": {
+    "city": "Haarlem",
+    "country": "Netherlands",
+    "timezone": "Europe/Amsterdam",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 52.3873878,
+      "longitude": 4.6462194
+    }
+  },
+  "moderators": [
+    {
+      "name": "Bart Bakker"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "datetime": "2013-12-14 09:00:00",
+  "title": "Global Day of Coderetreat 2013 - Boston, MA, USA",
+  "url": "",
+  "location": {
+    "city": "Boston, MA",
+    "country": "USA",
+    "timezone": "America/New_York",
+    "utcOffset": -4,
+    "coordinates": {
+      "latitude": 42.3600825,
+      "longitude": -71.0588801
+    }
+  },
+  "moderators": [
+    {
+      "name": "Zach Shaw"
+    }
+  ]
+}

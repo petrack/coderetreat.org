@@ -1,0 +1,20 @@
+{
+  "datetime": "2016-10-22 09:00:00",
+  "title": "Global Day of Code Retreat 2016 - Lille, France",
+  "url": "https://maps.google.com/maps?f=q&hl=en&q=+839+Avenue+de+la+R%C3%A9publique%2C+Marcq-en-Bar%C5%93ul%2C+fr",
+  "location": {
+    "city": "Lille",
+    "country": "France",
+    "timezone": "Europe/Paris",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 50.62925,
+      "longitude": 3.057256
+    }
+  },
+  "moderators": [
+    {
+      "name": "Julien Jakubowski"
+    }
+  ]
+}

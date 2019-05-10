@@ -1,0 +1,20 @@
+{
+  "datetime": "2015-11-14 09:00:00",
+  "title": "Global Day of Coderetreat 2015 - Vilnius, Lithuania",
+  "url": "https://www.google.lt/maps/place/Verki%C5%B3+g.+25C,+Vilnius+08223/@54.711222,25.2918349,17z/data=!4m7!1m4!3m3!1s0x46dd96b21e1be5d1:0x781176ced345f6e2!2sVerki%C5%B3+g.+25C,+Vilnius+08223!3b1!3m1!1s0x46dd96b21e1be5d1:0x781176ced345f6e2?hl=en",
+  "location": {
+    "city": "Vilnius",
+    "country": "Lithuania",
+    "timezone": "Europe/Vilnius",
+    "utcOffset": 3,
+    "coordinates": {
+      "latitude": 54.6871555,
+      "longitude": 25.2796514
+    }
+  },
+  "moderators": [
+    {
+      "name": "Osvaldas Grigas"
+    }
+  ]
+}

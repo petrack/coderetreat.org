@@ -1,0 +1,23 @@
+{
+  "datetime": "2013-12-14 09:00:00",
+  "title": "Global Day of Coderetreat 2013 - Lima, Perú",
+  "url": "https://maps.google.com/maps?q=-12.099968,-77.01901&num=1&vpsrc=6&ie=UTF8&ll=-12.09991,-77.018897&spn=0.003236,0.004785&t=m&z=18&iwloc=A",
+  "location": {
+    "city": "Lima",
+    "country": "Perú",
+    "timezone": "America/Lima",
+    "utcOffset": -5,
+    "coordinates": {
+      "latitude": -12.0463731,
+      "longitude": -77.042754
+    }
+  },
+  "moderators": [
+    {
+      "name": "Uzi Mamani (Belatrix)"
+    },
+    {
+      "name": "Uzi Mamani"
+    }
+  ]
+}

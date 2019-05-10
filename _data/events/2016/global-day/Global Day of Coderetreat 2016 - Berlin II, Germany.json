@@ -1,0 +1,20 @@
+{
+  "datetime": "2016-10-22 09:00:00",
+  "title": "Global Day of Coderetreat 2016 - Berlin II, Germany",
+  "url": "https://gdcr-2016-berlin-ii.eventbrite.com/",
+  "location": {
+    "city": "Berlin II",
+    "country": "Germany",
+    "timezone": "Europe/Berlin",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 54.037033,
+      "longitude": 10.4460975
+    }
+  },
+  "moderators": [
+    {
+      "name": "Martin Klose"
+    }
+  ]
+}

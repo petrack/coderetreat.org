@@ -1,0 +1,23 @@
+{
+  "datetime": "2013-12-14 09:00:00",
+  "title": "Global Day of Coderetreat 2013 - Johannesburg, South Africa",
+  "url": "",
+  "location": {
+    "city": "Johannesburg",
+    "country": "South Africa",
+    "timezone": "Africa/Johannesburg",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": -26.2041028,
+      "longitude": 28.0473051
+    }
+  },
+  "moderators": [
+    {
+      "name": "Driven Software"
+    },
+    {
+      "name": "Janco Wolmarans"
+    }
+  ]
+}

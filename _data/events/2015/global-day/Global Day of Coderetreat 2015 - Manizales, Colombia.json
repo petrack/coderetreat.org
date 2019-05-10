@@ -1,0 +1,20 @@
+{
+  "datetime": "2015-11-14 09:00:00",
+  "title": "Global Day of Coderetreat 2015 - Manizales, Colombia",
+  "url": "http://www.meetup.com/ManizalesDev/events/226589456/",
+  "location": {
+    "city": "Manizales",
+    "country": "Colombia",
+    "timezone": "America/Bogota",
+    "utcOffset": -5,
+    "coordinates": {
+      "latitude": 5.070275,
+      "longitude": -75.5138166
+    }
+  },
+  "moderators": [
+    {
+      "name": "Mauricio Muñoz"
+    }
+  ]
+}

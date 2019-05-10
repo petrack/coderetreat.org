@@ -1,0 +1,20 @@
+{
+  "datetime": "2015-11-14 09:00:00",
+  "title": "Global Day of Coderetreat 2015 - Ashburn, VA, USA",
+  "url": "https://www.eventbrite.com/e/global-day-of-coderetreat-tickets-18856883446",
+  "location": {
+    "city": "Ashburn, VA",
+    "country": "USA",
+    "timezone": "America/New_York",
+    "utcOffset": -4,
+    "coordinates": {
+      "latitude": 39.0437567,
+      "longitude": -77.4874416
+    }
+  },
+  "moderators": [
+    {
+      "name": "Andrew Wagner"
+    }
+  ]
+}

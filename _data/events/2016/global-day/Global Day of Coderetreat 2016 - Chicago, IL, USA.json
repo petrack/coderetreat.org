@@ -1,0 +1,23 @@
+{
+  "datetime": "2016-10-22 09:00:00",
+  "title": "Global Day of Coderetreat 2016 - Chicago, IL, USA",
+  "url": "https://www.eventbrite.com/e/global-day-of-coderetreat-2016-chicago-tickets-28269421601",
+  "location": {
+    "city": "Chicago, IL",
+    "country": "USA",
+    "timezone": "America/Chicago",
+    "utcOffset": -5,
+    "coordinates": {
+      "latitude": 41.8781136,
+      "longitude": -87.6297982
+    }
+  },
+  "moderators": [
+    {
+      "name": "8th Light"
+    },
+    {
+      "name": "Eric Meyer"
+    }
+  ]
+}

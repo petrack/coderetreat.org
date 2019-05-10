@@ -1,0 +1,23 @@
+{
+  "datetime": "2015-11-14 09:00:00",
+  "title": "Global Day of Coderetreat 2015 - Pune, India",
+  "url": "https://www.google.com/maps/place/Equal+Experts+India+Pvt+Ltd/",
+  "location": {
+    "city": "Pune",
+    "country": "India",
+    "timezone": "Asia/Calcutta",
+    "utcOffset": 5.5,
+    "coordinates": {
+      "latitude": 18.5204303,
+      "longitude": 73.8567437
+    }
+  },
+  "moderators": [
+    {
+      "name": "Equal Experts India Pvt Ltd"
+    },
+    {
+      "name": "Christian Hujer"
+    }
+  ]
+}

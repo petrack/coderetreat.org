@@ -1,0 +1,23 @@
+{
+  "datetime": "2015-11-14 09:00:00",
+  "title": "Global Day of Coderetreat 2015 - Sibiu, Romania",
+  "url": "",
+  "location": {
+    "city": "Sibiu",
+    "country": "Romania",
+    "timezone": "Europe/Bucharest",
+    "utcOffset": 3,
+    "coordinates": {
+      "latitude": 45.7983273,
+      "longitude": 24.1255826
+    }
+  },
+  "moderators": [
+    {
+      "name": "Calinoiu Alexandru Nicolae"
+    },
+    {
+      "name": "Adi B"
+    }
+  ]
+}

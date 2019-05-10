@@ -1,0 +1,23 @@
+{
+  "datetime": "2013-12-14 09:00:00",
+  "title": "Global Day of Coderetreat 2013 - Vienna, Austria",
+  "url": "http://gdcr13-vienna.eventbrite.de",
+  "location": {
+    "city": "Vienna",
+    "country": "Austria",
+    "timezone": "Europe/Vienna",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 48.2081743,
+      "longitude": 16.3738189
+    }
+  },
+  "moderators": [
+    {
+      "name": "Mike Leber"
+    },
+    {
+      "name": "Michael Mike Leber"
+    }
+  ]
+}

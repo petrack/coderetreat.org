@@ -1,0 +1,20 @@
+{
+  "datetime": "2013-12-14 09:00:00",
+  "title": "Global Day of Coderetreat 2013 - Ann Arbor, MI, USA",
+  "url": "https://maps.google.com/maps?q=1327+jones+drive+ann+arbor+mi&ll=42.287755,-83.726077&spn=0.028859,0.049267&hnear=1327+Jones+Dr,+Ann+Arbor,+Washtenaw,+Michigan+48105&gl=us&t=m&z=15",
+  "location": {
+    "city": "Ann Arbor, MI",
+    "country": "USA",
+    "timezone": "America/New_York",
+    "utcOffset": -4,
+    "coordinates": {
+      "latitude": 42.2808256,
+      "longitude": -83.7430378
+    }
+  },
+  "moderators": [
+    {
+      "name": "Bob Allen @CuriousAgilist"
+    }
+  ]
+}

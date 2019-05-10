@@ -1,0 +1,23 @@
+{
+  "datetime": "2014-11-15 09:00:00",
+  "title": "Global Day of Coderetreat 2014 - Santiago, Chile",
+  "url": "",
+  "location": {
+    "city": "Santiago",
+    "country": "Chile",
+    "timezone": "America/Santiago",
+    "utcOffset": -3,
+    "coordinates": {
+      "latitude": -33.4488897,
+      "longitude": -70.6692655
+    }
+  },
+  "moderators": [
+    {
+      "name": "ChileAgil"
+    },
+    {
+      "name": "Roberto Moreno"
+    }
+  ]
+}

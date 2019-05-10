@@ -1,0 +1,23 @@
+{
+  "datetime": "2016-10-22 09:00:00",
+  "title": "Global Day of Coderetreat 2016 - Salt Lake City, Utah, United States of America (USA)",
+  "url": "https://www.eventbrite.com/e/slc-global-day-of-code-retreat-2016-tickets-28614627120",
+  "location": {
+    "city": "Salt Lake City, Utah",
+    "country": "United States of America (USA)",
+    "timezone": "America/Denver",
+    "utcOffset": -6,
+    "coordinates": {
+      "latitude": 40.7607793,
+      "longitude": -111.8910474
+    }
+  },
+  "moderators": [
+    {
+      "name": "Rob Martin"
+    },
+    {
+      "name": "Sean Duncan"
+    }
+  ]
+}

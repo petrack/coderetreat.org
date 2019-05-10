@@ -1,0 +1,20 @@
+{
+  "datetime": "2015-11-14 09:00:00",
+  "title": "Global Day of Coderetreat 2015 - Redmond, WA, USA",
+  "url": "https://www.google.com/maps/place/SolutionsIQ/@47.6678963,-122.0943002,15z/data=!4m2!3m1!1s0x0:0x5cc88a0d8de735ff",
+  "location": {
+    "city": "Redmond, WA",
+    "country": "USA",
+    "timezone": "America/Los_Angeles",
+    "utcOffset": -7,
+    "coordinates": {
+      "latitude": 47.6739881,
+      "longitude": -122.121512
+    }
+  },
+  "moderators": [
+    {
+      "name": "Steve Kuo"
+    }
+  ]
+}

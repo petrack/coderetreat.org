@@ -1,0 +1,24 @@
+{
+  "datetime": "2015-11-14 09:00:00",
+  "title": "Global Day of Coderetreat 2015 - Chengdu, China",
+  "url": "https://www.google.com/maps/@30.5487591,104.0700467,17z?hl=zh-CN",
+  "location": {
+    "city": "Chengdu",
+    "country": "China",
+    "timezone": "Asia/Shanghai",
+    "utcOffset": 8,
+    "coordinates": {
+      "latitude": 30.572815,
+      "longitude": 104.066801
+    }
+  },
+  "moderators": [
+    {
+      "name": "Harry Chen"
+    }
+  ]
+}   {
+      "name": "Ben Wu"
+    }
+  ]
+}

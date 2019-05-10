@@ -1,0 +1,20 @@
+{
+  "datetime": "2016-10-22 09:00:00",
+  "title": "Global Day of Coderetreat 2016 - Pamplona, Navarra, Spain",
+  "url": "https://www.google.es/maps/place/Openbravo+Official/@42.796749,-1.6155877,17z/data=!3m1!4b1!4m5!3m4!1s0xd508d9fc0000001:0xd16caca4ecb6728b!8m2!3d42.796749!4d-1.613399?hl=en",
+  "location": {
+    "city": "Pamplona, Navarra",
+    "country": "Spain",
+    "timezone": "Europe/Madrid",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 42.812526,
+      "longitude": -1.6457745
+    }
+  },
+  "moderators": [
+    {
+      "name": "Augusto Mauch"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "datetime": "2013-12-14 09:00:00",
+  "title": "Global Day of Coderetreat 2013 - Knoxville, TN, USA",
+  "url": "",
+  "location": {
+    "city": "Knoxville, TN",
+    "country": "USA",
+    "timezone": "America/New_York",
+    "utcOffset": -4,
+    "coordinates": {
+      "latitude": 35.9606384,
+      "longitude": -83.9207392
+    }
+  },
+  "moderators": [
+    {
+      "name": "David Edwards"
+    }
+  ]
+}

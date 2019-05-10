@@ -1,0 +1,20 @@
+{
+  "datetime": "2013-12-14 09:00:00",
+  "title": "Global Day of Coderetreat 2013 - Linz, Austria",
+  "url": "http://www.objectbay.com",
+  "location": {
+    "city": "Linz",
+    "country": "Austria",
+    "timezone": "Europe/Vienna",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 48.30694,
+      "longitude": 14.28583
+    }
+  },
+  "moderators": [
+    {
+      "name": "Daniel Haslinger"
+    }
+  ]
+}

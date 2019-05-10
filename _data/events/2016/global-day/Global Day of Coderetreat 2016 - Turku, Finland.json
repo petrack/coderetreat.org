@@ -1,0 +1,23 @@
+{
+  "datetime": "2016-10-22 09:00:00",
+  "title": "Global Day of Coderetreat 2016 - Turku, Finland",
+  "url": "https://goo.gl/maps/4TfutqNLJt82",
+  "location": {
+    "city": "Turku",
+    "country": "Finland",
+    "timezone": "Europe/Helsinki",
+    "utcOffset": 3,
+    "coordinates": {
+      "latitude": 60.4518126,
+      "longitude": 22.2666303
+    }
+  },
+  "moderators": [
+    {
+      "name": "Arado"
+    },
+    {
+      "name": "Anssi Soinu"
+    }
+  ]
+}

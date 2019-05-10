@@ -1,0 +1,20 @@
+{
+  "datetime": "2013-12-14 09:00:00",
+  "title": "Global Day of Coderetreat 2013 - Salt Lake City, UT, USA",
+  "url": "http://goo.gl/maps/Xqxxg",
+  "location": {
+    "city": "Salt Lake City, UT",
+    "country": "USA",
+    "timezone": "America/Denver",
+    "utcOffset": -6,
+    "coordinates": {
+      "latitude": 40.7607793,
+      "longitude": -111.8910474
+    }
+  },
+  "moderators": [
+    {
+      "name": "David Adsit"
+    }
+  ]
+}

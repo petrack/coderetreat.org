@@ -1,0 +1,29 @@
+{
+  "datetime": "2015-11-14 09:00:00",
+  "title": "Global Day of Coderetreat 2015 - Zagreb, Croatia",
+  "url": "https://www.entrio.hr/event/global-day-of-coderetreat-2015-2771",
+  "location": {
+    "city": "Zagreb",
+    "country": "Croatia",
+    "timezone": "Europe/Zagreb",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 45.8150108,
+      "longitude": 15.981919
+    }
+  },
+  "moderators": [
+    {
+      "name": "Zeljko Filipin"
+    },
+    {
+      "name": "Aljosa Mohorovic"
+    },
+    {
+      "name": "P&eacute;ter Zsoldos"
+    },
+    {
+      "name": "Péter Zsoldos"
+    }
+  ]
+}

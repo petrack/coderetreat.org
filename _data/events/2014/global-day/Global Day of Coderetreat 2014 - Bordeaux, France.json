@@ -1,0 +1,20 @@
+{
+  "datetime": "2014-11-15 09:00:00",
+  "title": "Global Day of Coderetreat 2014 - Bordeaux, France",
+  "url": "",
+  "location": {
+    "city": "Bordeaux",
+    "country": "France",
+    "timezone": "Europe/Paris",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 44.837789,
+      "longitude": -0.57918
+    }
+  },
+  "moderators": [
+    {
+      "name": "vincent.guillaume.inp"
+    }
+  ]
+}

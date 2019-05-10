@@ -1,0 +1,20 @@
+{
+  "datetime": "2015-11-14 09:00:00",
+  "title": "Global Day of Coderetreat 2015 - Bonn, Germany",
+  "url": "https://kif.fsinf.de/wiki/KIF435:Hauptseite",
+  "location": {
+    "city": "Bonn",
+    "country": "Germany",
+    "timezone": "Europe/Berlin",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 50.73743,
+      "longitude": 7.0982068
+    }
+  },
+  "moderators": [
+    {
+      "name": "Jan"
+    }
+  ]
+}

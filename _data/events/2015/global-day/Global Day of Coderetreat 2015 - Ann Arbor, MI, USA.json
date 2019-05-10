@@ -1,0 +1,20 @@
+{
+  "datetime": "2015-11-14 09:00:00",
+  "title": "Global Day of Coderetreat 2015 - Ann Arbor, MI, USA",
+  "url": "http://codecraftsmansaturdays.blogspot.com/p/schedule.html#november",
+  "location": {
+    "city": "Ann Arbor, MI",
+    "country": "USA",
+    "timezone": "America/New_York",
+    "utcOffset": -4,
+    "coordinates": {
+      "latitude": 42.2808256,
+      "longitude": -83.7430378
+    }
+  },
+  "moderators": [
+    {
+      "name": "Bob Allen @CuriousAgilist"
+    }
+  ]
+}

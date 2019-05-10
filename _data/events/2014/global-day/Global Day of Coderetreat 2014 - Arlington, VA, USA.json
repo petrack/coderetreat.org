@@ -1,0 +1,32 @@
+{
+  "datetime": "2014-11-15 09:00:00",
+  "title": "Global Day of Coderetreat 2014 - Arlington, VA, USA",
+  "url": "https://www.google.com/maps/place/2300+Wilson+Blvd,+Arlington,+VA+22201/@38.8905986,-77.0870948,15z/",
+  "location": {
+    "city": "Arlington, VA",
+    "country": "USA",
+    "timezone": "America/New_York",
+    "utcOffset": -4,
+    "coordinates": {
+      "latitude": 38.8799697,
+      "longitude": -77.1067698
+    }
+  },
+  "moderators": [
+    {
+      "name": "Excella Consulting"
+    },
+    {
+      "name": "LMO"
+    },
+    {
+      "name": "Corporate Brokers"
+    },
+    {
+      "name": "DblFuzzr,LLC"
+    },
+    {
+      "name": "Vlad Korolev"
+    }
+  ]
+}

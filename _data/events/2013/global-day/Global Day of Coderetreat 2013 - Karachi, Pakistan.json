@@ -1,0 +1,20 @@
+{
+  "datetime": "2013-12-14 09:00:00",
+  "title": "Global Day of Coderetreat 2013 - Karachi, Pakistan",
+  "url": "http://www.acit.com",
+  "location": {
+    "city": "Karachi",
+    "country": "Pakistan",
+    "timezone": "Asia/Karachi",
+    "utcOffset": 5,
+    "coordinates": {
+      "latitude": 24.8614622,
+      "longitude": 67.0099388
+    }
+  },
+  "moderators": [
+    {
+      "name": "Iqbal Talaat Bhatti"
+    }
+  ]
+}

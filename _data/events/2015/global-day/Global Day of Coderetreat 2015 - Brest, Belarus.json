@@ -1,0 +1,23 @@
+{
+  "datetime": "2015-11-14 09:00:00",
+  "title": "Global Day of Coderetreat 2015 - Brest, Belarus",
+  "url": "https://www.google.com/maps/@52.097358,23.6920496,16.75z",
+  "location": {
+    "city": "Brest",
+    "country": "Belarus",
+    "timezone": "Europe/Minsk",
+    "utcOffset": 3,
+    "coordinates": {
+      "latitude": 52.09762139999999,
+      "longitude": 23.7340503
+    }
+  },
+  "moderators": [
+    {
+      "name": "Ilya Lapitan"
+    },
+    {
+      "name": "Ilia Lapitan"
+    }
+  ]
+}

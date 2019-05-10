@@ -1,0 +1,23 @@
+{
+  "datetime": "2016-10-22 09:00:00",
+  "title": "Global Day of Coderetreat 2016 - Kyoto, Japan",
+  "url": "http://connpass.com/event/41712/",
+  "location": {
+    "city": "Kyoto",
+    "country": "Japan",
+    "timezone": "Asia/Tokyo",
+    "utcOffset": 9,
+    "coordinates": {
+      "latitude": 35.0116363,
+      "longitude": 135.7680294
+    }
+  },
+  "moderators": [
+    {
+      "name": "Takuya Kawabe"
+    },
+    {
+      "name": "かわべ たくや"
+    }
+  ]
+}

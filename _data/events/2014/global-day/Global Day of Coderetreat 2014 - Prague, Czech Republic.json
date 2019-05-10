@@ -1,0 +1,20 @@
+{
+  "datetime": "2014-11-15 09:00:00",
+  "title": "Global Day of Coderetreat 2014 - Prague, Czech Republic",
+  "url": "http://pracovna.cz",
+  "location": {
+    "city": "Prague",
+    "country": "Czech Republic",
+    "timezone": "Europe/Prague",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 50.0755381,
+      "longitude": 14.4378005
+    }
+  },
+  "moderators": [
+    {
+      "name": "Aleš Roubíček"
+    }
+  ]
+}

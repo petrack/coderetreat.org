@@ -1,0 +1,20 @@
+{
+  "datetime": "2016-10-22 09:00:00",
+  "title": "Global Day of Coderetreat 2016 - Fulda, Germany",
+  "url": "https://www.hs-fulda.de/",
+  "location": {
+    "city": "Fulda",
+    "country": "Germany",
+    "timezone": "Europe/Berlin",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 50.5558095,
+      "longitude": 9.6808449
+    }
+  },
+  "moderators": [
+    {
+      "name": "tpd opitz-consulting"
+    }
+  ]
+}

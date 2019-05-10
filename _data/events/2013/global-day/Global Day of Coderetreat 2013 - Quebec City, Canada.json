@@ -1,0 +1,20 @@
+{
+  "datetime": "2013-12-14 09:00:00",
+  "title": "Global Day of Coderetreat 2013 - Quebec City, Canada",
+  "url": "http://www.germaindominion.com/fr/emplacement",
+  "location": {
+    "city": "Quebec City",
+    "country": "Canada",
+    "timezone": "America/Toronto",
+    "utcOffset": -4,
+    "coordinates": {
+      "latitude": 46.8138783,
+      "longitude": -71.2079809
+    }
+  },
+  "moderators": [
+    {
+      "name": "coderetreatquebec"
+    }
+  ]
+}

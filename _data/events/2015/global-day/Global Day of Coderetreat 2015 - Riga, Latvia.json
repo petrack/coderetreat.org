@@ -1,0 +1,20 @@
+{
+  "datetime": "2015-11-14 09:00:00",
+  "title": "Global Day of Coderetreat 2015 - Riga, Latvia",
+  "url": "https://www.google.lv/maps/dir/''/albert+hotel/@56.9586213,24.0429978,12z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x46eecfcf6576fc23:0xb095fef33d826585!2m2!1d24.1130371!2d56.9586409",
+  "location": {
+    "city": "Riga",
+    "country": "Latvia",
+    "timezone": "Europe/Riga",
+    "utcOffset": 3,
+    "coordinates": {
+      "latitude": 56.9496487,
+      "longitude": 24.1051864
+    }
+  },
+  "moderators": [
+    {
+      "name": "Latvian Devs Network"
+    }
+  ]
+}

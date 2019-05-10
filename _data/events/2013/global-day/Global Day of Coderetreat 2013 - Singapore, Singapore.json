@@ -1,0 +1,23 @@
+{
+  "datetime": "2013-12-14 09:00:00",
+  "title": "Global Day of Coderetreat 2013 - Singapore, Singapore",
+  "url": "https://www.google.com.sg/maps/preview#!q=53+Craig+Road&data=!4m10!1m9!4m8!1m3!1d255278!2d103.824045!3d1.343746!3m2!1i1024!2i768!4f13.1",
+  "location": {
+    "city": "Singapore",
+    "country": "Singapore",
+    "timezone": "Asia/Singapore",
+    "utcOffset": 8,
+    "coordinates": {
+      "latitude": 1.352083,
+      "longitude": 103.819836
+    }
+  },
+  "moderators": [
+    {
+      "name": "Abhaya Shenoy"
+    },
+    {
+      "name": "Gabe Hollombe"
+    }
+  ]
+}

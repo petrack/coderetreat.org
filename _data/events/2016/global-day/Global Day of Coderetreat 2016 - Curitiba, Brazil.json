@@ -1,0 +1,20 @@
+{
+  "datetime": "2016-10-22 09:00:00",
+  "title": "Global Day of Coderetreat 2016 - Curitiba, Brazil",
+  "url": "http://bit.ly/gdcr2016cwb",
+  "location": {
+    "city": "Curitiba",
+    "country": "Brazil",
+    "timezone": "America/Sao_Paulo",
+    "utcOffset": -2,
+    "coordinates": {
+      "latitude": -25.4289541,
+      "longitude": -49.267137
+    }
+  },
+  "moderators": [
+    {
+      "name": "Adolfo Neto"
+    }
+  ]
+}

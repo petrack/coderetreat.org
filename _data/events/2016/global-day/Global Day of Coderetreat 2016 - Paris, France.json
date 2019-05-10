@@ -1,0 +1,21 @@
+{
+  "datetime": "2016-10-22 09:00:00",
+  "title": "Global Day of Coderetreat 2016 - Paris, France",
+  "url": "https://www.google.fr/maps/place/25+Rue+du+Louvre,+75001+Paris/@48.8651197,2.3406453,17z/data=!3m1!4b1!4m5!3m4!1s0x47e66e22dd93ab83:0x43b9ce7a10720d4f!8m2!3d48.8651197!4d2.342834",
+  "location": {
+    "city": "Paris",
+    "country": "France",
+    "timezone": "Europe/Paris",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 48.856614,
+      "longitude": 2.3522219
+    }
+  },
+  "moderators": [
+    {
+      "name": "Arolla"
+    }
+  ]
+} ]
+}

@@ -1,0 +1,20 @@
+{
+  "datetime": "2015-11-14 09:00:00",
+  "title": "Global Day of Coderetreat 2015 - Munich, Germany",
+  "url": "https://www.google.de/maps/place/codecentric+AG/@48.1368582,11.5238625,15z/data=!4m2!3m1!1s0x0:0xcc03a6ec851e82a7",
+  "location": {
+    "city": "Munich",
+    "country": "Germany",
+    "timezone": "Europe/Berlin",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 48.1351253,
+      "longitude": 11.5819806
+    }
+  },
+  "moderators": [
+    {
+      "name": "David Völkel"
+    }
+  ]
+}

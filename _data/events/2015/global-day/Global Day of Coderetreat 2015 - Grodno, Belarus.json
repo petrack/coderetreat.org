@@ -1,0 +1,23 @@
+{
+  "datetime": "2015-11-14 09:00:00",
+  "title": "Global Day of Coderetreat 2015 - Grodno, Belarus",
+  "url": "https://www.google.by/maps/place/53%C2%B042'13.1%22N+23%C2%B049'06.5%22E/@53.7036292,23.8162823,17z/data=!3m1!4b1!4m2!3m1!1s0x0:0x0?hl=ru",
+  "location": {
+    "city": "Grodno",
+    "country": "Belarus",
+    "timezone": "Europe/Minsk",
+    "utcOffset": 3,
+    "coordinates": {
+      "latitude": 53.6693538,
+      "longitude": 23.8131306
+    }
+  },
+  "moderators": [
+    {
+      "name": "Pavel Batashou"
+    },
+    {
+      "name": "Pavel Batashov"
+    }
+  ]
+}

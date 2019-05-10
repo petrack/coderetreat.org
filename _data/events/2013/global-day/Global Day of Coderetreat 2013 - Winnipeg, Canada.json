@@ -1,0 +1,26 @@
+{
+  "datetime": "2013-12-14 09:00:00",
+  "title": "Global Day of Coderetreat 2013 - Winnipeg, Canada",
+  "url": "https://www.google.ca/maps/preview#!q=Skullspace%2C+Donald+Street%2C+Winnipeg%2C+MB&data=!4m15!2m14!1m13!1s0x52ea715dcf001a07%3A0x7cfd9ef8b9600239!3m8!1m3!1d2369!2d-97.1442526!3d49.8959973!3m2!1i1344!2i708!4f13.1!4m2!3d49.895999!4d-97.144259",
+  "location": {
+    "city": "Winnipeg",
+    "country": "Canada",
+    "timezone": "America/Winnipeg",
+    "utcOffset": -5,
+    "coordinates": {
+      "latitude": 49.895136,
+      "longitude": -97.13837439999999
+    }
+  },
+  "moderators": [
+    {
+      "name": "@abarylko"
+    },
+    {
+      "name": "@davidalpert"
+    },
+    {
+      "name": "abarylko"
+    }
+  ]
+}

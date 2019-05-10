@@ -1,0 +1,16 @@
+{
+  "datetime": "2015-11-14 09:00:00",
+  "title": "Global Day of Coderetreat 2015 - Auckland, New Zealand",
+  "url": "https://www.google.co.nz/maps/place/Movio/@-36.8626476,174.7583312,17z/data=!3m1!4b1!4m2!3m1!1s0x6d0d47c2f91515b9:0x3f462a927fa0c720",
+  "location": {
+    "city": "Auckland",
+    "country": "New Zealand",
+    "timezone": "Pacific/Auckland",
+    "utcOffset": 13,
+    "coordinates": {
+      "latitude": -36.8484597,
+      "longitude": 174.7633315
+    }
+  },
+  "moderators": ""
+}

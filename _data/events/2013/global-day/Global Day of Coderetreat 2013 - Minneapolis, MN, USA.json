@@ -1,0 +1,23 @@
+{
+  "datetime": "2013-12-14 09:00:00",
+  "title": "Global Day of Coderetreat 2013 - Minneapolis, MN, USA",
+  "url": "http://minneapolisglobalcoderetreat-eorgf.eventbrite.com/",
+  "location": {
+    "city": "Minneapolis, MN",
+    "country": "USA",
+    "timezone": "America/Chicago",
+    "utcOffset": -5,
+    "coordinates": {
+      "latitude": 44.977753,
+      "longitude": -93.2650108
+    }
+  },
+  "moderators": [
+    {
+      "name": "Software For Good"
+    },
+    {
+      "name": "Bobbilee Hartman"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "datetime": "2015-11-14 09:00:00",
+  "title": "Global Day of Coderetreat 2015 - Johannesburg, South Africa",
+  "url": "https://www.google.co.za/maps/place/Helderfontein+Estate/@-25.9912868,28.0216165,16z/data=!4m7!1m4!3m3!1s0x1e9571291ff7ab9f:0x584db4f27d272e3a!2sHelderfontein+Estate!3b1!3m1!1s0x1e9571291ff7ab9f:0x584db4f27d272e3a?hl=en",
+  "location": {
+    "city": "Johannesburg",
+    "country": "South Africa",
+    "timezone": "Africa/Johannesburg",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": -26.2041028,
+      "longitude": 28.0473051
+    }
+  },
+  "moderators": [
+    {
+      "name": "Steven McDonald"
+    }
+  ]
+}

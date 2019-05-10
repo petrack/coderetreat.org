@@ -1,0 +1,20 @@
+{
+  "datetime": "2014-11-15 09:00:00",
+  "title": "Global Day of Coderetreat 2014 - Quebec City, Canada",
+  "url": "https://www.google.ca/maps/place/H%C3%B4tel+Le+Germain-Dominion/@46.8159995,-71.2719183,12z/data=!4m2!3m1!1s0x4cb895e7659c9ead:0x69537f24ab859486",
+  "location": {
+    "city": "Quebec City",
+    "country": "Canada",
+    "timezone": "America/Toronto",
+    "utcOffset": -4,
+    "coordinates": {
+      "latitude": 46.8138783,
+      "longitude": -71.2079809
+    }
+  },
+  "moderators": [
+    {
+      "name": "Sylvain Cloutier"
+    }
+  ]
+}

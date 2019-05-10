@@ -1,0 +1,20 @@
+{
+  "datetime": "2013-12-14 09:00:00",
+  "title": "Global Day of Coderetreat 2013 - Prague, Czech Republic",
+  "url": "http://coderetreat.cz",
+  "location": {
+    "city": "Prague",
+    "country": "Czech Republic",
+    "timezone": "Europe/Prague",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 50.0755381,
+      "longitude": 14.4378005
+    }
+  },
+  "moderators": [
+    {
+      "name": "Aleš Roubíček"
+    }
+  ]
+}

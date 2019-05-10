@@ -1,0 +1,23 @@
+{
+  "datetime": "2016-10-22 09:00:00",
+  "title": "Global Day of Code Retreat 2016 - Bucharest, Romania",
+  "url": "https://www.google.ro/maps/place/Bulevardul+Carol+I+26,+București+030167/@44.435923,26.1025653,17z/data=!3m1!4b1!4m5!3m4!1s0x40b1ff38895f4021:0x7a6fb4fe00d81a64!8m2!3d44.435923!4d26.104754?hl=en",
+  "location": {
+    "city": "Bucharest",
+    "country": "Romania",
+    "timezone": "Europe/Bucharest",
+    "utcOffset": 3,
+    "coordinates": {
+      "latitude": 44.4267674,
+      "longitude": 26.1025384
+    }
+  },
+  "moderators": [
+    {
+      "name": "Alin Pandichi"
+    },
+    {
+      "name": "Pandichi Alin-Ionut"
+    }
+  ]
+}

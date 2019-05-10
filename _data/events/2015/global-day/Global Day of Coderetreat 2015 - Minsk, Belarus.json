@@ -1,0 +1,20 @@
+{
+  "datetime": "2015-11-14 09:00:00",
+  "title": "Global Day of Coderetreat 2015 - Minsk, Belarus",
+  "url": "https://events.epam.com/events/coderetreat-minsk",
+  "location": {
+    "city": "Minsk",
+    "country": "Belarus",
+    "timezone": "Europe/Minsk",
+    "utcOffset": 3,
+    "coordinates": {
+      "latitude": 53.90453979999999,
+      "longitude": 27.5615244
+    }
+  },
+  "moderators": [
+    {
+      "name": "Sergey Sergyenko"
+    }
+  ]
+}

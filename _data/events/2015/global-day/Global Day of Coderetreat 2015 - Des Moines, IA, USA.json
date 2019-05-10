@@ -1,0 +1,20 @@
+{
+  "datetime": "2015-11-14 09:00:00",
+  "title": "Global Day of Coderetreat 2015 - Des Moines, IA, USA",
+  "url": "http://bit.ly/1XT0hSe",
+  "location": {
+    "city": "Des Moines, IA",
+    "country": "USA",
+    "timezone": "America/Chicago",
+    "utcOffset": -5,
+    "coordinates": {
+      "latitude": 41.6005448,
+      "longitude": -93.6091064
+    }
+  },
+  "moderators": [
+    {
+      "name": "Kevin Knowles"
+    }
+  ]
+}

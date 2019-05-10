@@ -1,0 +1,20 @@
+{
+  "datetime": "2016-10-22 09:00:00",
+  "title": "Global Day of Coderetreat 2016 - Bordeaux, FRANCE",
+  "url": "https://www.meetup.com/fr-FR/AgnosTech-Bordeaux/events/232841559/?eventId=232841559",
+  "location": {
+    "city": "Bordeaux",
+    "country": "FRANCE",
+    "timezone": "Europe/Paris",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 44.837789,
+      "longitude": -0.57918
+    }
+  },
+  "moderators": [
+    {
+      "name": "Arnaud Lemaire"
+    }
+  ]
+}

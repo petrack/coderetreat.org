@@ -1,0 +1,20 @@
+{
+  "datetime": "2015-11-14 09:00:00",
+  "title": "Global Day of Coderetreat 2015 - Tampa/St. Petersburg, FL, USA",
+  "url": "https://goo.gl/maps/LrLAKMudsJ92",
+  "location": {
+    "city": "Tampa/St. Petersburg, FL",
+    "country": "USA",
+    "timezone": "America/New_York",
+    "utcOffset": -4,
+    "coordinates": {
+      "latitude": 27.8498701,
+      "longitude": -82.4827675
+    }
+  },
+  "moderators": [
+    {
+      "name": "Jason L Perry"
+    }
+  ]
+}

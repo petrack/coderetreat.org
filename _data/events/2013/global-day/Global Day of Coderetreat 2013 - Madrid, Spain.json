@@ -1,0 +1,26 @@
+{
+  "datetime": "2013-12-14 09:00:00",
+  "title": "Global Day of Coderetreat 2013 - Madrid, Spain",
+  "url": "http://madridcoderetreat.wordpress.com",
+  "location": {
+    "city": "Madrid",
+    "country": "Spain",
+    "timezone": "Europe/Madrid",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 40.4167754,
+      "longitude": -3.7037902
+    }
+  },
+  "moderators": [
+    {
+      "name": "Juanma G&oacute;mez"
+    },
+    {
+      "name": "Rafael Luque"
+    },
+    {
+      "name": "Fernando Paris"
+    }
+  ]
+}

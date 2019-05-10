@@ -1,0 +1,20 @@
+{
+  "datetime": "2015-11-14 09:00:00",
+  "title": "Global Day of Coderetreat 2015 - St. Gallen, Switzerland",
+  "url": "https://www.google.ch/maps/place/Namics+AG/@47.4200332,9.3706897,17z/data=!3m1!4b1!4m2!3m1!1s0x479b1fb4d4a2f481:0x5f38e113991559cd",
+  "location": {
+    "city": "St. Gallen",
+    "country": "Switzerland",
+    "timezone": "Europe/Zurich",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 47.4244818,
+      "longitude": 9.3767173
+    }
+  },
+  "moderators": [
+    {
+      "name": "Patrick Baumgartner"
+    }
+  ]
+}

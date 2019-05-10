@@ -1,0 +1,20 @@
+{
+  "datetime": "2013-12-14 09:00:00",
+  "title": "Global Day of Coderetreat 2013 - Denver, CO, USA",
+  "url": "",
+  "location": {
+    "city": "Denver, CO",
+    "country": "USA",
+    "timezone": "America/Denver",
+    "utcOffset": -6,
+    "coordinates": {
+      "latitude": 39.7392358,
+      "longitude": -104.990251
+    }
+  },
+  "moderators": [
+    {
+      "name": "Solomon White"
+    }
+  ]
+}

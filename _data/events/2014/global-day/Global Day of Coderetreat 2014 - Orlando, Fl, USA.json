@@ -1,0 +1,20 @@
+{
+  "datetime": "2014-11-15 09:00:00",
+  "title": "Global Day of Coderetreat 2014 - Orlando, Fl, USA",
+  "url": "https://www.eventbrite.com/e/global-day-of-coderetreat-2014-orlando-fl-tickets-13789840785",
+  "location": {
+    "city": "Orlando, Fl",
+    "country": "USA",
+    "timezone": "America/New_York",
+    "utcOffset": -4,
+    "coordinates": {
+      "latitude": 28.5383355,
+      "longitude": -81.3792365
+    }
+  },
+  "moderators": [
+    {
+      "name": "Brian Douglas"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "datetime": "2015-11-14 09:00:00",
+  "title": "Global Day of Coderetreat 2015 - Taiyuan, China",
+  "url": "http://yihuo.de/activities/152",
+  "location": {
+    "city": "Taiyuan",
+    "country": "China",
+    "timezone": "Asia/Shanghai",
+    "utcOffset": 8,
+    "coordinates": {
+      "latitude": 37.87059,
+      "longitude": 112.548879
+    }
+  },
+  "moderators": [
+    {
+      "name": "Chai Feng"
+    }
+  ]
+}

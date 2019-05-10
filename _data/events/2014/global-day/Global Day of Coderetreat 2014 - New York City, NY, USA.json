@@ -1,0 +1,20 @@
+{
+  "datetime": "2014-11-15 09:00:00",
+  "title": "Global Day of Coderetreat 2014 - New York City, NY, USA",
+  "url": "https://www.google.com/maps/preview?q=Tacit+Knowledge+LLC,+New+York,+NY&hl=en&sll=40.697488,-73.979681&sspn=0.851684,1.308746&oq=tacit+know&hq=Tacit+Knowledge+LLC,&hnear=New+York&t=m&z=13&iwloc=A",
+  "location": {
+    "city": "New York City, NY",
+    "country": "USA",
+    "timezone": "America/New_York",
+    "utcOffset": -4,
+    "coordinates": {
+      "latitude": 40.7127837,
+      "longitude": -74.0059413
+    }
+  },
+  "moderators": [
+    {
+      "name": "Gilberto Alvarado"
+    }
+  ]
+}

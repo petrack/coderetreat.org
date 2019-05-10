@@ -1,0 +1,20 @@
+{
+  "datetime": "2014-11-15 09:00:00",
+  "title": "Global Day of Coderetreat 2014 - Lima, Perú",
+  "url": "http://www.upc.edu.pe",
+  "location": {
+    "city": "Lima",
+    "country": "Perú",
+    "timezone": "America/Lima",
+    "utcOffset": -5,
+    "coordinates": {
+      "latitude": -12.0463731,
+      "longitude": -77.042754
+    }
+  },
+  "moderators": [
+    {
+      "name": "Jose Diaz Diaz"
+    }
+  ]
+}

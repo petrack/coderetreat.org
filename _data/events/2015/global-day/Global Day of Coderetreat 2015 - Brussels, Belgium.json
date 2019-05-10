@@ -1,0 +1,20 @@
+{
+  "datetime": "2015-11-14 09:00:00",
+  "title": "Global Day of Coderetreat 2015 - Brussels, Belgium",
+  "url": "https://www.google.be/maps/place/Rue+des+P%C3%A8res+Blancs+4,+1040+Etterbeek/@50.826702,4.3980435,17z/data=!3m1!4b1!4m2!3m1!1s0x47c3c4b5c22df6af:0xa85bbb6eb0217bb6?hl=en",
+  "location": {
+    "city": "Brussels",
+    "country": "Belgium",
+    "timezone": "Europe/Brussels",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 50.8503463,
+      "longitude": 4.3517211
+    }
+  },
+  "moderators": [
+    {
+      "name": "Erik Talboom"
+    }
+  ]
+}

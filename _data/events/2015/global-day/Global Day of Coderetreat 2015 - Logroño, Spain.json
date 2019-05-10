@@ -1,0 +1,23 @@
+{
+  "datetime": "2015-11-14 09:00:00",
+  "title": "Global Day of Coderetreat 2015 - Logroño, Spain",
+  "url": "https://www.google.com/maps/place/Av.+Zaragoza,+21,+26006+Logro%C3%B1o,+La+Rioja,+Espa%C3%B1a/@42.457992,-2.418692,15z/data=!4m2!3m1!1s0xd5aab9c0a8441f5:0xd1399f66246fb0c4?hl=es",
+  "location": {
+    "city": "Logroño",
+    "country": "Spain",
+    "timezone": "Europe/Madrid",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 42.4627195,
+      "longitude": -2.4449852
+    }
+  },
+  "moderators": [
+    {
+      "name": "Rioja{dotnet}"
+    },
+    {
+      "name": "Luis Sagasta Buil"
+    }
+  ]
+}

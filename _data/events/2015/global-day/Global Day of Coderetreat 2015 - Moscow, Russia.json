@@ -1,0 +1,23 @@
+{
+  "datetime": "2015-11-14 09:00:00",
+  "title": "Global Day of Coderetreat 2015 - Moscow, Russia",
+  "url": "https://rambler-digital-solutions.timepad.ru/event/260523/",
+  "location": {
+    "city": "Moscow",
+    "country": "Russia",
+    "timezone": "Europe/Moscow",
+    "utcOffset": 3,
+    "coordinates": {
+      "latitude": 55.755826,
+      "longitude": 37.6173
+    }
+  },
+  "moderators": [
+    {
+      "name": "Rambler&amp;Co"
+    },
+    {
+      "name": "Simon Bagreev"
+    }
+  ]
+}

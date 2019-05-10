@@ -1,0 +1,23 @@
+{
+  "datetime": "2015-11-14 09:00:00",
+  "title": "Global Day of Coderetreat 2015 - Istanbul, Turkey",
+  "url": "",
+  "location": {
+    "city": "Istanbul",
+    "country": "Turkey",
+    "timezone": "Europe/Istanbul",
+    "utcOffset": 3,
+    "coordinates": {
+      "latitude": 41.0082376,
+      "longitude": 28.9783589
+    }
+  },
+  "moderators": [
+    {
+      "name": "Agile Turkey"
+    },
+    {
+      "name": "Lemi Orhan Ergin"
+    }
+  ]
+}

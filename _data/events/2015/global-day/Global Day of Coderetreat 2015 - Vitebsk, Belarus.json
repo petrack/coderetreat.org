@@ -1,0 +1,20 @@
+{
+  "datetime": "2015-11-14 09:00:00",
+  "title": "Global Day of Coderetreat 2015 - Vitebsk, Belarus",
+  "url": "https://www.google.com/maps/place/%D0%BF%D1%80%D0%BE%D1%81%D0%BF.+%D0%A1%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D0%B5%D0%B9+11%D0%90,+%D0%92%D0%B8%D1%82%D0%B5%D0%B1%D1%81%D0%BA/@55.1707634,30.213962,18z/data=!3m1!4b1!4m2!3m1!1s0x46c57168d33e72ff:0xe8613fce8a9e11aa?hl=ru",
+  "location": {
+    "city": "Vitebsk",
+    "country": "Belarus",
+    "timezone": "Europe/Minsk",
+    "utcOffset": 3,
+    "coordinates": {
+      "latitude": 55.1848061,
+      "longitude": 30.201622
+    }
+  },
+  "moderators": [
+    {
+      "name": "Yauhen Trehubenkau"
+    }
+  ]
+}

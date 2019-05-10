@@ -1,0 +1,29 @@
+{
+  "datetime": "2014-11-15 09:00:00",
+  "title": "Global Day of Coderetreat 2014 - Xi'an, China",
+  "url": "",
+  "location": {
+    "city": "Xi'an",
+    "country": "China",
+    "timezone": "Asia/Shanghai",
+    "utcOffset": 8,
+    "coordinates": {
+      "latitude": 34.341574,
+      "longitude": 108.93977
+    }
+  },
+  "moderators": [
+    {
+      "name": "Wang Lei"
+    },
+    {
+      "name": "Chen Xi"
+    },
+    {
+      "name": "Zhao Guoqing"
+    },
+    {
+      "name": "就飞 想飞"
+    }
+  ]
+}

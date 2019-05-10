@@ -1,0 +1,20 @@
+{
+  "datetime": "2016-10-22 09:00:00",
+  "title": "Global Day of Coderetreat 2016 - Singapore, Singapore",
+  "url": "",
+  "location": {
+    "city": "Singapore",
+    "country": "Singapore",
+    "timezone": "Asia/Singapore",
+    "utcOffset": 8,
+    "coordinates": {
+      "latitude": 1.352083,
+      "longitude": 103.819836
+    }
+  },
+  "moderators": [
+    {
+      "name": "Chern Jie Lim"
+    }
+  ]
+}

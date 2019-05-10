@@ -1,0 +1,23 @@
+{
+  "datetime": "2016-10-22 09:00:00",
+  "title": "Global Day of Coderetreat 2016 - New York, US",
+  "url": "",
+  "location": {
+    "city": "New York",
+    "country": "US",
+    "timezone": "America/New_York",
+    "utcOffset": -4,
+    "coordinates": {
+      "latitude": 40.7127837,
+      "longitude": -74.0059413
+    }
+  },
+  "moderators": [
+    {
+      "name": "Sawyer Effect"
+    },
+    {
+      "name": "Javier Cervantes"
+    }
+  ]
+}

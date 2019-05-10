@@ -1,0 +1,20 @@
+{
+  "datetime": "2013-12-14 09:00:00",
+  "title": "Global Day of Coderetreat 2013 - Ekaterinburg, Russia",
+  "url": "",
+  "location": {
+    "city": "Ekaterinburg",
+    "country": "Russia",
+    "timezone": "Asia/Yekaterinburg",
+    "utcOffset": 5,
+    "coordinates": {
+      "latitude": 56.83892609999999,
+      "longitude": 60.6057025
+    }
+  },
+  "moderators": [
+    {
+      "name": "Pavel Egorov"
+    }
+  ]
+}

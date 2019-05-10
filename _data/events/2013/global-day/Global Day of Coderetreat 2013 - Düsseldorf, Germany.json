@@ -1,0 +1,23 @@
+{
+  "datetime": "2013-12-14 09:00:00",
+  "title": "Global Day of Coderetreat 2013 - Düsseldorf, Germany",
+  "url": "http://www.softwerkskammer.org/activities/gdcr_dus_2013",
+  "location": {
+    "city": "Düsseldorf",
+    "country": "Germany",
+    "timezone": "Europe/Berlin",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 51.2277411,
+      "longitude": 6.7734556
+    }
+  },
+  "moderators": [
+    {
+      "name": "Softwerkskammer D&uuml;sseldorf"
+    },
+    {
+      "name": "Sergey Shishkin"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "datetime": "2015-11-14 09:00:00",
+  "title": "Global Day of Coderetreat 2015 - Omaha, NE, USA",
+  "url": "https://goo.gl/maps/VTWe75BYGJ42",
+  "location": {
+    "city": "Omaha, NE",
+    "country": "USA",
+    "timezone": "America/Chicago",
+    "utcOffset": -5,
+    "coordinates": {
+      "latitude": 41.2523634,
+      "longitude": -95.99798829999999
+    }
+  },
+  "moderators": [
+    {
+      "name": "Michael Kolakowski"
+    }
+  ]
+}

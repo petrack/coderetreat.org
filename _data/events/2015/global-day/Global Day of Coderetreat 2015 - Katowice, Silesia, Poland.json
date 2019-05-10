@@ -1,0 +1,23 @@
+{
+  "datetime": "2015-11-14 09:00:00",
+  "title": "Global Day of Coderetreat 2015 - Katowice, Silesia, Poland",
+  "url": "https://hs-silesia.pl/place/",
+  "location": {
+    "city": "Katowice, Silesia",
+    "country": "Poland",
+    "timezone": "Europe/Warsaw",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 50.26489189999999,
+      "longitude": 19.0237815
+    }
+  },
+  "moderators": [
+    {
+      "name": "Hackerspace Silesia"
+    },
+    {
+      "name": "Kamil Gałuszka"
+    }
+  ]
+}

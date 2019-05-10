@@ -1,0 +1,20 @@
+{
+  "datetime": "2016-10-22 09:00:00",
+  "title": "Global Day of Coderetreat 2016 - Newbury, UK",
+  "url": "https://goo.gl/maps/mnFQhtyPxkA2",
+  "location": {
+    "city": "Newbury",
+    "country": "UK",
+    "timezone": "Europe/London",
+    "utcOffset": 1,
+    "coordinates": {
+      "latitude": 51.401409,
+      "longitude": -1.3231139
+    }
+  },
+  "moderators": [
+    {
+      "name": "vittorio scibetta"
+    }
+  ]
+}

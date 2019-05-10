@@ -1,0 +1,23 @@
+{
+  "datetime": "2016-10-22 09:00:00",
+  "title": "Global Day of Coderetreat 2016 - NEW YORK CITY, USA",
+  "url": "https://www.google.com/maps/place/ThoughtWorks,+Inc./@40.7446828,-73.9870632,17z/data=!4m13!1m7!3m6!1s0x89c259a7c34a0a9b:0xa5d5c68061a10f0f!2s99+Madison+Ave,+New+York,+NY+10016!3b1!8m2!3d40.7446828!4d-73.9848745!3m4!1s0x0:0x7a7b1b141a048edf!8m2!3d40.7447042!4d-73.984886",
+  "location": {
+    "city": "NEW YORK CITY",
+    "country": "USA",
+    "timezone": "America/New_York",
+    "utcOffset": -4,
+    "coordinates": {
+      "latitude": 40.7127837,
+      "longitude": -74.0059413
+    }
+  },
+  "moderators": [
+    {
+      "name": "Software Craftsmanship New York"
+    },
+    {
+      "name": "Rafael Huaman"
+    }
+  ]
+}

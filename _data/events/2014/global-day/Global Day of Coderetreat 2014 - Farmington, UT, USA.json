@@ -1,0 +1,20 @@
+{
+  "datetime": "2014-11-15 09:00:00",
+  "title": "Global Day of Coderetreat 2014 - Farmington, UT, USA",
+  "url": "",
+  "location": {
+    "city": "Farmington, UT",
+    "country": "USA",
+    "timezone": "America/Denver",
+    "utcOffset": -6,
+    "coordinates": {
+      "latitude": 40.9804999,
+      "longitude": -111.8874392
+    }
+  },
+  "moderators": [
+    {
+      "name": "Phil Borlin"
+    }
+  ]
+}

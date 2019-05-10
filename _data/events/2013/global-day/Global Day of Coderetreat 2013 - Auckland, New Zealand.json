@@ -1,0 +1,20 @@
+{
+  "datetime": "2013-12-14 09:00:00",
+  "title": "Global Day of Coderetreat 2013 - Auckland, New Zealand",
+  "url": "",
+  "location": {
+    "city": "Auckland",
+    "country": "New Zealand",
+    "timezone": "Pacific/Auckland",
+    "utcOffset": 13,
+    "coordinates": {
+      "latitude": -36.8484597,
+      "longitude": 174.7633315
+    }
+  },
+  "moderators": [
+    {
+      "name": "Kalman Bekesi"
+    }
+  ]
+}

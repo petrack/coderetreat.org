@@ -1,0 +1,23 @@
+{
+  "datetime": "2013-12-14 09:00:00",
+  "title": "Global Day of Coderetreat 2013 - Philadelphia, PA, USA",
+  "url": "http://www.eventbrite.com/e/global-day-of-coderetreat-philadelphia-tickets-9029119339",
+  "location": {
+    "city": "Philadelphia, PA",
+    "country": "USA",
+    "timezone": "America/New_York",
+    "utcOffset": -4,
+    "coordinates": {
+      "latitude": 39.9525839,
+      "longitude": -75.1652215
+    }
+  },
+  "moderators": [
+    {
+      "name": "Jearvon Dharrie"
+    },
+    {
+      "name": "Pam Selle"
+    }
+  ]
+}

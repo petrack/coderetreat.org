@@ -1,0 +1,20 @@
+{
+  "datetime": "2014-11-15 09:00:00",
+  "title": "Global Day of Coderetreat 2014 - Leuven, Belgium",
+  "url": "http://www.meetup.com/Belgian-Software-Craftsmanship-Guild/events/217534922/",
+  "location": {
+    "city": "Leuven",
+    "country": "Belgium",
+    "timezone": "Europe/Brussels",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 50.8798438,
+      "longitude": 4.7005176
+    }
+  },
+  "moderators": [
+    {
+      "name": "Erik Talboom"
+    }
+  ]
+}

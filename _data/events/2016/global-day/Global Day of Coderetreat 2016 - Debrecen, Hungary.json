@@ -1,0 +1,23 @@
+{
+  "datetime": "2016-10-22 09:00:00",
+  "title": "Global Day of Coderetreat 2016 - Debrecen, Hungary",
+  "url": "https://www.google.com/maps/place/EPAM+Systems/@47.532255,21.6186432,17z/data=!3m1!4b1!4m5!3m4!1s0x47470e0b8fadcb63:0xfb3e6ce89211af8b!8m2!3d47.532255!4d21.6208319?hl=en",
+  "location": {
+    "city": "Debrecen",
+    "country": "Hungary",
+    "timezone": "Europe/Budapest",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 47.5316049,
+      "longitude": 21.6273123
+    }
+  },
+  "moderators": [
+    {
+      "name": "Epam Systems"
+    },
+    {
+      "name": "Bertalan Kis"
+    }
+  ]
+}

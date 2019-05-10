@@ -1,0 +1,23 @@
+{
+  "datetime": "2015-11-14 09:00:00",
+  "title": "Global Day of Coderetreat 2015 - Tres Ríos, Costa Rica",
+  "url": "https://www.google.co.cr/maps/place/Terra+Campus+Corporativo/@9.9074218,-83.9927964,15.45z/data=!4m17!1m14!4m13!1m5!1m1!1s0x0:0xedf532684b5ae77!2m2!1d-83.9944309!2d9.9022083!1m6!1m2!1s0x8fa0e10d22e2199f:0xedf532684b5ae77!2sTerra+Campus+Corporativo,+Continuo+a+TERRA+Mall,+Carr+Interamericana,+Tres+Rios,+Costa+Rica!2m2!1d-83.9944309!2d9.9022083!3m1!1s0x8fa0e10d22e2199f:0xedf532684b5ae77?hl=en",
+  "location": {
+    "city": "Tres Ríos",
+    "country": "Costa Rica",
+    "timezone": "America/Costa_Rica",
+    "utcOffset": -6,
+    "coordinates": {
+      "latitude": 9.9067787,
+      "longitude": -83.9876532
+    }
+  },
+  "moderators": [
+    {
+      "name": "Pernix Solutions"
+    },
+    {
+      "name": "Jose Andres Alvarez"
+    }
+  ]
+}

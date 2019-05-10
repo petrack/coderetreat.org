@@ -1,0 +1,20 @@
+{
+  "datetime": "2014-11-15 09:00:00",
+  "title": "Global Day of Coderetreat 2014 - Des Moines, IA, USA",
+  "url": "https://www.google.com/maps/place/Courtyard+Des+Moines+West%2FClive,+1520+NW+114th+St,+Clive,+IA+50325/@41.603936,-93.775163,17z/data=!4m2!3m1!1s0x87ec20dca08d71af:0xc4028e2798d42085",
+  "location": {
+    "city": "Des Moines, IA",
+    "country": "USA",
+    "timezone": "America/Chicago",
+    "utcOffset": -5,
+    "coordinates": {
+      "latitude": 41.6005448,
+      "longitude": -93.6091064
+    }
+  },
+  "moderators": [
+    {
+      "name": "Kevin Knowles"
+    }
+  ]
+}

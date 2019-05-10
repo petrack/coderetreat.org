@@ -1,0 +1,20 @@
+{
+  "datetime": "2015-11-14 09:00:00",
+  "title": "Global Day of Coderetreat 2015 - Essen, Germany",
+  "url": "https://www.google.de/maps/place/Altendorfer+Stra%C3%9Fe+3,+45127+Essen/@51.458737,7.0021154,17z/data=!4m2!3m1!1s0x47b8c2b954e5aa85:0x657c070199b83fde",
+  "location": {
+    "city": "Essen",
+    "country": "Germany",
+    "timezone": "Europe/Berlin",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 51.4556432,
+      "longitude": 7.0115552
+    }
+  },
+  "moderators": [
+    {
+      "name": "Roland Schneider"
+    }
+  ]
+}

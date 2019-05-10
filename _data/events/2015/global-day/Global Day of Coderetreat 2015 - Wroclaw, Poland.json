@@ -1,0 +1,20 @@
+{
+  "datetime": "2015-11-14 09:00:00",
+  "title": "Global Day of Coderetreat 2015 - Wroclaw, Poland",
+  "url": "https://www.google.pl/maps/place/Rze%C5%BAnicza+28,+Wroc%C5%82aw/@51.1109855,17.0280499,17z/data=!3m1!4b1!4m2!3m1!1s0x470fc275345b0835:0x9ad35c1b24ea5cd8?hl=en",
+  "location": {
+    "city": "Wroclaw",
+    "country": "Poland",
+    "timezone": "Europe/Warsaw",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 51.1078852,
+      "longitude": 17.0385376
+    }
+  },
+  "moderators": [
+    {
+      "name": "Maciej Talaśka"
+    }
+  ]
+}

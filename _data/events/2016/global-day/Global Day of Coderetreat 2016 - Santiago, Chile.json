@@ -1,0 +1,23 @@
+{
+  "datetime": "2016-10-22 09:00:00",
+  "title": "Global Day of Coderetreat 2016 - Santiago, Chile",
+  "url": "https://maps.google.com/maps?f=q&hl=en&q=Apoquindo+4700%2C+piso+14%2C+Las+Condes%2C+Santiago%2C+cl",
+  "location": {
+    "city": "Santiago",
+    "country": "Chile",
+    "timezone": "America/Santiago",
+    "utcOffset": -3,
+    "coordinates": {
+      "latitude": -33.4488897,
+      "longitude": -70.6692655
+    }
+  },
+  "moderators": [
+    {
+      "name": "Software Craftsmanship Chile"
+    },
+    {
+      "name": "David Lay"
+    }
+  ]
+}

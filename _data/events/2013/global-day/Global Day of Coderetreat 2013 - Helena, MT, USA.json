@@ -1,0 +1,20 @@
+{
+  "datetime": "2013-12-14 09:00:00",
+  "title": "Global Day of Coderetreat 2013 - Helena, MT, USA",
+  "url": "https://theshophelena.com/",
+  "location": {
+    "city": "Helena, MT",
+    "country": "USA",
+    "timezone": "America/Denver",
+    "utcOffset": -6,
+    "coordinates": {
+      "latitude": 46.5883707,
+      "longitude": -112.0245054
+    }
+  },
+  "moderators": [
+    {
+      "name": "Grant Austin"
+    }
+  ]
+}

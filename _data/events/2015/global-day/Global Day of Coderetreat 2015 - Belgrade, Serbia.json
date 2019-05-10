@@ -1,0 +1,20 @@
+{
+  "datetime": "2015-11-14 09:00:00",
+  "title": "Global Day of Coderetreat 2015 - Belgrade, Serbia",
+  "url": "https://goo.gl/maps/cjpRmMefd5x",
+  "location": {
+    "city": "Belgrade",
+    "country": "Serbia",
+    "timezone": "Europe/Belgrade",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 44.786568,
+      "longitude": 20.4489216
+    }
+  },
+  "moderators": [
+    {
+      "name": "Ivan Ćurković"
+    }
+  ]
+}

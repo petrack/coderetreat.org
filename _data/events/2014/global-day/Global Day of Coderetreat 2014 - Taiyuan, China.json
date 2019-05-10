@@ -1,0 +1,20 @@
+{
+  "datetime": "2014-11-15 09:00:00",
+  "title": "Global Day of Coderetreat 2014 - Taiyuan, China",
+  "url": "https://www.google.com/maps/place/%E5%8C%97%E7%BE%8E%E6%99%B6%E5%9F%8E%E8%97%8D%E6%B9%BE%EF%BC%88%E6%9D%B1%E9%96%80%EF%BC%89/@37.7965134,112.5682729,18z/data=!4m2!3m1!1s0x0:0x631f06c729a5205f",
+  "location": {
+    "city": "Taiyuan",
+    "country": "China",
+    "timezone": "Asia/Shanghai",
+    "utcOffset": 8,
+    "coordinates": {
+      "latitude": 37.87059,
+      "longitude": 112.548879
+    }
+  },
+  "moderators": [
+    {
+      "name": "Chai Feng"
+    }
+  ]
+}

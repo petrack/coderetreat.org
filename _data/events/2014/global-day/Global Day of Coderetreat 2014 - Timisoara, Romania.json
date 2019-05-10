@@ -1,0 +1,20 @@
+{
+  "datetime": "2014-11-15 09:00:00",
+  "title": "Global Day of Coderetreat 2014 - Timisoara, Romania",
+  "url": "http://www.meetup.com/The-Timisoara-Agile-Software-Meetup-Group/events/205906782/",
+  "location": {
+    "city": "Timisoara",
+    "country": "Romania",
+    "timezone": "Europe/Bucharest",
+    "utcOffset": 3,
+    "coordinates": {
+      "latitude": 45.7488716,
+      "longitude": 21.2086793
+    }
+  },
+  "moderators": [
+    {
+      "name": "Patkos Csaba"
+    }
+  ]
+}

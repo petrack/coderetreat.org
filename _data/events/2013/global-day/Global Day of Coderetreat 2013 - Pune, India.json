@@ -1,0 +1,20 @@
+{
+  "datetime": "2013-12-14 09:00:00",
+  "title": "Global Day of Coderetreat 2013 - Pune, India",
+  "url": "http://maps.google.co.uk/maps?q=Cerebrum+IT+Park+No.+B3,+Kumar+City,+Pune,+411006&hl=en&ll=18.544314,73.900652&spn=0.064367,0.077162&sll=18.528642,73.890272&sspn=0.064373,0.077162&hq=Cerebrum+IT+Park+No.+B3,+Kumar+City,+Pune,+411006&t=m&z=14",
+  "location": {
+    "city": "Pune",
+    "country": "India",
+    "timezone": "Asia/Calcutta",
+    "utcOffset": 5.5,
+    "coordinates": {
+      "latitude": 18.5204303,
+      "longitude": 73.8567437
+    }
+  },
+  "moderators": [
+    {
+      "name": "Dhaval Dalal"
+    }
+  ]
+}

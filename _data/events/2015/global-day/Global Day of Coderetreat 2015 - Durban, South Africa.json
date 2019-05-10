@@ -1,0 +1,20 @@
+{
+  "datetime": "2015-11-14 09:00:00",
+  "title": "Global Day of Coderetreat 2015 - Durban, South Africa",
+  "url": "http://www.meetup.com/coderetreat/events/224897814/",
+  "location": {
+    "city": "Durban",
+    "country": "South Africa",
+    "timezone": "Africa/Johannesburg",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": -29.85868039999999,
+      "longitude": 31.0218404
+    }
+  },
+  "moderators": [
+    {
+      "name": "Brendon Page"
+    }
+  ]
+}

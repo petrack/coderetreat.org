@@ -1,0 +1,20 @@
+{
+  "datetime": "2013-12-14 09:00:00",
+  "title": "Global Day of Coderetreat 2013 - Madison, WI, USA",
+  "url": "http://goo.gl/maps/SjQnX",
+  "location": {
+    "city": "Madison, WI",
+    "country": "USA",
+    "timezone": "America/Chicago",
+    "utcOffset": -5,
+    "coordinates": {
+      "latitude": 43.0730517,
+      "longitude": -89.4012302
+    }
+  },
+  "moderators": [
+    {
+      "name": "mathiasx"
+    }
+  ]
+}

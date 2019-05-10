@@ -1,0 +1,20 @@
+{
+  "datetime": "2013-12-14 09:00:00",
+  "title": "Global Day of Coderetreat 2013 - Newcastle, Australia",
+  "url": "http://goo.gl/maps/a7lAt",
+  "location": {
+    "city": "Newcastle",
+    "country": "Australia",
+    "timezone": "Australia/Sydney",
+    "utcOffset": 11,
+    "coordinates": {
+      "latitude": -32.9282712,
+      "longitude": 151.7816802
+    }
+  },
+  "moderators": [
+    {
+      "name": "John Roach"
+    }
+  ]
+}

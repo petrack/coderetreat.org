@@ -1,0 +1,20 @@
+{
+  "datetime": "2016-10-22 09:00:00",
+  "title": "Global Day of Coderetreat 2016 - Vienna, Austria",
+  "url": "http://techtalk.at/",
+  "location": {
+    "city": "Vienna",
+    "country": "Austria",
+    "timezone": "Europe/Vienna",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 48.2081743,
+      "longitude": 16.3738189
+    }
+  },
+  "moderators": [
+    {
+      "name": "Paul Rohorzka"
+    }
+  ]
+}

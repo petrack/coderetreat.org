@@ -1,0 +1,20 @@
+{
+  "datetime": "2014-11-15 09:00:00",
+  "title": "Global Day of Coderetreat 2014 - Rockaway, NJ, USA",
+  "url": "https://www.google.com/maps/place/Enterprise+Dr,+Dover,+NJ+07801/@40.906532,-74.5633639,17z/data=!3m1!4b1!4m2!3m1!1s0x89c30ae5df68c63b:0x5630c58849a1ce00",
+  "location": {
+    "city": "Rockaway, NJ",
+    "country": "USA",
+    "timezone": "America/New_York",
+    "utcOffset": -4,
+    "coordinates": {
+      "latitude": 40.9012101,
+      "longitude": -74.51432319999999
+    }
+  },
+  "moderators": [
+    {
+      "name": "Jason Jolley"
+    }
+  ]
+}

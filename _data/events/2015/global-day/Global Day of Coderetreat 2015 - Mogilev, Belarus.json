@@ -1,0 +1,23 @@
+{
+  "datetime": "2015-11-14 09:00:00",
+  "title": "Global Day of Coderetreat 2015 - Mogilev, Belarus",
+  "url": "https://events.epam.com/events/coderetreat-mogilev",
+  "location": {
+    "city": "Mogilev",
+    "country": "Belarus",
+    "timezone": "Europe/Minsk",
+    "utcOffset": 3,
+    "coordinates": {
+      "latitude": 53.90071589999999,
+      "longitude": 30.3313598
+    }
+  },
+  "moderators": [
+    {
+      "name": "Yauheni Razhkou"
+    },
+    {
+      "name": "roygkov"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "datetime": "2014-11-15 09:00:00",
+  "title": "Global Day of Coderetreat 2014 - Turku, Finland",
+  "url": "",
+  "location": {
+    "city": "Turku",
+    "country": "Finland",
+    "timezone": "Europe/Helsinki",
+    "utcOffset": 3,
+    "coordinates": {
+      "latitude": 60.4518126,
+      "longitude": 22.2666303
+    }
+  },
+  "moderators": [
+    {
+      "name": "Aki Salmi"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "datetime": "2015-11-14 09:00:00",
+  "title": "Global Day of Coderetreat 2015 - Columbus, OH, USA",
+  "url": "https://www.google.com/maps/place/580+N+4th+St,+Columbus,+OH+43215/@39.9748131,-82.997726,17z/data=!3m1!4b1!4m2!3m1!1s0x88388f2a1ad36f43:0x79b2ab946a359e1d",
+  "location": {
+    "city": "Columbus, OH",
+    "country": "USA",
+    "timezone": "America/New_York",
+    "utcOffset": -4,
+    "coordinates": {
+      "latitude": 39.9611755,
+      "longitude": -82.99879419999999
+    }
+  },
+  "moderators": [
+    {
+      "name": "Jim Kirkbride"
+    },
+    {
+      "name": "James Kirkbride"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "datetime": "2014-11-15 09:00:00",
+  "title": "Global Day of Coderetreat 2014 - Montréal, QC, Canada",
+  "url": "",
+  "location": {
+    "city": "Montréal, QC",
+    "country": "Canada",
+    "timezone": "America/Toronto",
+    "utcOffset": -4,
+    "coordinates": {
+      "latitude": 45.5016889,
+      "longitude": -73.567256
+    }
+  },
+  "moderators": [
+    {
+      "name": "François Perron"
+    }
+  ]
+}

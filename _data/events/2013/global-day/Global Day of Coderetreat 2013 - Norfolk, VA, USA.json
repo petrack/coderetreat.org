@@ -1,0 +1,20 @@
+{
+  "datetime": "2013-12-14 09:00:00",
+  "title": "Global Day of Coderetreat 2013 - Norfolk, VA, USA",
+  "url": "https://maps.google.com/maps?q=111+Granby+Street,+Norfolk,+VA&layer=c&sll=36.846870,-76.292287&cbp=13,306.91,,0,0.11&cbll=36.846775,-76.292129&hl=en&ie=UTF8&hq=&hnear=111+Granby+St,+Norfolk,+Virginia+23510&ll=36.846358,-76.291648&spn=0.006113,0.011362&t=m&z=17&vpsrc=0&iwloc=A&panoid=iwZ8seAsx42AVmHNHtkrlQ",
+  "location": {
+    "city": "Norfolk, VA",
+    "country": "USA",
+    "timezone": "America/New_York",
+    "utcOffset": -4,
+    "coordinates": {
+      "latitude": 36.8507689,
+      "longitude": -76.28587259999999
+    }
+  },
+  "moderators": [
+    {
+      "name": "Ian Taylor"
+    }
+  ]
+}

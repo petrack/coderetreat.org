@@ -1,0 +1,23 @@
+{
+  "datetime": "2016-10-22 09:00:00",
+  "title": "Global Day of Coderetreat 2016 - Erlangen, Germany",
+  "url": "https://www.softwerkskammer.org/activities/gdcr2016-erlangen",
+  "location": {
+    "city": "Erlangen",
+    "country": "Germany",
+    "timezone": "Europe/Berlin",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 49.5896744,
+      "longitude": 11.0119611
+    }
+  },
+  "moderators": [
+    {
+      "name": "Christian Hoffmann"
+    },
+    {
+      "name": "Stefan Clepce"
+    }
+  ]
+}

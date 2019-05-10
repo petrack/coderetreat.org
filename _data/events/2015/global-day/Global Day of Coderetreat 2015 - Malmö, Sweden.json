@@ -1,0 +1,23 @@
+{
+  "datetime": "2015-11-14 09:00:00",
+  "title": "Global Day of Coderetreat 2015 - Malmö, Sweden",
+  "url": "http://www.foocafe.org/event/global-day-of-code-retreat",
+  "location": {
+    "city": "Malmö",
+    "country": "Sweden",
+    "timezone": "Europe/Stockholm",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 55.604981,
+      "longitude": 13.003822
+    }
+  },
+  "moderators": [
+    {
+      "name": "&Oslash;resund Software Craftsmanship Group"
+    },
+    {
+      "name": "Steven R. Baker"
+    }
+  ]
+}

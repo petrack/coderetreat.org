@@ -1,0 +1,26 @@
+{
+  "datetime": "2015-11-14 09:00:00",
+  "title": "Global Day of Coderetreat 2015 - Lille, France",
+  "url": "http://www.nord-agile.org",
+  "location": {
+    "city": "Lille",
+    "country": "France",
+    "timezone": "Europe/Paris",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 50.62925,
+      "longitude": 3.057256
+    }
+  },
+  "moderators": [
+    {
+      "name": "J&eacute;r&eacute;mie HATTAT"
+    },
+    {
+      "name": "Nord AGile"
+    },
+    {
+      "name": "Jérémie HATTAT"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "datetime": "2013-12-14 09:00:00",
+  "title": "Global Day of Coderetreat 2013 - Tampa, FL, USA",
+  "url": "https://2013gdcrtampa.eventbrite.com",
+  "location": {
+    "city": "Tampa, FL",
+    "country": "USA",
+    "timezone": "America/New_York",
+    "utcOffset": -4,
+    "coordinates": {
+      "latitude": 27.950575,
+      "longitude": -82.4571776
+    }
+  },
+  "moderators": [
+    {
+      "name": "Will Warner"
+    }
+  ]
+}

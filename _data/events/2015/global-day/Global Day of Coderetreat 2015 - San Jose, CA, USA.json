@@ -1,0 +1,23 @@
+{
+  "datetime": "2015-11-14 09:00:00",
+  "title": "Global Day of Coderetreat 2015 - San Jose, CA, USA",
+  "url": "https://www.eventbrite.com/e/global-day-of-code-coderetreat-2015-san-jose-ca-tickets-18967352863",
+  "location": {
+    "city": "San Jose, CA",
+    "country": "USA",
+    "timezone": "America/Los_Angeles",
+    "utcOffset": -7,
+    "coordinates": {
+      "latitude": 37.3382082,
+      "longitude": -121.8863286
+    }
+  },
+  "moderators": [
+    {
+      "name": "PayPal"
+    },
+    {
+      "name": "wes williams"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "datetime": "2015-11-14 09:00:00",
+  "title": "Global Day of Coderetreat 2015 (one day earlier) - Gdańsk, Poland",
+  "url": "https://www.google.pl/maps/place/Wirtualna+Polska+S.A./@54.3695774,18.6059689,17z/data=!3m1!4b1!4m2!3m1!1s0x46fd748e3a7ea7ab:0x618d98b727e26c83?hl=pl",
+  "location": {
+    "city": "Gdańsk",
+    "country": "Poland",
+    "timezone": "Europe/Warsaw",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 54.35202520000001,
+      "longitude": 18.6466384
+    }
+  },
+  "moderators": [
+    {
+      "name": "Rafał Roppel"
+    }
+  ]
+}

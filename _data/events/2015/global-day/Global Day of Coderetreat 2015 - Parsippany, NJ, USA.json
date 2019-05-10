@@ -1,0 +1,20 @@
+{
+  "datetime": "2015-11-14 09:00:00",
+  "title": "Global Day of Coderetreat 2015 - Parsippany, NJ, USA",
+  "url": "http://www.microstrat.com",
+  "location": {
+    "city": "Parsippany, NJ",
+    "country": "USA",
+    "timezone": "America/New_York",
+    "utcOffset": -4,
+    "coordinates": {
+      "latitude": 40.8652865,
+      "longitude": -74.41738769999999
+    }
+  },
+  "moderators": [
+    {
+      "name": "Jason Jolley"
+    }
+  ]
+}

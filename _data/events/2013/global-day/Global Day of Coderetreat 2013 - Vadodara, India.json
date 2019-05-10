@@ -1,0 +1,20 @@
+{
+  "datetime": "2013-12-14 09:00:00",
+  "title": "Global Day of Coderetreat 2013 - Vadodara, India",
+  "url": "https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Signature+Plaza,+Nizampura,+Vadodara,+India&aq=&sll=37.0625,-95.677068&sspn=37.683309,86.044922&vpsrc=0&ie=UTF8&hq=&hnear=Signature+Plaza,+Sardar+Nagar,+%E0%AA%A8%E0%AA%BF%E0%AA%9D%E0%AA%BE%E0%AA%AE%E0%AA%AA%E0%AB%81%E0%AA%B0%E0%AA%BE,+Vadodara,+%E0%AA%97%E0%AB%81%E0%AA%9C%E0%AA%B0%E0%AA%BE%E0%AA%A4+390024,+India&t=m&z=19&iwloc=A",
+  "location": {
+    "city": "Vadodara",
+    "country": "India",
+    "timezone": "Asia/Calcutta",
+    "utcOffset": 5.5,
+    "coordinates": {
+      "latitude": 22.3071588,
+      "longitude": 73.1812187
+    }
+  },
+  "moderators": [
+    {
+      "name": "Pravin Jain"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "datetime": "2014-11-15 09:00:00",
+  "title": "Global Day of Coderetreat 2014 - Ourense, Spain",
+  "url": "http://webs.uvigo.es/eseidojos/GDCR14",
+  "location": {
+    "city": "Ourense",
+    "country": "Spain",
+    "timezone": "Europe/Madrid",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 42.3357829,
+      "longitude": -7.8639314
+    }
+  },
+  "moderators": [
+    {
+      "name": "Miguel Reboiro Jato"
+    },
+    {
+      "name": "Pepe Doval"
+    }
+  ]
+}

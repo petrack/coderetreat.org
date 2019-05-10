@@ -1,0 +1,20 @@
+{
+  "datetime": "2014-11-15 09:00:00",
+  "title": "Global Day of Coderetreat 2014 - Brno, Czech Republic",
+  "url": "https://www.google.cz/maps/place/Technick%C3%A1+2948%2F13,+616+00+Brno-Brno-Kr%C3%A1lovo+Pole/@49.2224131,16.5806552,17z/data=!4m2!3m1!1s0x471294035e691533:0xe25d0c61af07a770?hl=en",
+  "location": {
+    "city": "Brno",
+    "country": "Czech Republic",
+    "timezone": "Europe/Prague",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 49.1950602,
+      "longitude": 16.6068371
+    }
+  },
+  "moderators": [
+    {
+      "name": "Jakub Fojtl"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "datetime": "2015-11-14 09:00:00",
+  "title": "Global Day of Coderetreat 2015 - Lehi, UT, USA",
+  "url": "https://www.google.com/maps/place/3400+Ashton+Blvd,+Lehi,+UT+84043/@40.4296916,-111.8965546,17z/data=!4m2!3m1!1s0x8752802f0d5e3449:0x17cfa1de19a284b6",
+  "location": {
+    "city": "Lehi, UT",
+    "country": "USA",
+    "timezone": "America/Denver",
+    "utcOffset": -6,
+    "coordinates": {
+      "latitude": 40.3916172,
+      "longitude": -111.8507662
+    }
+  },
+  "moderators": ""
+}

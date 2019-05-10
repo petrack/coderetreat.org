@@ -1,0 +1,20 @@
+{
+  "datetime": "2013-12-14 09:00:00",
+  "title": "Global Day of Coderetreat 2013 - Bromsgrove, UK",
+  "url": "http://www.craftycoders.net",
+  "location": {
+    "city": "Bromsgrove",
+    "country": "UK",
+    "timezone": "Europe/London",
+    "utcOffset": 1,
+    "coordinates": {
+      "latitude": 52.335589,
+      "longitude": -2.061906
+    }
+  },
+  "moderators": [
+    {
+      "name": "Ian Russell"
+    }
+  ]
+}

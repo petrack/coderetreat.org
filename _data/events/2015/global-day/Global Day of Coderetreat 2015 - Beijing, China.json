@@ -1,0 +1,35 @@
+{
+  "datetime": "2015-11-14 09:00:00",
+  "title": "Global Day of Coderetreat 2015 - Beijing, China",
+  "url": "",
+  "location": {
+    "city": "Beijing",
+    "country": "China",
+    "timezone": "Asia/Shanghai",
+    "utcOffset": 8,
+    "coordinates": {
+      "latitude": 39.90419989999999,
+      "longitude": 116.4073963
+    }
+  },
+  "moderators": [
+    {
+      "name": "Ke LIN(sponsor)"
+    },
+    {
+      "name": "Mingqi ZHANG(sponsor)"
+    },
+    {
+      "name": "Yongzhen HE(facilitator)"
+    },
+    {
+      "name": "Qiang DONG(facilitator)"
+    },
+    {
+      "name": "Minna ZHANG(facilitator)"
+    },
+    {
+      "name": "Ben Wu"
+    }
+  ]
+}

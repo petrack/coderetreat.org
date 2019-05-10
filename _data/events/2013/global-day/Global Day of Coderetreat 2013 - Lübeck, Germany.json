@@ -1,0 +1,20 @@
+{
+  "datetime": "2013-12-14 09:00:00",
+  "title": "Global Day of Coderetreat 2013 - Lübeck, Germany",
+  "url": "http://luebeck.cloudsters.net/",
+  "location": {
+    "city": "Lübeck",
+    "country": "Germany",
+    "timezone": "Europe/Berlin",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 53.8654673,
+      "longitude": 10.6865593
+    }
+  },
+  "moderators": [
+    {
+      "name": "Thilko Richter"
+    }
+  ]
+}

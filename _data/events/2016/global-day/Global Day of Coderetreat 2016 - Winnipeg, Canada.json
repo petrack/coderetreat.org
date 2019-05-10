@@ -1,0 +1,20 @@
+{
+  "datetime": "2016-10-22 09:00:00",
+  "title": "Global Day of Coderetreat 2016 - Winnipeg, Canada",
+  "url": "https://www.google.ca/maps/place/50+Fultz+Blvd,+Winnipeg,+MB+R3Y+0L6/@49.8116081,-97.1916932,17z/data=!3m1!4b1!4m5!3m4!1s0x52ea757221c1ded3:0xaaad23724fafbbbc!8m2!3d49.8116081!4d-97.1895045",
+  "location": {
+    "city": "Winnipeg",
+    "country": "Canada",
+    "timezone": "America/Winnipeg",
+    "utcOffset": -5,
+    "coordinates": {
+      "latitude": 49.895136,
+      "longitude": -97.13837439999999
+    }
+  },
+  "moderators": [
+    {
+      "name": "David alpert"
+    }
+  ]
+}

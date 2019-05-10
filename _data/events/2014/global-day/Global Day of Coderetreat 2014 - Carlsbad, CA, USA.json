@@ -1,0 +1,23 @@
+{
+  "datetime": "2014-11-15 09:00:00",
+  "title": "Global Day of Coderetreat 2014 - Carlsbad, CA, USA",
+  "url": "http://get.planningcenteronline.com/",
+  "location": {
+    "city": "Carlsbad, CA",
+    "country": "USA",
+    "timezone": "America/Los_Angeles",
+    "utcOffset": -7,
+    "coordinates": {
+      "latitude": 33.1580933,
+      "longitude": -117.3505939
+    }
+  },
+  "moderators": [
+    {
+      "name": "Michael Chan"
+    },
+    {
+      "name": "Bobbilee Hartman"
+    }
+  ]
+}

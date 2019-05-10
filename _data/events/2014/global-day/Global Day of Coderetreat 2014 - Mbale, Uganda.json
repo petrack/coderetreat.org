@@ -1,0 +1,20 @@
+{
+  "datetime": "2014-11-15 09:00:00",
+  "title": "Global Day of Coderetreat 2014 - Mbale, Uganda",
+  "url": "https://www.google.com/maps/place/Almaz/@1.0977913,34.1785955,15z/data=!4m2!3m1!1s0x0:0x8ad29ab162abc721",
+  "location": {
+    "city": "Mbale",
+    "country": "Uganda",
+    "timezone": "Africa/Kampala",
+    "utcOffset": 3,
+    "coordinates": {
+      "latitude": 1.0784436,
+      "longitude": 34.1810057
+    }
+  },
+  "moderators": [
+    {
+      "name": "Nsubuga Hassan"
+    }
+  ]
+}

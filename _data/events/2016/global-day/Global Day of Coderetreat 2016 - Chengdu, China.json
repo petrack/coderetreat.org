@@ -1,0 +1,29 @@
+{
+  "datetime": "2016-10-22 09:00:00",
+  "title": "Global Day of Coderetreat 2016 - Chengdu, China",
+  "url": "https://www.google.com/maps/place/NOKIA+Siemens+Communication/@30.550643,104.0790538,13.5z/data=!4m5!3m4!1s0x0:0x7ad0344d98683167!8m2!3d30.5475247!4d104.06986",
+  "location": {
+    "city": "Chengdu",
+    "country": "China",
+    "timezone": "Asia/Shanghai",
+    "utcOffset": 8,
+    "coordinates": {
+      "latitude": 30.572815,
+      "longitude": 104.066801
+    }
+  },
+  "moderators": [
+    {
+      "name": "Nokia Chengdu Technology Center"
+    },
+    {
+      "name": "Xirui Wang"
+    },
+    {
+      "name": "Brian Liu"
+    },
+    {
+      "name": "Harry Chen"
+    }
+  ]
+}

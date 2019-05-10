@@ -1,0 +1,20 @@
+{
+  "datetime": "2016-10-22 09:00:00",
+  "title": "Global Day of Coderetreat - Tirgu-Mures, Romania",
+  "url": "https://www.google.fr/maps/place/Strada+Principal%C4%83,+Corunca,+Roumanie/@46.520523,24.6064208,18.58z/data=!4m5!3m4!1s0x474bb0c34b4ae4a9:0xce7a9cdc3e2a697b!8m2!3d46.5198542!4d24.6222202",
+  "location": {
+    "city": "Tirgu-Mures",
+    "country": "Romania",
+    "timezone": "Europe/Bucharest",
+    "utcOffset": 3,
+    "coordinates": {
+      "latitude": 46.5385862,
+      "longitude": 24.5514392
+    }
+  },
+  "moderators": [
+    {
+      "name": "One Logic Consulting"
+    }
+  ]
+}

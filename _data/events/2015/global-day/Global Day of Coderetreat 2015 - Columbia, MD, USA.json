@@ -1,0 +1,20 @@
+{
+  "datetime": "2015-11-14 09:00:00",
+  "title": "Global Day of Coderetreat 2015 - Columbia, MD, USA",
+  "url": "http://www.meetup.com/Baltimore-Code-Craftsmanship/events/225535757/",
+  "location": {
+    "city": "Columbia, MD",
+    "country": "USA",
+    "timezone": "America/New_York",
+    "utcOffset": -4,
+    "coordinates": {
+      "latitude": 39.2037144,
+      "longitude": -76.86104619999999
+    }
+  },
+  "moderators": [
+    {
+      "name": "Camille Bell"
+    }
+  ]
+}

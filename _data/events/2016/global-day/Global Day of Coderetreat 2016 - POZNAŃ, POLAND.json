@@ -1,0 +1,26 @@
+{
+  "datetime": "2016-10-22 09:00:00",
+  "title": "Global Day of Coderetreat 2016 - POZNAŃ, POLAND",
+  "url": "https://www.eventbrite.com/e/poznan-code-retreat-2016-tickets-27566462030",
+  "location": {
+    "city": "POZNAŃ",
+    "country": "POLAND",
+    "timezone": "Europe/Warsaw",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 52.406374,
+      "longitude": 16.9251681
+    }
+  },
+  "moderators": [
+    {
+      "name": "Poznań JUG"
+    },
+    {
+      "name": "PSI"
+    },
+    {
+      "name": "Łukasz Stachowiak"
+    }
+  ]
+}

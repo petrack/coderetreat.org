@@ -1,0 +1,20 @@
+{
+  "datetime": "2016-10-22 09:00:00",
+  "title": "Global Day of Coderetreat 2016 - QUEZON CITY, PHILIPPINES",
+  "url": "",
+  "location": {
+    "city": "QUEZON CITY",
+    "country": "PHILIPPINES",
+    "timezone": "Asia/Manila",
+    "utcOffset": 8,
+    "coordinates": {
+      "latitude": 14.6760413,
+      "longitude": 121.0437003
+    }
+  },
+  "moderators": [
+    {
+      "name": "Mj Mendoza"
+    }
+  ]
+}

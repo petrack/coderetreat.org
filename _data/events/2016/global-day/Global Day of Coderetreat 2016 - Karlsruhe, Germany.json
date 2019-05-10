@@ -1,0 +1,26 @@
+{
+  "datetime": "2016-10-22 09:00:00",
+  "title": "Global Day of Coderetreat 2016 - Karlsruhe, Germany",
+  "url": "https://goo.gl/maps/xZTntwpM8nN2",
+  "location": {
+    "city": "Karlsruhe",
+    "country": "Germany",
+    "timezone": "Europe/Berlin",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 49.0068901,
+      "longitude": 8.4036527
+    }
+  },
+  "moderators": [
+    {
+      "name": "Peter Fichtner"
+    },
+    {
+      "name": "Fiducia"
+    },
+    {
+      "name": "GAD IT AG"
+    }
+  ]
+}

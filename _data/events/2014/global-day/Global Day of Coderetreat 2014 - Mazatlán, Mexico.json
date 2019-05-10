@@ -1,0 +1,23 @@
+{
+  "datetime": "2014-11-15 09:00:00",
+  "title": "Global Day of Coderetreat 2014 - Mazatlán, Mexico",
+  "url": "https://www.google.com.mx/maps/place/Universidad+Polit%C3%A9cnica+de+Sinaloa/@23.265348,-106.3739982,17z/data=!3m1!4b1!4m2!3m1!1s0x869f53930ee12159:0xf9610cdfe8f5ff62?hl=es",
+  "location": {
+    "city": "Mazatlán",
+    "country": "Mexico",
+    "timezone": "America/Mazatlan",
+    "utcOffset": -6,
+    "coordinates": {
+      "latitude": 23.2494148,
+      "longitude": -106.4111425
+    }
+  },
+  "moderators": [
+    {
+      "name": "Universidad Polit&eacute;cnica de Sinaloa"
+    },
+    {
+      "name": "Paul Alejandro Soberanes"
+    }
+  ]
+}

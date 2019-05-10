@@ -1,0 +1,20 @@
+{
+  "datetime": "2013-12-14 09:00:00",
+  "title": "Global Day of Coderetreat 2013 - Ithaca, NY, USA",
+  "url": "https://gdrc2013-ithaca.eventbrite.com",
+  "location": {
+    "city": "Ithaca, NY",
+    "country": "USA",
+    "timezone": "America/New_York",
+    "utcOffset": -4,
+    "coordinates": {
+      "latitude": 42.4439614,
+      "longitude": -76.5018807
+    }
+  },
+  "moderators": [
+    {
+      "name": "David Furber"
+    }
+  ]
+}

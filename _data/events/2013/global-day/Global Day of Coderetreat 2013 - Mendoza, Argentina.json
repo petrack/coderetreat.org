@@ -1,0 +1,20 @@
+{
+  "datetime": "2013-12-14 09:00:00",
+  "title": "Global Day of Coderetreat 2013 - Mendoza, Argentina",
+  "url": "https://coderetreat-mendoza-2013.eventbrite.com/",
+  "location": {
+    "city": "Mendoza",
+    "country": "Argentina",
+    "timezone": "America/Mendoza",
+    "utcOffset": -3,
+    "coordinates": {
+      "latitude": -32.8894587,
+      "longitude": -68.8458386
+    }
+  },
+  "moderators": [
+    {
+      "name": "Belatrix Software"
+    }
+  ]
+}

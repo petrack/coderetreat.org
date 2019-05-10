@@ -1,0 +1,20 @@
+{
+  "datetime": "2015-11-14 09:00:00",
+  "title": "Global Day of Coderetreat 2015 - Alicante, Spain",
+  "url": "http://www.gemalto.com",
+  "location": {
+    "city": "Alicante",
+    "country": "Spain",
+    "timezone": "Europe/Madrid",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 38.3459963,
+      "longitude": -0.4906855
+    }
+  },
+  "moderators": [
+    {
+      "name": "Raúl Gomis"
+    }
+  ]
+}

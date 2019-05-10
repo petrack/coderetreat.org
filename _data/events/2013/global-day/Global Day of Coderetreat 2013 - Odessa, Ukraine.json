@@ -1,0 +1,20 @@
+{
+  "datetime": "2013-12-14 09:00:00",
+  "title": "Global Day of Coderetreat 2013 - Odessa, Ukraine",
+  "url": "",
+  "location": {
+    "city": "Odessa",
+    "country": "Ukraine",
+    "timezone": "Europe/Kiev",
+    "utcOffset": 3,
+    "coordinates": {
+      "latitude": 46.482526,
+      "longitude": 30.7233095
+    }
+  },
+  "moderators": [
+    {
+      "name": "Dmytro Mindra"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "datetime": "2013-12-14 09:00:00",
+  "title": "Global Day of Coderetreat 2013 - Guadalajara, Mexico",
+  "url": "http://rubygdl.org",
+  "location": {
+    "city": "Guadalajara",
+    "country": "Mexico",
+    "timezone": "America/Mexico_City",
+    "utcOffset": -5,
+    "coordinates": {
+      "latitude": 20.6596988,
+      "longitude": -103.3496092
+    }
+  },
+  "moderators": [
+    {
+      "name": "Ruby GDL"
+    },
+    {
+      "name": "Javier Cervantes"
+    }
+  ]
+}

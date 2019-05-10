@@ -1,0 +1,20 @@
+{
+  "datetime": "2014-11-15 09:00:00",
+  "title": "Global Day of Coderetreat 2014 - Bielefeld, Germany",
+  "url": "https://www.softwerkskammer.org/activities/mob-gdcr-14",
+  "location": {
+    "city": "Bielefeld",
+    "country": "Germany",
+    "timezone": "Europe/Berlin",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 52.0302285,
+      "longitude": 8.532470800000002
+    }
+  },
+  "moderators": [
+    {
+      "name": "Jaroslaw Klose"
+    }
+  ]
+}

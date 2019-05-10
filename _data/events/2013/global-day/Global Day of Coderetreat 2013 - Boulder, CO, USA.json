@@ -1,0 +1,23 @@
+{
+  "datetime": "2013-12-14 09:00:00",
+  "title": "Global Day of Coderetreat 2013 - Boulder, CO, USA",
+  "url": "",
+  "location": {
+    "city": "Boulder, CO",
+    "country": "USA",
+    "timezone": "America/Denver",
+    "utcOffset": -6,
+    "coordinates": {
+      "latitude": 40.0149856,
+      "longitude": -105.2705456
+    }
+  },
+  "moderators": [
+    {
+      "name": "Nick howard"
+    },
+    {
+      "name": "Shannon McCoy"
+    }
+  ]
+}

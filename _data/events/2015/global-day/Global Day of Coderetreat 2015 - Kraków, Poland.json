@@ -1,0 +1,23 @@
+{
+  "datetime": "2015-11-14 09:00:00",
+  "title": "Global Day of Coderetreat 2015 - Kraków, Poland",
+  "url": "http://sckrk.com",
+  "location": {
+    "city": "Kraków",
+    "country": "Poland",
+    "timezone": "Europe/Warsaw",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 50.06465009999999,
+      "longitude": 19.9449799
+    }
+  },
+  "moderators": [
+    {
+      "name": "LAFK"
+    },
+    {
+      "name": "Adam Pohorecki"
+    }
+  ]
+}

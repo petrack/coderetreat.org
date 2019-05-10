@@ -1,0 +1,23 @@
+{
+  "datetime": "2014-11-15 09:00:00",
+  "title": "Global Day of Coderetreat 2014 - Zaragoza, Spain",
+  "url": "http://www.eventbis.com/gdcrzgz",
+  "location": {
+    "city": "Zaragoza",
+    "country": "Spain",
+    "timezone": "Europe/Madrid",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 41.6488226,
+      "longitude": -0.8890853
+    }
+  },
+  "moderators": [
+    {
+      "name": "Agile Aragon"
+    },
+    {
+      "name": "Pedro Lafuente"
+    }
+  ]
+}

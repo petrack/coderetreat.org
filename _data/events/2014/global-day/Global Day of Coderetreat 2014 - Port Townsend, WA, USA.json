@@ -1,0 +1,20 @@
+{
+  "datetime": "2014-11-15 09:00:00",
+  "title": "Global Day of Coderetreat 2014 - Port Townsend, WA, USA",
+  "url": "https://www.google.com/maps/place/The+CoLab/@48.114968,-122.757196,17z/data=!3m1!4b1!4m2!3m1!1s0x548fedc6f200cbd9:0x3d2ed7d5e3f826b3",
+  "location": {
+    "city": "Port Townsend, WA",
+    "country": "USA",
+    "timezone": "America/Los_Angeles",
+    "utcOffset": -7,
+    "coordinates": {
+      "latitude": 48.11703869999999,
+      "longitude": -122.7604472
+    }
+  },
+  "moderators": [
+    {
+      "name": "Jay Bazuzi"
+    }
+  ]
+}

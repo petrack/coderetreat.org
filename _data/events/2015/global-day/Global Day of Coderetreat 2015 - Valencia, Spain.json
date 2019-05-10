@@ -1,0 +1,29 @@
+{
+  "datetime": "2015-11-14 09:00:00",
+  "title": "Global Day of Coderetreat 2015 - Valencia, Spain",
+  "url": "http://www.meetup.com/es/Aprende-a-programar-en-Valencia/events/226230153/",
+  "location": {
+    "city": "Valencia",
+    "country": "Spain",
+    "timezone": "Europe/Madrid",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 39.4699075,
+      "longitude": -0.3762881
+    }
+  },
+  "moderators": [
+    {
+      "name": "Devscola"
+    },
+    {
+      "name": "GeeksHubs"
+    },
+    {
+      "name": "FlyWire"
+    },
+    {
+      "name": "Emma"
+    }
+  ]
+}

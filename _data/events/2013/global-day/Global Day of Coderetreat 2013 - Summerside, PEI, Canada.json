@@ -1,0 +1,20 @@
+{
+  "datetime": "2013-12-14 09:00:00",
+  "title": "Global Day of Coderetreat 2013 - Summerside, PEI, Canada",
+  "url": "http://www.cupevents.ca",
+  "location": {
+    "city": "Summerside, PEI",
+    "country": "Canada",
+    "timezone": "America/Halifax",
+    "utcOffset": -3,
+    "coordinates": {
+      "latitude": 46.39337769999999,
+      "longitude": -63.79023309999999
+    }
+  },
+  "moderators": [
+    {
+      "name": "Steven R. Baker"
+    }
+  ]
+}

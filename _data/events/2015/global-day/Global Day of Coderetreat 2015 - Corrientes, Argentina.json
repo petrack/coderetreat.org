@@ -1,0 +1,20 @@
+{
+  "datetime": "2015-11-14 09:00:00",
+  "title": "Global Day of Coderetreat 2015 - Corrientes, Argentina",
+  "url": "https://www.google.com/maps/d/edit?mid=z0_KrVsvYO14.kbkME_xu8_-0&usp=sharing",
+  "location": {
+    "city": "Corrientes",
+    "country": "Argentina",
+    "timezone": "America/Cordoba",
+    "utcOffset": -3,
+    "coordinates": {
+      "latitude": -27.4692131,
+      "longitude": -58.8306349
+    }
+  },
+  "moderators": [
+    {
+      "name": "Matias Mascazzini"
+    }
+  ]
+}

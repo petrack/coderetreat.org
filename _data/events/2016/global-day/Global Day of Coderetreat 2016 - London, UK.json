@@ -1,0 +1,24 @@
+{
+  "datetime": "2016-10-22 09:00:00",
+  "title": "Global Day of Coderetreat 2016 - London, UK",
+  "url": "http://codurance.com/aboutus/contact/",
+  "location": {
+    "city": "London",
+    "country": "UK",
+    "timezone": "Europe/London",
+    "utcOffset": 1,
+    "coordinates": {
+      "latitude": 51.5073509,
+      "longitude": -0.1277583
+    }
+  },
+  "moderators": ""
+}3
+    }
+  },
+  "moderators": [
+    {
+      "name": "Julian Ghionoiu"
+    }
+  ]
+}

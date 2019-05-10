@@ -1,0 +1,23 @@
+{
+  "datetime": "2016-10-22 09:00:00",
+  "title": "Global Day of Coderetreat Pune 2016 - Pune, India",
+  "url": "http://nelkinda.com/events/2016-10-22-Global-Day-of-Coderetreat-Pune/",
+  "location": {
+    "city": "Pune",
+    "country": "India",
+    "timezone": "Asia/Calcutta",
+    "utcOffset": 5.5,
+    "coordinates": {
+      "latitude": 18.5204303,
+      "longitude": 73.8567437
+    }
+  },
+  "moderators": [
+    {
+      "name": "Nelkinda Software Craft Pvt Ltd"
+    },
+    {
+      "name": "Christian Hujer"
+    }
+  ]
+}

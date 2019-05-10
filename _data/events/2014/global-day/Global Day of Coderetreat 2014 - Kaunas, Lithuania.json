@@ -1,0 +1,32 @@
+{
+  "datetime": "2014-11-15 09:00:00",
+  "title": "Global Day of Coderetreat 2014 - Kaunas, Lithuania",
+  "url": "https://www.eventbrite.com/e/global-day-of-coderetreat-2014-tickets-13804701233",
+  "location": {
+    "city": "Kaunas",
+    "country": "Lithuania",
+    "timezone": "Europe/Vilnius",
+    "utcOffset": 3,
+    "coordinates": {
+      "latitude": 54.8985207,
+      "longitude": 23.9035965
+    }
+  },
+  "moderators": [
+    {
+      "name": "Vaidas Pilkauskas"
+    },
+    {
+      "name": "Vytautas Dagilis"
+    },
+    {
+      "name": "Adomas Greičius"
+    },
+    {
+      "name": "Dominykas Blyžė"
+    },
+    {
+      "name": "Adomas Greicius"
+    }
+  ]
+}

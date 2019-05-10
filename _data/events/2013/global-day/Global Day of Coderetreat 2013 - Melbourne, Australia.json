@@ -1,0 +1,20 @@
+{
+  "datetime": "2013-12-14 09:00:00",
+  "title": "Global Day of Coderetreat 2013 - Melbourne, Australia",
+  "url": "http://www.rea-group.com/irm/content/home.html",
+  "location": {
+    "city": "Melbourne",
+    "country": "Australia",
+    "timezone": "Australia/Melbourne",
+    "utcOffset": 11,
+    "coordinates": {
+      "latitude": -37.8136276,
+      "longitude": 144.9630576
+    }
+  },
+  "moderators": [
+    {
+      "name": "Supriya joshi"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "datetime": "2015-11-14 09:00:00",
+  "title": "Global Day of Coderetreat 2015 - Shanghai, China",
+  "url": "http://Not sure",
+  "location": {
+    "city": "Shanghai",
+    "country": "China",
+    "timezone": "Asia/Shanghai",
+    "utcOffset": 8,
+    "coordinates": {
+      "latitude": 31.2303904,
+      "longitude": 121.4737021
+    }
+  },
+  "moderators": [
+    {
+      "name": "Fengxiang Zhu"
+    },
+    {
+      "name": "Yiqing Ma"
+    }
+  ]
+}

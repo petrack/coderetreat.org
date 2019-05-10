@@ -1,0 +1,20 @@
+{
+  "datetime": "2013-12-14 09:00:00",
+  "title": "Global Day of Coderetreat 2013 - Potchefstroom, South Africa",
+  "url": "http://www.willowsgardenhotel.co.za/",
+  "location": {
+    "city": "Potchefstroom",
+    "country": "South Africa",
+    "timezone": "Africa/Johannesburg",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": -26.7145297,
+      "longitude": 27.0970475
+    }
+  },
+  "moderators": [
+    {
+      "name": "Anthonie De Klerk"
+    }
+  ]
+}

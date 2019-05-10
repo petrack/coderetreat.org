@@ -1,0 +1,23 @@
+{
+  "datetime": "2013-12-14 09:00:00",
+  "title": "Global Day of Coderetreat 2013 - Münster, Germany",
+  "url": "http://www.softwerkskammer.org/activities/ms-gdcr-13",
+  "location": {
+    "city": "Münster",
+    "country": "Germany",
+    "timezone": "Europe/Berlin",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 51.9606649,
+      "longitude": 7.6261347
+    }
+  },
+  "moderators": [
+    {
+      "name": "SoCraMOB"
+    },
+    {
+      "name": "Andreas Simon"
+    }
+  ]
+}

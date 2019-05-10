@@ -1,0 +1,20 @@
+{
+  "datetime": "2014-11-15 09:00:00",
+  "title": "Global Day of Coderetreat 2014 - Zielona Góra, Poland",
+  "url": "",
+  "location": {
+    "city": "Zielona Góra",
+    "country": "Poland",
+    "timezone": "Europe/Warsaw",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 51.9356214,
+      "longitude": 15.5061862
+    }
+  },
+  "moderators": [
+    {
+      "name": "Magda Stożek"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "datetime": "2015-11-14 09:00:00",
+  "title": "Global Day of Coderetreat 2015 - Gothenburg, Sweden",
+  "url": "https://www.google.se/maps/place/Meltwater+Search+Center+of+Excellence+AB/@57.7087772,11.9663706,14z/data=!3m1!4b1",
+  "location": {
+    "city": "Gothenburg",
+    "country": "Sweden",
+    "timezone": "Europe/Stockholm",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 57.70887,
+      "longitude": 11.97456
+    }
+  },
+  "moderators": [
+    {
+      "name": "Per Bergland"
+    }
+  ]
+}

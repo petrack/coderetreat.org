@@ -1,0 +1,20 @@
+{
+  "datetime": "2016-10-22 09:00:00",
+  "title": "Global Day of Coderetreat 2016 - Rochester, NY, USA",
+  "url": "https://www.eventbrite.com/e/code-retreat-rochester-ny-oct-22-2016-tickets-27796166081",
+  "location": {
+    "city": "Rochester, NY",
+    "country": "USA",
+    "timezone": "America/New_York",
+    "utcOffset": -4,
+    "coordinates": {
+      "latitude": 43.16103,
+      "longitude": -77.6109219
+    }
+  },
+  "moderators": [
+    {
+      "name": "Gary Passero"
+    }
+  ]
+}

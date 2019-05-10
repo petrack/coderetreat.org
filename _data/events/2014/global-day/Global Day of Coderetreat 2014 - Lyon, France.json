@@ -1,0 +1,20 @@
+{
+  "datetime": "2014-11-15 09:00:00",
+  "title": "Global Day of Coderetreat 2014 - Lyon, France",
+  "url": "",
+  "location": {
+    "city": "Lyon",
+    "country": "France",
+    "timezone": "Europe/Paris",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 45.764043,
+      "longitude": 4.835659
+    }
+  },
+  "moderators": [
+    {
+      "name": "Haïkel Guémar"
+    }
+  ]
+}

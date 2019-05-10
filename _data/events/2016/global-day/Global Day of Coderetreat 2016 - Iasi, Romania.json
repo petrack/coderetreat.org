@@ -1,0 +1,20 @@
+{
+  "datetime": "2016-10-22 09:00:00",
+  "title": "Global Day of Coderetreat 2016 - Iasi, Romania",
+  "url": "https://www.facebook.com/events/321643241511287/",
+  "location": {
+    "city": "Iasi",
+    "country": "Romania",
+    "timezone": "Europe/Bucharest",
+    "utcOffset": 3,
+    "coordinates": {
+      "latitude": 47.1584549,
+      "longitude": 27.6014418
+    }
+  },
+  "moderators": [
+    {
+      "name": "Iulian Dogariu"
+    }
+  ]
+}

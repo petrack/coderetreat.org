@@ -1,0 +1,20 @@
+{
+  "datetime": "2014-11-15 09:00:00",
+  "title": "Global Day of Coderetreat 2014 - Skopje, Macedonia",
+  "url": "http://maps.google.com/maps?q=41.996716,21.429433&num=1&sll=41.996685,21.429351&sspn=0.001298,0.00284&ie=UTF8&ll=41.996715,21.429415&spn=0.001298,0.00284&z=19",
+  "location": {
+    "city": "Skopje",
+    "country": "Macedonia",
+    "timezone": "Europe/Skopje",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 41.9973462,
+      "longitude": 21.4279956
+    }
+  },
+  "moderators": [
+    {
+      "name": "Dalibor Nasevic"
+    }
+  ]
+}

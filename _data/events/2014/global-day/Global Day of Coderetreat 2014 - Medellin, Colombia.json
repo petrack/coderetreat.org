@@ -1,0 +1,20 @@
+{
+  "datetime": "2014-11-15 09:00:00",
+  "title": "Global Day of Coderetreat 2014 - Medellin, Colombia",
+  "url": "",
+  "location": {
+    "city": "Medellin",
+    "country": "Colombia",
+    "timezone": "America/Bogota",
+    "utcOffset": -5,
+    "coordinates": {
+      "latitude": 6.244203,
+      "longitude": -75.5812119
+    }
+  },
+  "moderators": [
+    {
+      "name": "Oscar Rendon"
+    }
+  ]
+}

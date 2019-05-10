@@ -1,0 +1,20 @@
+{
+  "datetime": "2013-12-14 09:00:00",
+  "title": "Global Day of Coderetreat 2013 - Arnhem, Netherlands",
+  "url": "https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Luminis+Arnhem+B.V.,+IJsselburcht,+Arnhem,+The+Netherlands&aq=0&oq=luminis+arnhem&sll=37.0625,-95.677068&sspn=69.939706,117.070313&vpsrc=0&t=h&ie=UTF8&hq=luminis+arnhem+bv&hnear=IJsselburcht,+Arnhem,+Gelderland,+The+Netherlands&z=17&cid=4196831690136782988&iwloc=A",
+  "location": {
+    "city": "Arnhem",
+    "country": "Netherlands",
+    "timezone": "Europe/Amsterdam",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 51.9851034,
+      "longitude": 5.898729599999999
+    }
+  },
+  "moderators": [
+    {
+      "name": "Daan van Berkel"
+    }
+  ]
+}

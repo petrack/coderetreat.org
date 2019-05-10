@@ -1,0 +1,20 @@
+{
+  "datetime": "2015-11-14 09:00:00",
+  "title": "Global Day of Coderetreat 2015 - Bratislava, Slovakia",
+  "url": "https://www.google.no/maps/place/TNS+Slovakia,+s.r.o./@48.1463898,17.1401646,18z/data=!4m5!1m2!2m1!1sPrievozsk%C3%A1+4d,+Bratislava,+Slovakia!3m1!1s0x0000000000000000:0x03d1f04c1f62b2ac",
+  "location": {
+    "city": "Bratislava",
+    "country": "Slovakia",
+    "timezone": "Europe/Bratislava",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 48.1485965,
+      "longitude": 17.1077477
+    }
+  },
+  "moderators": [
+    {
+      "name": "Michael Dyrda"
+    }
+  ]
+}

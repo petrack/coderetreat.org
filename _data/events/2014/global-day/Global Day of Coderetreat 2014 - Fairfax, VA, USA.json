@@ -1,0 +1,23 @@
+{
+  "datetime": "2014-11-15 09:00:00",
+  "title": "Global Day of Coderetreat 2014 - Fairfax, VA, USA",
+  "url": "https://www.google.com/maps/place/2910+District+Ave,+Mosaic+District,+Fairfax,+VA+22031/@38.8726088,-77.2300673,17z/data=!3m1!4b1!4m2!3m1!1s0x89b64b7b5f4916e7:0x39e5ac731a179e22?hl=en",
+  "location": {
+    "city": "Fairfax, VA",
+    "country": "USA",
+    "timezone": "America/New_York",
+    "utcOffset": -4,
+    "coordinates": {
+      "latitude": 38.84622359999999,
+      "longitude": -77.30637329999999
+    }
+  },
+  "moderators": [
+    {
+      "name": "David Bock"
+    },
+    {
+      "name": "Chris Mar"
+    }
+  ]
+}

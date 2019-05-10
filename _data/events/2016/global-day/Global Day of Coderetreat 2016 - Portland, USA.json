@@ -1,0 +1,23 @@
+{
+  "datetime": "2016-10-22 09:00:00",
+  "title": "Global Day of Coderetreat 2016 - Portland, USA",
+  "url": "https://maps.google.com/maps?f=q&hl=en&q=310+SW+4th+Ave%2C+Suite+330%2C+Portland%2C+OR%2C+us",
+  "location": {
+    "city": "Portland",
+    "country": "USA",
+    "timezone": "America/Los_Angeles",
+    "utcOffset": -7,
+    "coordinates": {
+      "latitude": 45.5230622,
+      "longitude": -122.6764816
+    }
+  },
+  "moderators": [
+    {
+      "name": "Jean Richardson"
+    },
+    {
+      "name": "Tanya Crenshaw"
+    }
+  ]
+}

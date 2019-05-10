@@ -1,0 +1,20 @@
+{
+  "datetime": "2013-12-14 09:00:00",
+  "title": "Global Day of Coderetreat 2013 - Wolfsburg, Germany",
+  "url": "https://www.google.de/maps/preview?authuser=0#!q=T-Systems+Business+Services+GmbH&data=!1m4!1m3!1d1039!2d10.7920669!3d52.4251948!4m29!2m16!1m14!1s0x0%3A0x1c6ff2bee43f82ac!3m8!1m3!1d1039!2d10.7920669!3d52.4251948!3m2!1i1301!2i656!4f13.1!4m2!3d52.4256111!4d10.7918559!5e4!6sT-Systems+on+site+services!5m11!1m10!1sT-Systems+on+site+services!4m8!1m3!1d2119903!2d9.1260423!3d52.5936757!3m2!1i1301!2i656!4f13.1",
+  "location": {
+    "city": "Wolfsburg",
+    "country": "Germany",
+    "timezone": "Europe/Berlin",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 52.4226503,
+      "longitude": 10.7865461
+    }
+  },
+  "moderators": [
+    {
+      "name": "Rene Pfeuffer"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "datetime": "2013-12-14 09:00:00",
+  "title": "Global Day of Coderetreat 2013 - Bielsko-Biała, Poland",
+  "url": "",
+  "location": {
+    "city": "Bielsko-Biała",
+    "country": "Poland",
+    "timezone": "Europe/Warsaw",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 49.8223768,
+      "longitude": 19.0583845
+    }
+  },
+  "moderators": [
+    {
+      "name": "Fundacja Mikstura.IT"
+    },
+    {
+      "name": "Eunika Tabak"
+    }
+  ]
+}

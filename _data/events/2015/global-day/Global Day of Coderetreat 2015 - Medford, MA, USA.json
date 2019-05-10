@@ -1,0 +1,20 @@
+{
+  "datetime": "2015-11-14 09:00:00",
+  "title": "Global Day of Coderetreat 2015 - Medford, MA, USA",
+  "url": "",
+  "location": {
+    "city": "Medford, MA",
+    "country": "USA",
+    "timezone": "America/New_York",
+    "utcOffset": -4,
+    "coordinates": {
+      "latitude": 42.4184296,
+      "longitude": -71.1061639
+    }
+  },
+  "moderators": [
+    {
+      "name": "George Champlin-Scharff"
+    }
+  ]
+}

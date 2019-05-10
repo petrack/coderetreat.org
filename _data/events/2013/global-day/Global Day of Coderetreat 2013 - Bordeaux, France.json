@@ -1,0 +1,23 @@
+{
+  "datetime": "2013-12-14 09:00:00",
+  "title": "Global Day of Coderetreat 2013 - Bordeaux, France",
+  "url": "",
+  "location": {
+    "city": "Bordeaux",
+    "country": "France",
+    "timezone": "Europe/Paris",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 44.837789,
+      "longitude": -0.57918
+    }
+  },
+  "moderators": [
+    {
+      "name": "Okiwi"
+    },
+    {
+      "name": "Jean-Baptiste Dusseaut"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "datetime": "2016-10-22 09:00:00",
+  "title": "Global Day of Coderetreat 2016 - Lübeck, Germany",
+  "url": "https://www.google.de/maps/place/53°51'24.0\"N+10°40'15.0\"E",
+  "location": {
+    "city": "Lübeck",
+    "country": "Germany",
+    "timezone": "Europe/Berlin",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 53.8654673,
+      "longitude": 10.6865593
+    }
+  },
+  "moderators": [
+    {
+      "name": "Florian Mösch"
+    }
+  ]
+}

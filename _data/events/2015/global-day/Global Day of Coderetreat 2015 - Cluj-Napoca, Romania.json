@@ -1,0 +1,20 @@
+{
+  "datetime": "2015-11-14 09:00:00",
+  "title": "Global Day of Coderetreat 2015 - Cluj-Napoca, Romania",
+  "url": "https://www.google.ro/maps/place/Cluj+Hub/@46.7736247,23.599573,17z/data=!3m1!4b1!4m2!3m1!1s0x47490c21095822b5:0x877151207ad02321?hl=en",
+  "location": {
+    "city": "Cluj-Napoca",
+    "country": "Romania",
+    "timezone": "Europe/Bucharest",
+    "utcOffset": 3,
+    "coordinates": {
+      "latitude": 46.7712101,
+      "longitude": 23.6236353
+    }
+  },
+  "moderators": [
+    {
+      "name": "Horea Hopartean"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "datetime": "2013-12-14 09:00:00",
+  "title": "Global Day of Coderetreat 2013 - Fürth, Germany",
+  "url": "http://gdcr13-fuerth.eventbrite.de/",
+  "location": {
+    "city": "Fürth",
+    "country": "Germany",
+    "timezone": "Europe/Berlin",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 49.4771169,
+      "longitude": 10.988667
+    }
+  },
+  "moderators": [
+    {
+      "name": "Martin Heider"
+    },
+    {
+      "name": "Marco Emrich"
+    },
+    {
+      "name": "P&eacute;ter Zsoldos (the GDCR N&uuml;rnberg"
+    },
+    {
+      "name": "F&uuml;rth Team)"
+    }
+  ]
+}

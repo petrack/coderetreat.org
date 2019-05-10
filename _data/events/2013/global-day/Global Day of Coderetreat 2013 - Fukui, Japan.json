@@ -1,0 +1,20 @@
+{
+  "datetime": "2013-12-14 09:00:00",
+  "title": "Global Day of Coderetreat 2013 - Fukui, Japan",
+  "url": "https://maps.google.co.jp/maps?q=%E7%A6%8F%E4%BA%95%E7%9C%8C%E7%A6%8F%E4%BA%95%E5%B8%82%E5%95%8F%E5%B1%8B%E7%94%BA%EF%BC%93%E4%B8%81%E7%9B%AE%EF%BC%91%EF%BC%91%EF%BC%91&ie=UTF-8&hq=&hnear=0x5ff8bc291bede311:0xf45bdc62f5911174,3+Chome-111+Toiyach%C5%8D,+Fukui-shi,+Fukui-ken&gl=jp&ei=vNmEUrWAN8yJlQXMyYCQBQ&ved=0CIwBELYDMAo",
+  "location": {
+    "city": "Fukui",
+    "country": "Japan",
+    "timezone": "Asia/Tokyo",
+    "utcOffset": 9,
+    "coordinates": {
+      "latitude": 36.0640669,
+      "longitude": 136.2194938
+    }
+  },
+  "moderators": [
+    {
+      "name": "Hiroki Kondo"
+    }
+  ]
+}

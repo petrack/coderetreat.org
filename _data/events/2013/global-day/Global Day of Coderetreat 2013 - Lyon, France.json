@@ -1,0 +1,32 @@
+{
+  "datetime": "2013-12-14 09:00:00",
+  "title": "Global Day of Coderetreat 2013 - Lyon, France",
+  "url": "http://www.eventbrite.fr/e/global-day-of-code-retreat-lyon-decembre-tickets-9341032279",
+  "location": {
+    "city": "Lyon",
+    "country": "France",
+    "timezone": "Europe/Paris",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 45.764043,
+      "longitude": 4.835659
+    }
+  },
+  "moderators": [
+    {
+      "name": "Objet Direct"
+    },
+    {
+      "name": "CARA"
+    },
+    {
+      "name": "MUGLyon"
+    },
+    {
+      "name": "Lyon.rb"
+    },
+    {
+      "name": "Camille Appert"
+    }
+  ]
+}

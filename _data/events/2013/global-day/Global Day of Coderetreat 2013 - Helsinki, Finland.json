@@ -1,0 +1,23 @@
+{
+  "datetime": "2013-12-14 09:00:00",
+  "title": "Global Day of Coderetreat 2013 - Helsinki, Finland",
+  "url": "https://www.cs.helsinki.fi/uutiset/78758",
+  "location": {
+    "city": "Helsinki",
+    "country": "Finland",
+    "timezone": "Europe/Helsinki",
+    "utcOffset": 3,
+    "coordinates": {
+      "latitude": 60.16985569999999,
+      "longitude": 24.938379
+    }
+  },
+  "moderators": [
+    {
+      "name": "Matti Luukkainen"
+    },
+    {
+      "name": "Department of Computer Science"
+    }
+  ]
+}

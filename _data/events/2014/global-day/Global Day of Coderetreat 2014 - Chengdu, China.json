@@ -1,0 +1,20 @@
+{
+  "datetime": "2014-11-15 09:00:00",
+  "title": "Global Day of Coderetreat 2014 - Chengdu, China",
+  "url": "",
+  "location": {
+    "city": "Chengdu",
+    "country": "China",
+    "timezone": "Asia/Shanghai",
+    "utcOffset": 8,
+    "coordinates": {
+      "latitude": 30.572815,
+      "longitude": 104.066801
+    }
+  },
+  "moderators": [
+    {
+      "name": "Qing Li"
+    }
+  ]
+}

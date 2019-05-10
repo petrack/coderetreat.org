@@ -1,0 +1,23 @@
+{
+  "datetime": "2014-11-15 09:00:00",
+  "title": "Global Day of Coderetreat 2014 - Riga, Latvia",
+  "url": "http://www.meetup.com/Latvian-Developers-Network/events/209047582/",
+  "location": {
+    "city": "Riga",
+    "country": "Latvia",
+    "timezone": "Europe/Riga",
+    "utcOffset": 3,
+    "coordinates": {
+      "latitude": 56.9496487,
+      "longitude": 24.1051864
+    }
+  },
+  "moderators": [
+    {
+      "name": "LDN"
+    },
+    {
+      "name": "Vladimir Tarasov"
+    }
+  ]
+}

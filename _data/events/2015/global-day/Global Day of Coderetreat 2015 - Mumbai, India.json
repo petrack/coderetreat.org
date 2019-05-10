@@ -1,0 +1,23 @@
+{
+  "datetime": "2015-11-14 09:00:00",
+  "title": "Global Day of Coderetreat 2015 - Mumbai, India",
+  "url": "https://www.google.co.in/maps/place/Direction+Software+Solutions/@19.0003931,72.8256203,17z/data=!3m1!4b1!4m2!3m1!1s0x3be7ce92ace6e44d:0xbcff0bf90fa4ae66",
+  "location": {
+    "city": "Mumbai",
+    "country": "India",
+    "timezone": "Asia/Calcutta",
+    "utcOffset": 5.5,
+    "coordinates": {
+      "latitude": 19.0759837,
+      "longitude": 72.8776559
+    }
+  },
+  "moderators": [
+    {
+      "name": "Talk to Mr. Laxmikant Purohit (L.PUROHIT@DIRECTION.BIZ)"
+    },
+    {
+      "name": "Dhaval Dalal"
+    }
+  ]
+}

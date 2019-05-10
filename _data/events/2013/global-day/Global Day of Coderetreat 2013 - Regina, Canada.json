@@ -1,0 +1,23 @@
+{
+  "datetime": "2013-12-14 09:00:00",
+  "title": "Global Day of Coderetreat 2013 - Regina, Canada",
+  "url": "https://coderetreatyqr2013.eventbrite.com/",
+  "location": {
+    "city": "Regina",
+    "country": "Canada",
+    "timezone": "America/Regina",
+    "utcOffset": -6,
+    "coordinates": {
+      "latitude": 50.4452112,
+      "longitude": -104.6188944
+    }
+  },
+  "moderators": [
+    {
+      "name": "Vili Bogdan"
+    },
+    {
+      "name": "Curtis Badke"
+    }
+  ]
+}

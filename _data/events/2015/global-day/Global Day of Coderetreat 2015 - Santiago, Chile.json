@@ -1,0 +1,23 @@
+{
+  "datetime": "2015-11-14 09:00:00",
+  "title": "Global Day of Coderetreat 2015 - Santiago, Chile",
+  "url": "https://www.google.com/maps/place/Av.+Apoquindo+4700,+Las+Condes,+Regi%C3%B3n+Metropolitana,+Chile/@-33.4124369,-70.5828108,17z/data=!3m1!4b1!4m2!3m1!1s0x9662cf22050497b1:0xc0cfbcec227d6fed",
+  "location": {
+    "city": "Santiago",
+    "country": "Chile",
+    "timezone": "America/Santiago",
+    "utcOffset": -3,
+    "coordinates": {
+      "latitude": -33.4488897,
+      "longitude": -70.6692655
+    }
+  },
+  "moderators": [
+    {
+      "name": "ChileAgil"
+    },
+    {
+      "name": "David Lay"
+    }
+  ]
+}

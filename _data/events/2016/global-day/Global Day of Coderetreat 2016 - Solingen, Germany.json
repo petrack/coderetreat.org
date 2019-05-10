@@ -1,0 +1,20 @@
+{
+  "datetime": "2016-10-22 09:00:00",
+  "title": "Global Day of Coderetreat 2016 - Solingen, Germany",
+  "url": "https://www.google.de/maps/place/codecentric+AG/@51.1614432,7.0082123,17z/data=!3m1!4b1!4m5!3m4!1s0x47b8d319af589df1:0xfca2efd9accd30d8!8m2!3d51.1614432!4d7.010401",
+  "location": {
+    "city": "Solingen",
+    "country": "Germany",
+    "timezone": "Europe/Berlin",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 51.17020720000001,
+      "longitude": 7.0831408
+    }
+  },
+  "moderators": [
+    {
+      "name": "Marco"
+    }
+  ]
+}

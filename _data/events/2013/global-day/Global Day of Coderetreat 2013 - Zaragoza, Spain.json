@@ -1,0 +1,23 @@
+{
+  "datetime": "2013-12-14 09:00:00",
+  "title": "Global Day of Coderetreat 2013 - Zaragoza, Spain",
+  "url": "https://www.google.es/maps/preview?ie=UTF-8&hl=es#!q=zaragoza&data=!1m4!1m3!1d14889!2d-0.9098912!3d41.6593021!4m15!2m14!1m13!1s0xd5914dd5e618e91%3A0x49df13f1158489a8!3m8!1m3!1d242682!2d-3.6795367!3d40.4378271!3m2!1i1680!2i959!4f13.1!4m2!3d41.6487908!4d-0.8895811",
+  "location": {
+    "city": "Zaragoza",
+    "country": "Spain",
+    "timezone": "Europe/Madrid",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 41.6488226,
+      "longitude": -0.8890853
+    }
+  },
+  "moderators": [
+    {
+      "name": "Agile Aragon"
+    },
+    {
+      "name": "Pedro Lafuente"
+    }
+  ]
+}

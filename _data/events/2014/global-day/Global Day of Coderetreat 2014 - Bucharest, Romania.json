@@ -1,0 +1,23 @@
+{
+  "datetime": "2014-11-15 09:00:00",
+  "title": "Global Day of Coderetreat 2014 - Bucharest, Romania",
+  "url": "https://www.google.com/maps/place/Bucharest+Tower+Center,+Bucharest,+Romania/@44.4545838,26.0812182,19z/data=!3m1!4b1!4m6!1m3!3m2!1s0x40b201ff739c45bb:0x34565390b4d78721!2sCegeka+Romania!3m1!1s0x40b202020c20f7b7:0x8cc9e48217930d73",
+  "location": {
+    "city": "Bucharest",
+    "country": "Romania",
+    "timezone": "Europe/Bucharest",
+    "utcOffset": 3,
+    "coordinates": {
+      "latitude": 44.4267674,
+      "longitude": 26.1025384
+    }
+  },
+  "moderators": [
+    {
+      "name": "Cegeka Romania"
+    },
+    {
+      "name": "Cristian Diaconescu"
+    }
+  ]
+}

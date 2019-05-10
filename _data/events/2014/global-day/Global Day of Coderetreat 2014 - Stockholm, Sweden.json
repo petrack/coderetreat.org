@@ -1,0 +1,20 @@
+{
+  "datetime": "2014-11-15 09:00:00",
+  "title": "Global Day of Coderetreat 2014 - Stockholm, Sweden",
+  "url": "http://www.meetup.com/Stockholm-Software-Craftsmanship/events/217117312/",
+  "location": {
+    "city": "Stockholm",
+    "country": "Sweden",
+    "timezone": "Europe/Stockholm",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 59.32932349999999,
+      "longitude": 18.0685808
+    }
+  },
+  "moderators": [
+    {
+      "name": "Thomas Sundberg"
+    }
+  ]
+}

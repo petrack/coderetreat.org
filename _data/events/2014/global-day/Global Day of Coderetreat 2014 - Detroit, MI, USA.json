@@ -1,0 +1,20 @@
+{
+  "datetime": "2014-11-15 09:00:00",
+  "title": "Global Day of Coderetreat 2014 - Detroit, MI, USA",
+  "url": "",
+  "location": {
+    "city": "Detroit, MI",
+    "country": "USA",
+    "timezone": "America/New_York",
+    "utcOffset": -4,
+    "coordinates": {
+      "latitude": 42.331427,
+      "longitude": -83.0457538
+    }
+  },
+  "moderators": [
+    {
+      "name": "Daniel Davis"
+    }
+  ]
+}

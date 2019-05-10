@@ -1,0 +1,20 @@
+{
+  "datetime": "2013-12-14 09:00:00",
+  "title": "Global Day of Coderetreat 2013 - Cleveland, OH, USA",
+  "url": "http://gdcrcle2013.eventbrite.com",
+  "location": {
+    "city": "Cleveland, OH",
+    "country": "USA",
+    "timezone": "America/New_York",
+    "utcOffset": -4,
+    "coordinates": {
+      "latitude": 41.49932,
+      "longitude": -81.6943605
+    }
+  },
+  "moderators": [
+    {
+      "name": "Joel Byler"
+    }
+  ]
+}

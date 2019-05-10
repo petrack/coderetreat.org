@@ -1,0 +1,23 @@
+{
+  "datetime": "2016-10-22 09:00:00",
+  "title": "Global Day of Coderetreat 2016 - Weinsberg, DE",
+  "url": "https://www.google.de/maps/place/Haller+Str.+60,+74189+Weinsberg/@49.1495198,9.2960471,17z/data=!3m1!4b1!4m5!3m4!1s0x47982ff94994ae21:0x3420196bfd770d05!8m2!3d49.1495163!4d9.2982358?hl=de",
+  "location": {
+    "city": "Weinsberg",
+    "country": "DE",
+    "timezone": "Europe/Berlin",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 49.1484633,
+      "longitude": 9.287265699999999
+    }
+  },
+  "moderators": [
+    {
+      "name": "Kaufland Informationssysteme GmbH"
+    },
+    {
+      "name": "Timo Haberkern"
+    }
+  ]
+}

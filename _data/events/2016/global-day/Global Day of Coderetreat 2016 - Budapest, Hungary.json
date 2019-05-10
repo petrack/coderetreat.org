@@ -1,0 +1,23 @@
+{
+  "datetime": "2016-10-22 09:00:00",
+  "title": "Global Day of Coderetreat 2016 - Budapest, Hungary",
+  "url": "https://www.google.hu/maps/place/Budapest,+Kossuth+Lajos+u.+9,+1053/@47.493667,19.0561446,17z/data=!3m1!4b1!4m5!3m4!1s0x4741dc439b8cb60b:0x8aa7821c409c147a!8m2!3d47.493667!4d19.0583333?hl=en",
+  "location": {
+    "city": "Budapest",
+    "country": "Hungary",
+    "timezone": "Europe/Budapest",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 47.497912,
+      "longitude": 19.040235
+    }
+  },
+  "moderators": [
+    {
+      "name": "Rafael Ordog"
+    },
+    {
+      "name": "Rafael Devill"
+    }
+  ]
+}

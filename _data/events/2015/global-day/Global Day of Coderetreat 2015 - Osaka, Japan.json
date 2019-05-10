@@ -1,0 +1,23 @@
+{
+  "datetime": "2015-11-14 09:00:00",
+  "title": "Global Day of Coderetreat 2015 - Osaka, Japan",
+  "url": "http://connpass.com/event/21175/",
+  "location": {
+    "city": "Osaka",
+    "country": "Japan",
+    "timezone": "Asia/Tokyo",
+    "utcOffset": 9,
+    "coordinates": {
+      "latitude": 34.6937378,
+      "longitude": 135.5021651
+    }
+  },
+  "moderators": [
+    {
+      "name": "Takuya Kawabe"
+    },
+    {
+      "name": "かわべ たくや"
+    }
+  ]
+}

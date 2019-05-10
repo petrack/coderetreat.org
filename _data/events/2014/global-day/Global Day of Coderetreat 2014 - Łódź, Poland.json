@@ -1,0 +1,20 @@
+{
+  "datetime": "2014-11-15 09:00:00",
+  "title": "Global Day of Coderetreat 2014 - Łódź, Poland",
+  "url": "",
+  "location": {
+    "city": "Łódź",
+    "country": "Poland",
+    "timezone": "Europe/Warsaw",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 51.7592485,
+      "longitude": 19.4559833
+    }
+  },
+  "moderators": [
+    {
+      "name": "Jug Łódź"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "datetime": "2015-11-14 09:00:00",
+  "title": "Global Day of Coderetreat 2015 - Olomouc, Czech Republic",
+  "url": "",
+  "location": {
+    "city": "Olomouc",
+    "country": "Czech Republic",
+    "timezone": "Europe/Prague",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 49.593778,
+      "longitude": 17.2508787
+    }
+  },
+  "moderators": [
+    {
+      "name": "Tomas Latal"
+    }
+  ]
+}

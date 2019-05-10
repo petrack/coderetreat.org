@@ -1,0 +1,29 @@
+{
+  "datetime": "2014-11-15 09:00:00",
+  "title": "Global Day of Coderetreat 2014 - Auckland, New Zealand",
+  "url": "http://www.meetup.com/kiwi-code-retreat",
+  "location": {
+    "city": "Auckland",
+    "country": "New Zealand",
+    "timezone": "Pacific/Auckland",
+    "utcOffset": 13,
+    "coordinates": {
+      "latitude": -36.8484597,
+      "longitude": 174.7633315
+    }
+  },
+  "moderators": [
+    {
+      "name": "Kalman Bekesi"
+    }
+  ]
+}aj"
+    },
+    {
+      "name": "Sebastian Belczyk"
+    },
+    {
+      "name": "Reuben Dunn"
+    }
+  ]
+}

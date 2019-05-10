@@ -1,0 +1,20 @@
+{
+  "datetime": "2014-11-15 09:00:00",
+  "title": "Global Day of Coderetreat 2014 - Pune, India",
+  "url": "https://www.google.com/maps/place/IDeaS+Revenue+Solutions/@18.566933,73.769663,17z/data=!3m1!4b1!4m7!1m4!3m3!1s0x3bc2beb53f754b4f:0x714dfa77f43bbb87!2sIDeaS+Revenue+Solutions!3b1!3m1!1s0x3bc2beb53f754b4f:0x714dfa77f43bbb87",
+  "location": {
+    "city": "Pune",
+    "country": "India",
+    "timezone": "Asia/Calcutta",
+    "utcOffset": 5.5,
+    "coordinates": {
+      "latitude": 18.5204303,
+      "longitude": 73.8567437
+    }
+  },
+  "moderators": [
+    {
+      "name": "Dhaval Dalal"
+    }
+  ]
+}

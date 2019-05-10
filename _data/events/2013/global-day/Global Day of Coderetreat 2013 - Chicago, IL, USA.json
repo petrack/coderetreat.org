@@ -1,0 +1,23 @@
+{
+  "datetime": "2013-12-14 09:00:00",
+  "title": "Global Day of Coderetreat 2013 - Chicago, IL, USA",
+  "url": "http://chicagogdcr13dbc.eventbrite.com/",
+  "location": {
+    "city": "Chicago, IL",
+    "country": "USA",
+    "timezone": "America/Chicago",
+    "utcOffset": -5,
+    "coordinates": {
+      "latitude": 41.8781136,
+      "longitude": -87.6297982
+    }
+  },
+  "moderators": [
+    {
+      "name": "Dev Bootcamp Instructors"
+    },
+    {
+      "name": "Tiffany Mikell"
+    }
+  ]
+}

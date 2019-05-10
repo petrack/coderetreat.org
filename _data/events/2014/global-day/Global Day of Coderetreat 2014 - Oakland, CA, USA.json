@@ -1,0 +1,20 @@
+{
+  "datetime": "2014-11-15 09:00:00",
+  "title": "Global Day of Coderetreat 2014 - Oakland, CA, USA",
+  "url": "http://www.eventbrite.com/e/oakland-gdcr-code-retreat-pair-program-hone-your-software-design-skills-tickets-13863264397",
+  "location": {
+    "city": "Oakland, CA",
+    "country": "USA",
+    "timezone": "America/Los_Angeles",
+    "utcOffset": -7,
+    "coordinates": {
+      "latitude": 37.8043637,
+      "longitude": -122.2711137
+    }
+  },
+  "moderators": [
+    {
+      "name": "Zee Spencer"
+    }
+  ]
+}

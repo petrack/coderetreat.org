@@ -1,0 +1,23 @@
+{
+  "datetime": "2016-10-22 09:00:00",
+  "title": "Global Day of Coderetreat 2016 - Milan, Italy",
+  "url": "",
+  "location": {
+    "city": "Milan",
+    "country": "Italy",
+    "timezone": "Europe/Rome",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 45.4654219,
+      "longitude": 9.1859243
+    }
+  },
+  "moderators": [
+    {
+      "name": "XPUG-MI"
+    },
+    {
+      "name": "Gabriele Tondi"
+    }
+  ]
+}

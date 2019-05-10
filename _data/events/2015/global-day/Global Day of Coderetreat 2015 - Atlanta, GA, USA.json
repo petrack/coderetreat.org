@@ -1,0 +1,23 @@
+{
+  "datetime": "2015-11-14 09:00:00",
+  "title": "Global Day of Coderetreat 2015 - Atlanta, GA, USA",
+  "url": "https://drive.google.com/file/d/0Bzbd_hqsXO-_WGhVSHM4VTQzNUU/view",
+  "location": {
+    "city": "Atlanta, GA",
+    "country": "USA",
+    "timezone": "America/New_York",
+    "utcOffset": -4,
+    "coordinates": {
+      "latitude": 33.7489954,
+      "longitude": -84.3879824
+    }
+  },
+  "moderators": [
+    {
+      "name": "Stafford Brooke"
+    },
+    {
+      "name": "Kylie Stradley"
+    }
+  ]
+}

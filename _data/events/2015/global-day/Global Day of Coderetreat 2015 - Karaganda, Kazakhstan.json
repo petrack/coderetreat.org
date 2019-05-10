@@ -1,0 +1,20 @@
+{
+  "datetime": "2015-11-14 09:00:00",
+  "title": "Global Day of Coderetreat 2015 - Karaganda, Kazakhstan",
+  "url": "http://www.epam.kz",
+  "location": {
+    "city": "Karaganda",
+    "country": "Kazakhstan",
+    "timezone": "Asia/Qyzylorda",
+    "utcOffset": 6,
+    "coordinates": {
+      "latitude": 49.8046835,
+      "longitude": 73.1093826
+    }
+  },
+  "moderators": [
+    {
+      "name": "Anuar Nurmakanov"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "datetime": "2015-11-14 09:00:00",
+  "title": "Global Day of Coderetreat 2015 - Gomel, Belarus",
+  "url": "https://events.epam.com/events/coderetreat-gomel",
+  "location": {
+    "city": "Gomel",
+    "country": "Belarus",
+    "timezone": "Europe/Minsk",
+    "utcOffset": 3,
+    "coordinates": {
+      "latitude": 52.4411761,
+      "longitude": 30.9878462
+    }
+  },
+  "moderators": [
+    {
+      "name": "Aliaksei Lud"
+    },
+    {
+      "name": "Alexei Lud"
+    }
+  ]
+}

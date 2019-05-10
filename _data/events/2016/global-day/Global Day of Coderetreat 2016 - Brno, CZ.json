@@ -1,0 +1,26 @@
+{
+  "datetime": "2016-10-22 09:00:00",
+  "title": "Global Day of Coderetreat 2016 - Brno, CZ",
+  "url": "",
+  "location": {
+    "city": "Brno",
+    "country": "CZ",
+    "timezone": "Europe/Prague",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 49.1950602,
+      "longitude": 16.6068371
+    }
+  },
+  "moderators": [
+    {
+      "name": "Vladimir Kopso"
+    },
+    {
+      "name": "Martin Spanko"
+    },
+    {
+      "name": "Jakub Fojtl"
+    }
+  ]
+}

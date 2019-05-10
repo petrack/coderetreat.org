@@ -1,0 +1,20 @@
+{
+  "datetime": "2013-12-14 09:00:00",
+  "title": "Global Day of Coderetreat 2013 - Cluj-Napoca, Romania",
+  "url": "http://www.rabs.ro",
+  "location": {
+    "city": "Cluj-Napoca",
+    "country": "Romania",
+    "timezone": "Europe/Bucharest",
+    "utcOffset": 3,
+    "coordinates": {
+      "latitude": 46.7712101,
+      "longitude": 23.6236353
+    }
+  },
+  "moderators": [
+    {
+      "name": "Florin Coros"
+    }
+  ]
+}

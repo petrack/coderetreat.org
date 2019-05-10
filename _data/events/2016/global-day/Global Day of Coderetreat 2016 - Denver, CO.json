@@ -1,0 +1,20 @@
+{
+  "datetime": "2016-10-22 09:00:00",
+  "title": "Global Day of Coderetreat 2016 - Denver, CO",
+  "url": "http://www.galvanize.com/campuses/denver-platte/",
+  "location": {
+    "city": "Denver",
+    "country": "CO",
+    "timezone": "America/Denver",
+    "utcOffset": -6,
+    "coordinates": {
+      "latitude": 39.7392358,
+      "longitude": -104.990251
+    }
+  },
+  "moderators": [
+    {
+      "name": "Roberto Ortega"
+    }
+  ]
+}

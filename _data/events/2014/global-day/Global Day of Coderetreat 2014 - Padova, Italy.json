@@ -1,0 +1,20 @@
+{
+  "datetime": "2014-11-15 09:00:00",
+  "title": "Global Day of Coderetreat 2014 - Padova, Italy",
+  "url": "https://www.eventbrite.it/e/biglietti-global-day-of-coderetreat-2014-padova-13254776393",
+  "location": {
+    "city": "Padova",
+    "country": "Italy",
+    "timezone": "Europe/Rome",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 45.4064349,
+      "longitude": 11.8767611
+    }
+  },
+  "moderators": [
+    {
+      "name": "Francesco Levorato"
+    }
+  ]
+}

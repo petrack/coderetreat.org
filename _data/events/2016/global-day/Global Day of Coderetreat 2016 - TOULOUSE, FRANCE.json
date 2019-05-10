@@ -1,0 +1,23 @@
+{
+  "datetime": "2016-10-22 09:00:00",
+  "title": "Global Day of Coderetreat 2016 - TOULOUSE, FRANCE",
+  "url": "https://www.meetup.com/fr-FR/Software-Craftsmanship-Toulouse/events/234434540/",
+  "location": {
+    "city": "TOULOUSE",
+    "country": "FRANCE",
+    "timezone": "Europe/Paris",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 43.604652,
+      "longitude": 1.444209
+    }
+  },
+  "moderators": [
+    {
+      "name": "Antoine Cezar"
+    },
+    {
+      "name": "Ludo Pradel"
+    }
+  ]
+}

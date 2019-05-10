@@ -1,0 +1,20 @@
+{
+  "datetime": "2014-11-15 09:00:00",
+  "title": "Global Day of Coderetreat 2014 - Gdańsk, Poland",
+  "url": "",
+  "location": {
+    "city": "Gdańsk",
+    "country": "Poland",
+    "timezone": "Europe/Warsaw",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 54.35202520000001,
+      "longitude": 18.6466384
+    }
+  },
+  "moderators": [
+    {
+      "name": "Kuba Marchwicki"
+    }
+  ]
+}

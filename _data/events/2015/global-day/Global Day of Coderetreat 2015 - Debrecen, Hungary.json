@@ -1,0 +1,23 @@
+{
+  "datetime": "2015-11-14 09:00:00",
+  "title": "Global Day of Coderetreat 2015 - Debrecen, Hungary",
+  "url": "",
+  "location": {
+    "city": "Debrecen",
+    "country": "Hungary",
+    "timezone": "Europe/Budapest",
+    "utcOffset": 2,
+    "coordinates": {
+      "latitude": 47.5316049,
+      "longitude": 21.6273123
+    }
+  },
+  "moderators": [
+    {
+      "name": "Epam Systems"
+    },
+    {
+      "name": "Bertalan Kis"
+    }
+  ]
+}

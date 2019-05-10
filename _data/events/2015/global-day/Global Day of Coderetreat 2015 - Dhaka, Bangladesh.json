@@ -1,0 +1,20 @@
+{
+  "datetime": "2015-11-14 09:00:00",
+  "title": "Global Day of Coderetreat 2015 - Dhaka, Bangladesh",
+  "url": "https://goo.gl/maps/CGKD8rJGXZz",
+  "location": {
+    "city": "Dhaka",
+    "country": "Bangladesh",
+    "timezone": "Asia/Dhaka",
+    "utcOffset": 6,
+    "coordinates": {
+      "latitude": 23.810332,
+      "longitude": 90.4125181
+    }
+  },
+  "moderators": [
+    {
+      "name": "Wasik Mursalin"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "datetime": "2013-12-14 09:00:00",
+  "title": "Global Day of Coderetreat 2013 - Bangkok, Thailand",
+  "url": "http://www.sprint3r.com",
+  "location": {
+    "city": "Bangkok",
+    "country": "Thailand",
+    "timezone": "Asia/Bangkok",
+    "utcOffset": 7,
+    "coordinates": {
+      "latitude": 13.7563309,
+      "longitude": 100.5017651
+    }
+  },
+  "moderators": [
+    {
+      "name": "Twin Panichsombat"
+    }
+  ]
+}

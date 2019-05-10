@@ -1,0 +1,3 @@
+---
+---
+{{ site.data.events['2013'].coderetreats | jsonify }}

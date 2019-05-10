@@ -1,0 +1,35 @@
+{
+  "datetime": "2015-11-14 09:00:00",
+  "title": "Global Day of Coderetreat 2015 - Bogotá, Colombia",
+  "url": "http://archive.coderetreat.org/profiles/blogs/ready-for-the-2015-global-edition",
+  "location": {
+    "city": "Bogotá",
+    "country": "Colombia",
+    "timezone": "America/Bogota",
+    "utcOffset": -5,
+    "coordinates": {
+      "latitude": 4.710988599999999,
+      "longitude": -74.072092
+    }
+  },
+  "moderators": [
+    {
+      "name": "Carlos Obreg&oacute;n"
+    },
+    {
+      "name": "Yamit Cardenas"
+    },
+    {
+      "name": "Sebastian Ortiz V"
+    },
+    {
+      "name": "Omar Duque"
+    },
+    {
+      "name": "Stella Miranda"
+    },
+    {
+      "name": "Sebastian Ortiz V."
+    }
+  ]
+}

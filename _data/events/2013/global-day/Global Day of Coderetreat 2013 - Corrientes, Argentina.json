@@ -1,0 +1,35 @@
+{
+  "datetime": "2013-12-14 09:00:00",
+  "title": "Global Day of Coderetreat 2013 - Corrientes, Argentina",
+  "url": "https://eventioz.com.ar/coderetreat-corrientes",
+  "location": {
+    "city": "Corrientes",
+    "country": "Argentina",
+    "timezone": "America/Cordoba",
+    "utcOffset": -3,
+    "coordinates": {
+      "latitude": -27.4692131,
+      "longitude": -58.8306349
+    }
+  },
+  "moderators": [
+    {
+      "name": "Comunidad TIC"
+    },
+    {
+      "name": "NEA Valley"
+    },
+    {
+      "name": "PoloIT Chaco"
+    },
+    {
+      "name": "NEAExtends"
+    },
+    {
+      "name": "GDG Corrientes."
+    },
+    {
+      "name": "Matias Mascazzini"
+    }
+  ]
+}
